@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) -  (today)
 - [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器 (1 day ago)
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (2 days ago)
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (6 days ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (2 weeks ago)
-- [lewiszlw/notebooks](https://github.com/lewiszlw/notebooks) - 存放学习笔记、写过的博客等~ (3 months ago)
 
 #### 🌱 Check out my recent projects
 
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - 
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法
 - [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器
 - [lewiszlw/hello-algorithms](https://github.com/lewiszlw/hello-algorithms) - Learning algorithms and data structures.
 - [lewiszlw/tank](https://github.com/lewiszlw/tank) - 
-- [lewiszlw/sso](https://github.com/lewiszlw/sso) - sso &#43; oauth 单点登录 和 开放授权
 
 #### 🔨 Check out my recent pull requests
 
