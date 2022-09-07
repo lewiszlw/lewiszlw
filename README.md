@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) -  (today)
-- [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器 (1 day ago)
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (2 days ago)
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (6 days ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) -  (1 day ago)
+- [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器 (2 days ago)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (3 days ago)
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (1 week ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (2 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -25,7 +25,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (6 days ago)
+- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (1 week ago)
 - [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (1 week ago)
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (3 weeks ago)
 - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - rust awesome. 💥 (1 month ago)
