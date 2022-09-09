@@ -2,6 +2,8 @@
 
 💬 Wechat: wx597422850
 
+:page_facing_up: Resume: [英文TODO](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_EN.md) | [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
