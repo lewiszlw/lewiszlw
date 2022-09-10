@@ -7,14 +7,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (today)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) -  (4 days ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (4 days ago)
 - [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器 (5 days ago)
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (1 week ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - 
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法
 - [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器
 - [lewiszlw/hello-algorithms](https://github.com/lewiszlw/hello-algorithms) - Learning algorithms and data structures.
@@ -22,6 +22,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add lewiszlw/raft to implementation.json](https://github.com/raft/raft.github.io/pull/178) on [raft/raft.github.io](https://github.com/raft/raft.github.io) (today)
 - [Correct translation of `specifically` word](https://github.com/maemual/raft-zh_cn/pull/96) on [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) (2 weeks ago)
 - [Fix connection status overwritten issue](https://github.com/aliyun/alibabacloud-nls-cpp-sdk/pull/11) on [aliyun/alibabacloud-nls-cpp-sdk](https://github.com/aliyun/alibabacloud-nls-cpp-sdk) (2 months ago)
 
