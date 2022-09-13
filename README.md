@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (today)
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (3 days ago)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (3 days ago)
 - [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 week ago)
 - [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器 (1 week ago)
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
