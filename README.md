@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (6 days ago)
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (2 weeks ago)
 - [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (2 weeks ago)
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 month ago)
-- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - rust awesome. 💥 (1 month ago)
