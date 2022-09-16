@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd) - 《Flutter实战 第二版》- 书稿（未完成） (today)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 week ago)
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (2 weeks ago)
 - [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (2 weeks ago)
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 month ago)
