@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 day ago)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) -  (3 days ago)
-- [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器 (4 days ago)
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (1 week ago)
-- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (3 weeks ago)
+- [lewiszlw/notebooks](https://github.com/lewiszlw/notebooks) - 存放学习笔记、写过的博客等~ (1 day ago)
+- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (2 days ago)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (6 days ago)
+- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (6 days ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - 
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法
 - [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - Tiny http server implemented in C.  C语言实现的简单http服务器
 - [lewiszlw/hello-algorithms](https://github.com/lewiszlw/hello-algorithms) - Learning algorithms and data structures.
@@ -22,13 +22,14 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Correct translation of `specifically` word](https://github.com/maemual/raft-zh_cn/pull/96) on [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) (1 week ago)
+- [Add lewiszlw/raft to implementation.json](https://github.com/raft/raft.github.io/pull/178) on [raft/raft.github.io](https://github.com/raft/raft.github.io) (6 days ago)
+- [Correct translation of `specifically` word](https://github.com/maemual/raft-zh_cn/pull/96) on [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) (2 weeks ago)
 - [Fix connection status overwritten issue](https://github.com/aliyun/alibabacloud-nls-cpp-sdk/pull/11) on [aliyun/alibabacloud-nls-cpp-sdk](https://github.com/aliyun/alibabacloud-nls-cpp-sdk) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (today)
-- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (1 week ago)
-- [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (1 week ago)
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (3 weeks ago)
-- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - rust awesome. 💥 (1 month ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 week ago)
+- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (2 weeks ago)
+- [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (2 weeks ago)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 month ago)
