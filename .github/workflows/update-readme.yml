@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 0 * * *" # 北京时间8点
 
 jobs:
   markscribe:
