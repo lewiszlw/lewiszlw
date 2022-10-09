@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 day ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (2 days ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (1 week ago)
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 week ago)
 - [lewiszlw/notebooks](https://github.com/lewiszlw/notebooks) - 存放学习笔记、写过的博客等~ (1 week ago)
@@ -29,7 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 day ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (2 days ago)
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (2 weeks ago)
