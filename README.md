@@ -4,6 +4,8 @@
 
 :page_facing_up: Resume: [英文TODO](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_EN.md) | [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiszlw&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 👷 Check out what I'm currently working on
 
 - [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 day ago)
@@ -22,11 +24,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix getting wrong tab when opening more than one window](https://github.com/adamalton/cookie-cutter/pull/1) on [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) (today)
 - [Update nestedscrollview.md](https://github.com/flutterchina/flutter_in_action_2nd/pull/164) on [flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd) (3 days ago)
 - [Update img_and_icon.md](https://github.com/flutterchina/flutter_in_action_2nd/pull/161) on [flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd) (2 weeks ago)
 - [Add lewiszlw/raft to implementation.json](https://github.com/raft/raft.github.io/pull/178) on [raft/raft.github.io](https://github.com/raft/raft.github.io) (1 month ago)
 - [Correct translation of `specifically` word](https://github.com/maemual/raft-zh_cn/pull/96) on [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) (1 month ago)
-- [Fix connection status overwritten issue](https://github.com/aliyun/alibabacloud-nls-cpp-sdk/pull/11) on [aliyun/alibabacloud-nls-cpp-sdk](https://github.com/aliyun/alibabacloud-nls-cpp-sdk) (3 months ago)
 
 #### ⭐ Check out my recent stars
 
