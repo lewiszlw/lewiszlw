@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (5 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (6 days ago)
 - [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (1 week ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (2 weeks ago)
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (2 weeks ago)
-- [lewiszlw/notebooks](https://github.com/lewiszlw/notebooks) - 存放学习笔记、写过的博客等~ (3 weeks ago)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -24,15 +24,15 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Merged by Bors] - Rename example file scaling.rs to ui_scaling.rs](https://github.com/bevyengine/bevy/pull/6296) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
 - [Fix getting wrong tab when opening more than one window](https://github.com/adamalton/cookie-cutter/pull/1) on [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) (1 week ago)
 - [Update nestedscrollview.md](https://github.com/flutterchina/flutter_in_action_2nd/pull/164) on [flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd) (1 week ago)
 - [Update img_and_icon.md](https://github.com/flutterchina/flutter_in_action_2nd/pull/161) on [flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd) (3 weeks ago)
 - [Add lewiszlw/raft to implementation.json](https://github.com/raft/raft.github.io/pull/178) on [raft/raft.github.io](https://github.com/raft/raft.github.io) (1 month ago)
-- [Correct translation of `specifically` word](https://github.com/maemual/raft-zh_cn/pull/96) on [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine (6 days ago)
+- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine (1 week ago)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (1 week ago)
 - [ykalayy/esl-client](https://github.com/ykalayy/esl-client) - A Fork from http://git.freeswitch.org/git/freeswitch-contrib/tree/dvarnes/java/esl-client (1 week ago)
 - [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 week ago)
