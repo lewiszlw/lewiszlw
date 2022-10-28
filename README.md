@@ -9,9 +9,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 week ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (2 weeks ago)
 - [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (2 weeks ago)
-- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (3 weeks ago)
+- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (4 weeks ago)
 - [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (4 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -35,5 +35,5 @@
 - [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine (2 weeks ago)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (2 weeks ago)
 - [ykalayy/esl-client](https://github.com/ykalayy/esl-client) - A Fork from http://git.freeswitch.org/git/freeswitch-contrib/tree/dvarnes/java/esl-client (2 weeks ago)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (2 weeks ago)
-- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (4 weeks ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (3 weeks ago)
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (1 month ago)
