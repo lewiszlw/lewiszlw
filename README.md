@@ -12,7 +12,7 @@
 - [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (2 weeks ago)
 - [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) - A Chrome extension to let you easiliy copy your cookie from any website (2 weeks ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (4 weeks ago)
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (4 weeks ago)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 month ago)
 
 #### 🌱 Check out my recent projects
 
