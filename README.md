@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications (3 weeks ago)
@@ -32,7 +32,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [IyesGames/iyes_loopless](https://github.com/IyesGames/iyes_loopless) - Alternatives to Bevy States, FixedTimestep, Run Criteria, that do not use &#34;stage looping&#34; and are composable (2 days ago)
+- [IyesGames/iyes_loopless](https://github.com/IyesGames/iyes_loopless) - Alternatives to Bevy States, FixedTimestep, Run Criteria, that do not use &#34;stage looping&#34; and are composable (3 days ago)
 - [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine (1 month ago)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (1 month ago)
 - [ykalayy/esl-client](https://github.com/ykalayy/esl-client) - A Fork from http://git.freeswitch.org/git/freeswitch-contrib/tree/dvarnes/java/esl-client (1 month ago)
