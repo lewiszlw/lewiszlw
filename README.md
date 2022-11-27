@@ -12,7 +12,7 @@
 - [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications (3 weeks ago)
-- [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - Classical 2d tank war game made with bevy (3 weeks ago)
+- [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - Classical 2d tank war game made with bevy (4 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -24,7 +24,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Merged by Bors] - Make WindowId::primary() const](https://github.com/bevyengine/bevy/pull/6582) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
+- [[Merged by Bors] - Make WindowId::primary() const](https://github.com/bevyengine/bevy/pull/6582) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Correct repo links](https://github.com/jakobhellermann/bevy_editor_pls/pull/45) on [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) (3 weeks ago)
 - [[Merged by Bors] - Rename example file scaling.rs to ui_scaling.rs](https://github.com/bevyengine/bevy/pull/6296) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Fix getting wrong tab when opening more than one window](https://github.com/adamalton/cookie-cutter/pull/1) on [adamalton/cookie-cutter](https://github.com/adamalton/cookie-cutter) (1 month ago)
@@ -32,8 +32,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [IyesGames/iyes_loopless](https://github.com/IyesGames/iyes_loopless) - Alternatives to Bevy States, FixedTimestep, Run Criteria, that do not use &#34;stage looping&#34; and are composable (4 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [IyesGames/iyes_loopless](https://github.com/IyesGames/iyes_loopless) - Alternatives to Bevy States, FixedTimestep, Run Criteria, that do not use &#34;stage looping&#34; and are composable (5 days ago)
 - [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine (1 month ago)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (1 month ago)
 - [ykalayy/esl-client](https://github.com/ykalayy/esl-client) - A Fork from http://git.freeswitch.org/git/freeswitch-contrib/tree/dvarnes/java/esl-client (1 month ago)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 month ago)
