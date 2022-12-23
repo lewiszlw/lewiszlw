@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/website](https://github.com/NightsWatchGames/website) - The source files for the official website. (1 day ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
-- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (6 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 day ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 day ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [lewiszlw/hello-world](https://github.com/lewiszlw/hello-world) - Demos in learning program languages, libraries and frameworks. 学习编程语言、库和框架的示例实现。 (1 week ago)
 - [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - Classical 2d tank war game made with bevy (2 weeks ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
+- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (1 day ago)
+- [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Unofficial 3D mouse picking plugin for Bevy (1 day ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (3 days ago)
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC (2 weeks ago)
 - [kurtkuehnert/bevy_terrain](https://github.com/kurtkuehnert/bevy_terrain) - A terrain rendering plugin for the bevy game engine. (3 weeks ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 weeks ago)
-- [IyesGames/iyes_loopless](https://github.com/IyesGames/iyes_loopless) - Alternatives to Bevy States, FixedTimestep, Run Criteria, that do not use &#34;stage looping&#34; and are composable (1 month ago)
