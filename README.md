@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 days ago)
-- [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - Classical 2d tank war game made with bevy (2 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (4 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (4 days ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (4 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
+- [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - Classical 2d tank war game made with bevy (3 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (5 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -32,8 +32,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 days ago)
-- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (4 days ago)
-- [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Unofficial 3D mouse picking plugin for Bevy (4 days ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (6 days ago)
+- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (2 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
+- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (5 days ago)
+- [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Unofficial 3D mouse picking plugin for Bevy (5 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
