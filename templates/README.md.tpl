@@ -2,7 +2,9 @@
 
 💬 Wechat: wx597422850
 
-:page_facing_up: Resume: [英文TODO](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_EN.md) | [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
+🦣 Mastodon: [@lewiszlw@mastodon.world](https://mastodon.world/@lewiszlw)
+
+📄 Resume: [英文TODO](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_EN.md) | [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiszlw&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
