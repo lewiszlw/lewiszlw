@@ -11,10 +11,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Play ball on screens. (today)
-- [lewiszlw/notebooks](https://github.com/lewiszlw/notebooks) - 存放学习笔记、写过的博客等~ (1 day ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 days ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (3 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (3 days ago)
+- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (1 day ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 day ago)
+- [lewiszlw/notebooks](https://github.com/lewiszlw/notebooks) - 存放学习笔记、写过的博客等~ (2 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (1 day ago)
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (2 days ago)
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (1 week ago)
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (1 week ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
-- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (1 week ago)
+- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (2 weeks ago)
