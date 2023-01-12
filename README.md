@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (2 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 days ago)
-- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (1 week ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (today)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -27,11 +27,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Expose propagate_transforms system](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
-- [Fix clippy issue for benches crate](https://github.com/bevyengine/bevy/pull/6806) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
+- [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
+- [[Merged by Bors] - Expose transform propagate systems](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
+- [[Merged by Bors] - Fix clippy issue for benches crate](https://github.com/bevyengine/bevy/pull/6806) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [[Merged by Bors] - Register Hash for glam types](https://github.com/bevyengine/bevy/pull/6786) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
-- [[Merged by Bors] - Make WindowId::primary() const](https://github.com/bevyengine/bevy/pull/6582) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
-- [Correct repo links](https://github.com/jakobhellermann/bevy_editor_pls/pull/45) on [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) (2 months ago)
+- [[Merged by Bors] - Make WindowId::primary() const](https://github.com/bevyengine/bevy/pull/6582) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 months ago)
 
 #### ⭐ Check out my recent stars
 
@@ -39,4 +39,4 @@
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (2 weeks ago)
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (2 weeks ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
-- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (2 weeks ago)
+- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy (3 weeks ago)
