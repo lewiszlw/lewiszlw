@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (today)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 day ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (1 day ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (3 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -27,8 +27,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
-- [[Merged by Bors] - Expose transform propagate systems](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
+- [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
+- [[Merged by Bors] - Expose transform propagate systems](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 days ago)
 - [[Merged by Bors] - Fix clippy issue for benches crate](https://github.com/bevyengine/bevy/pull/6806) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [[Merged by Bors] - Register Hash for glam types](https://github.com/bevyengine/bevy/pull/6786) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [[Merged by Bors] - Make WindowId::primary() const](https://github.com/bevyengine/bevy/pull/6582) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 months ago)
