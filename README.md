@@ -11,9 +11,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (4 days ago)
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (5 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (1 day ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (6 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 
@@ -27,7 +27,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
+- [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [[Merged by Bors] - Expose transform propagate systems](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [[Merged by Bors] - Fix clippy issue for benches crate](https://github.com/bevyengine/bevy/pull/6806) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [[Merged by Bors] - Register Hash for glam types](https://github.com/bevyengine/bevy/pull/6786) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
@@ -35,8 +35,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [nashaofu/display-info](https://github.com/nashaofu/display-info) - Cross-platform get display info for MacOS、Windows、Linux, Like electron Display Object. (4 days ago)
+- [nashaofu/display-info](https://github.com/nashaofu/display-info) - Cross-platform get display info for MacOS、Windows、Linux, Like electron Display Object. (5 days ago)
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (2 weeks ago)
-- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (2 weeks ago)
+- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (3 weeks ago)
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (3 weeks ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 weeks ago)
