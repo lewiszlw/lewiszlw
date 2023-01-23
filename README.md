@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (4 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (5 days ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -35,8 +35,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (4 days ago)
+- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (2 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (5 days ago)
 - [nashaofu/display-info](https://github.com/nashaofu/display-info) - Cross-platform get display info for MacOS、Windows、Linux, Like electron Display Object. (1 week ago)
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (2 weeks ago)
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (4 weeks ago)
