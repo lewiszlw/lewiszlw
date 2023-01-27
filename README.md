@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 days ago)
-- [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) - A listing of Bevy community members which is displayed on the Bevy website (3 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (4 days ago)
+- [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) - A listing of Bevy community members which is displayed on the Bevy website (4 days ago)
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (1 week ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 weeks ago)
@@ -27,16 +27,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (3 days ago)
-- [[Merged by Bors] - Rename dynamic feature](https://github.com/bevyengine/bevy/pull/7340) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 days ago)
+- [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (4 days ago)
+- [[Merged by Bors] - Rename dynamic feature](https://github.com/bevyengine/bevy/pull/7340) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 days ago)
 - [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [[Merged by Bors] - Expose transform propagate systems](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [[Merged by Bors] - Fix clippy issue for benches crate](https://github.com/bevyengine/bevy/pull/6806) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [Dominux/DGS](https://github.com/Dominux/DGS) - Go Server with spherical fields and VR support (3 days ago)
-- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (5 days ago)
+- [Dominux/DGS](https://github.com/Dominux/DGS) - Go Server with spherical fields and VR support (4 days ago)
+- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (6 days ago)
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (1 week ago)
-- [nashaofu/display-info](https://github.com/nashaofu/display-info) - Cross-platform get display info for MacOS、Windows、Linux, Like electron Display Object. (1 week ago)
+- [nashaofu/display-info](https://github.com/nashaofu/display-info) - Cross-platform get display info for MacOS、Windows、Linux, Like electron Display Object. (2 weeks ago)
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (3 weeks ago)
