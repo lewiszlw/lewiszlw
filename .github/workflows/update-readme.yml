@@ -29,7 +29,8 @@ jobs:
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
 
+      # TODO 待替换 https://github.com/jamesgeorge007/github-activity-readme
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: gyan0621/github-activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
