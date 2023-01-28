@@ -17,14 +17,6 @@
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 weeks ago)
 
-#### 🌱 Check out my recent projects
-
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法
-- [lewiszlw/tinyhttpd](https://github.com/lewiszlw/tinyhttpd) - [WIP] Tiny http server implemented in C.  C语言实现的简单http服务器
-- [lewiszlw/hello-algorithms](https://github.com/lewiszlw/hello-algorithms) - Learning algorithms and data structures.
-- [lewiszlw/sso](https://github.com/lewiszlw/sso) - sso &#43; oauth 单点登录 和 开放授权
-
 #### 🔨 Check out my recent pull requests
 
 - [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (5 days ago)
