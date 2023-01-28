@@ -31,6 +31,6 @@ jobs:
 
       # TODO 待替换 https://github.com/jamesgeorge007/github-activity-readme
       - uses: actions/checkout@v2
-      - uses: gyan0621/github-activity@master
+      - uses: g0621/github-activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
