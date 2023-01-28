@@ -17,10 +17,6 @@
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (1 week ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
 
-#### ⚡ Check out my recent activity
-
-
-
 #### 🔨 Check out my recent pull requests
 
 - [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (5 days ago)
