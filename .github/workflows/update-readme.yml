@@ -28,14 +28,3 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
-
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      # TODO 待替换 https://github.com/jamesgeorge007/github-activity-readme
-      - uses: actions/checkout@master
-      - uses: iamgojoof6eyes/github-activity-readme@patch-1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

@@ -14,10 +14,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### ⚡ Check out my recent activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
