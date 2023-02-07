@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - [WIP] 3D wechat jump-jump game made with bevy engine. (1 day ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (5 days ago)
-- [NightsWatchGames/spacewar](https://github.com/NightsWatchGames/spacewar) - [WIP] The world&#39;s first video game. (5 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - [WIP] 3D wechat jump-jump game made with bevy engine. (today)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (4 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (5 days ago)
+- [NightsWatchGames/spacewar](https://github.com/NightsWatchGames/spacewar) - [WIP] The world&#39;s first video game. (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
+- [[Merged by Bors] - Rename schedule v3 to schedule](https://github.com/bevyengine/bevy/pull/7519) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
 - [Update entrypoint.sh to add safe.directory](https://github.com/shalzz/zola-deploy-action/pull/51) on [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) (1 week ago)
 - [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (2 weeks ago)
 - [[Merged by Bors] - Rename dynamic feature](https://github.com/bevyengine/bevy/pull/7340) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [[Merged by Bors] - Fix beta clippy lints](https://github.com/bevyengine/bevy/pull/7154) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
-- [[Merged by Bors] - Expose transform propagate systems](https://github.com/bevyengine/bevy/pull/7145) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [kunieone/tetris_rs](https://github.com/kunieone/tetris_rs) -  (3 days ago)
-- [Ganitzsh/snake](https://github.com/Ganitzsh/snake) - Just a snake game in Rust using the Bevy engine (6 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - [WIP] 3D wechat jump-jump game made with bevy engine. (1 day ago)
+- [kunieone/tetris_rs](https://github.com/kunieone/tetris_rs) -  (4 days ago)
+- [Ganitzsh/snake](https://github.com/Ganitzsh/snake) - Just a snake game in Rust using the Bevy engine (1 week ago)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (1 week ago)
 - [Dominux/DGS](https://github.com/Dominux/DGS) - Go Server with spherical fields and VR support (2 weeks ago)
-- [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine (2 weeks ago)
