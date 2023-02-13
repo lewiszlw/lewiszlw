@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (3 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (3 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (3 days ago)
-- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (5 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (4 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (4 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (4 days ago)
+- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (6 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix ecs_guide example](https://github.com/bevyengine/bevy/pull/7566) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 days ago)
-- [[Merged by Bors] - Rename schedule v3 to schedule](https://github.com/bevyengine/bevy/pull/7519) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
-- [Update entrypoint.sh to add safe.directory](https://github.com/shalzz/zola-deploy-action/pull/51) on [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) (1 week ago)
-- [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (2 weeks ago)
-- [[Merged by Bors] - Rename dynamic feature](https://github.com/bevyengine/bevy/pull/7340) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
+- [Fix ecs_guide example](https://github.com/bevyengine/bevy/pull/7566) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (5 days ago)
+- [[Merged by Bors] - Rename schedule v3 to schedule](https://github.com/bevyengine/bevy/pull/7519) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
+- [Update entrypoint.sh to add safe.directory](https://github.com/shalzz/zola-deploy-action/pull/51) on [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) (2 weeks ago)
+- [[Merged by Bors] - Create lewiszlw.toml](https://github.com/bevyengine/bevy-community/pull/43) on [bevyengine/bevy-community](https://github.com/bevyengine/bevy-community) (3 weeks ago)
+- [[Merged by Bors] - Rename dynamic feature](https://github.com/bevyengine/bevy/pull/7340) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (4 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (6 days ago)
+- [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (5 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 week ago)
 - [kunieone/tetris_rs](https://github.com/kunieone/tetris_rs) -  (1 week ago)
 - [Ganitzsh/snake](https://github.com/Ganitzsh/snake) - Just a snake game in Rust using the Bevy engine (1 week ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (1 week ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (2 weeks ago)
