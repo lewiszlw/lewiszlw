@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (today)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (5 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (5 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (5 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (6 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (6 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [[Merged by Bors] - Derive Debug for State and NextState](https://github.com/bevyengine/bevy/pull/7651) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
-- [Keep `async-channel` version same](https://github.com/bevyengine/bevy/pull/7648) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
-- [Fix ecs_guide example](https://github.com/bevyengine/bevy/pull/7566) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
+- [Add OnPreUpdate and OnPostUpdate](https://github.com/bevyengine/bevy/pull/7673) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
+- [[Merged by Bors] - Derive Debug for State and NextState](https://github.com/bevyengine/bevy/pull/7651) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
+- [Keep `async-channel` version same](https://github.com/bevyengine/bevy/pull/7648) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
+- [Fix ecs_guide example](https://github.com/bevyengine/bevy/pull/7566) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [[Merged by Bors] - Rename schedule v3 to schedule](https://github.com/bevyengine/bevy/pull/7519) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
-- [Update entrypoint.sh to add safe.directory](https://github.com/shalzz/zola-deploy-action/pull/51) on [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (6 days ago)
+- [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine. (1 day ago)
+- [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (1 week ago)
 - [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 week ago)
 - [kunieone/tetris_rs](https://github.com/kunieone/tetris_rs) -  (1 week ago)
 - [Ganitzsh/snake](https://github.com/Ganitzsh/snake) - Just a snake game in Rust using the Bevy engine (2 weeks ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (2 weeks ago)
