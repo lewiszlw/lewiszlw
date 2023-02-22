@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (today)
+- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (today)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (1 day ago)
 - [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - [WIP] Classical 2d tank war game made with bevy (1 day ago)
-- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (1 day ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (4 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (5 days ago)
-- [bevy-cn/official-book](https://github.com/bevy-cn/official-book) - 等待官方book完善 (6 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [[Merged by Bors] - Add quad to 2d_shapes example](https://github.com/bevyengine/bevy/pull/7708) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (5 days ago)
+- [[Merged by Bors] - Add quad to 2d_shapes example](https://github.com/bevyengine/bevy/pull/7708) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
 - [Add OnPreUpdate and OnPostUpdate](https://github.com/bevyengine/bevy/pull/7673) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [[Merged by Bors] - Derive Debug for State and NextState](https://github.com/bevyengine/bevy/pull/7651) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [Keep `async-channel` version same](https://github.com/bevyengine/bevy/pull/7648) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
-- [Fix ecs_guide example](https://github.com/bevyengine/bevy/pull/7566) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
+- [Fix ecs_guide example](https://github.com/bevyengine/bevy/pull/7566) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (2 days ago)
-- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library (6 days ago)
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance Rust-powered layout library (1 day ago)
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (3 days ago)
+- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library (1 week ago)
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine. (1 week ago)
-- [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (1 week ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 weeks ago)
+- [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (2 weeks ago)
