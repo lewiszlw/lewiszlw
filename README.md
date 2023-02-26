@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (1 day ago)
-- [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - [WIP] Classical 2d tank war game made with bevy (1 day ago)
-- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (2 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
-- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (3 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (2 days ago)
+- [NightsWatchGames/tank-war](https://github.com/NightsWatchGames/tank-war) - [WIP] Classical 2d tank war game made with bevy (2 days ago)
+- [lewiszlw/raft](https://github.com/lewiszlw/raft) - Raft consensus alogorithm implemented in Rust.  Rust 实现 Raft 共识算法 (3 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
+- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (4 days ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance Rust-powered layout library (4 days ago)
-- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (6 days ago)
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance Rust-powered layout library (5 days ago)
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (1 week ago)
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library (1 week ago)
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine. (1 week ago)
 - [cryscan/summer-jam](https://github.com/cryscan/summer-jam) - Pong but has gravity. (2 weeks ago)
