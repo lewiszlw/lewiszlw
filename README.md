@@ -12,23 +12,23 @@
 #### 👷 Check out what I'm currently working on
 
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - [WIP] Classical battle-city game made with bevy (today)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 days ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (5 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (6 days ago)
-- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (6 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (6 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Register missing types in bevy_window](https://github.com/bevyengine/bevy/pull/7993) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (5 days ago)
-- [Improve window cursor usability](https://github.com/bevyengine/bevy/pull/7968) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
-- [Set cursor hittest during window creation](https://github.com/bevyengine/bevy/pull/7966) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
+- [Register missing types in bevy_window](https://github.com/bevyengine/bevy/pull/7993) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
+- [Improve window cursor usability](https://github.com/bevyengine/bevy/pull/7968) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
+- [Set cursor hittest during window creation](https://github.com/bevyengine/bevy/pull/7966) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [[Merged by Bors] - Remove redundant parentheses](https://github.com/bevyengine/bevy-website/pull/594) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 week ago)
 - [I&#39;m -&gt; we&#39;re in 0.10 release post](https://github.com/bevyengine/bevy-website/pull/592) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap (3 days ago)
+- [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap (4 days ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 week ago)
 - [jakobhellermann/bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump) -  (1 week ago)
-- [getzola/even](https://github.com/getzola/even) - A clean blog theme for Zola (1 week ago)
+- [getzola/even](https://github.com/getzola/even) - A clean blog theme for Zola (2 weeks ago)
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance Rust-powered layout library (3 weeks ago)
