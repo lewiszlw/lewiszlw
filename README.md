@@ -11,10 +11,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - [WIP] Classical battle-city game made with bevy engine. (2 days ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (2 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (2 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (today)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - [WIP] Classical battle-city game made with bevy engine. (1 day ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (3 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (5 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 
 #### 🔨 Check out my recent pull requests
@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - [WIP] Classical battle-city game made with bevy engine. (2 days ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - [WIP] Classical battle-city game made with bevy engine. (3 days ago)
 - [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap (1 week ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (2 weeks ago)
 - [jakobhellermann/bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump) -  (2 weeks ago)
