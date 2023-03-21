@@ -11,10 +11,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (today)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 day ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 day ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - [WIP] Play ball on screens. (4 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 
 #### 🔨 Check out my recent pull requests
@@ -22,12 +22,12 @@
 - [Register missing types in bevy_window](https://github.com/bevyengine/bevy/pull/7993) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [Improve window cursor usability](https://github.com/bevyengine/bevy/pull/7968) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [Set cursor hittest during window creation](https://github.com/bevyengine/bevy/pull/7966) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
-- [[Merged by Bors] - Remove redundant parentheses](https://github.com/bevyengine/bevy-website/pull/594) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 week ago)
-- [I&#39;m -&gt; we&#39;re in 0.10 release post](https://github.com/bevyengine/bevy-website/pull/592) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 week ago)
+- [[Merged by Bors] - Remove redundant parentheses](https://github.com/bevyengine/bevy-website/pull/594) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (2 weeks ago)
+- [I&#39;m -&gt; we&#39;re in 0.10 release post](https://github.com/bevyengine/bevy-website/pull/592) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (4 days ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (5 days ago)
 - [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap (1 week ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (2 weeks ago)
 - [jakobhellermann/bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump) -  (2 weeks ago)
