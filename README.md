@@ -11,15 +11,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (1 day ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - [WIP] Celeste-like platformer game made with bevy engine. (1 day ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (2 days ago)
+- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (2 days ago)
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - [WIP] Celeste-like platformer game made with bevy engine. (2 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (3 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (3 days ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Add some games](https://github.com/bevyengine/bevy-assets/pull/307) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (2 days ago)
+- [Add some games](https://github.com/bevyengine/bevy-assets/pull/307) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (3 days ago)
 - [Register missing types in bevy_window](https://github.com/bevyengine/bevy/pull/7993) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Improve window cursor usability](https://github.com/bevyengine/bevy/pull/7968) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Set cursor hittest during window creation](https://github.com/bevyengine/bevy/pull/7966) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language (1 day ago)
-- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (2 days ago)
+- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language (2 days ago)
+- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (3 days ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
 - [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap (2 weeks ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (3 weeks ago)
