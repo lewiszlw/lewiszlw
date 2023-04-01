@@ -12,14 +12,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - [WIP] Celeste-like platformer game made with bevy engine. (1 day ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (3 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (4 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (4 days ago)
 - [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (1 week ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove OnUpdate system set](https://github.com/bevyengine/bevy/pull/8260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
+- [Remove OnUpdate system set](https://github.com/bevyengine/bevy/pull/8260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
 - [Add some games](https://github.com/bevyengine/bevy-assets/pull/307) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 week ago)
 - [Register missing types in bevy_window](https://github.com/bevyengine/bevy/pull/7993) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
 - [Improve window cursor usability](https://github.com/bevyengine/bevy/pull/7968) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [casuak/Game_1_Tiny_Celeste_v3](https://github.com/casuak/Game_1_Tiny_Celeste_v3) -  (3 days ago)
+- [jakobhellermann/wasm-server-runner](https://github.com/jakobhellermann/wasm-server-runner) - cargo run for the browser (1 day ago)
+- [casuak/Game_1_Tiny_Celeste_v3](https://github.com/casuak/Game_1_Tiny_Celeste_v3) -  (4 days ago)
 - [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language (1 week ago)
 - [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (1 week ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (2 weeks ago)
-- [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap (2 weeks ago)
