@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io) - The repository for https://gamedev.rs (1 day ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - [WIP] Celeste-like platformer game made with bevy engine. (1 day ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (5 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (6 days ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
-- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
