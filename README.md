@@ -11,9 +11,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (3 days ago)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (4 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
+- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (4 days ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (5 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 week ago)
 
