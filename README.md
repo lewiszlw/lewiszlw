@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (4 days ago)
-- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (5 days ago)
+- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (5 days ago)
+- [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (6 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 week ago)
@@ -20,8 +20,8 @@
 #### 🔨 Check out my recent pull requests
 
 - [Add celeste game](https://github.com/bevyengine/bevy-assets/pull/320) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 week ago)
-- [Remove bitflags for ci](https://github.com/bevyengine/bevy/pull/8431) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
-- [N44: add screen ball and battle city games](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1326) on [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io) (3 weeks ago)
+- [Remove bitflags for ci](https://github.com/bevyengine/bevy/pull/8431) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
+- [N44: add screen ball and battle city games](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1326) on [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io) (4 weeks ago)
 - [Remove OnUpdate system set](https://github.com/bevyengine/bevy/pull/8260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Add some games](https://github.com/bevyengine/bevy-assets/pull/307) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
 
