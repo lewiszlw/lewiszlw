@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (today)
-- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (1 day ago)
+- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (today)
+- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (1 day ago)
 - [lewiszlw/assistant](https://github.com/lewiszlw/assistant) - Personal assistant tool. 个人助手工具 (1 week ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Keep feature desc style consistent and add iOS to supported platforms](https://github.com/bevyengine/bevy-website/pull/629) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 day ago)
+- [Bump MSRV to 1.69.0](https://github.com/bevyengine/bevy/pull/8546) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
+- [Keep feature desc style consistent and add iOS to supported platforms](https://github.com/bevyengine/bevy-website/pull/629) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (2 days ago)
 - [Add celeste game](https://github.com/bevyengine/bevy-assets/pull/320) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (2 weeks ago)
 - [Remove bitflags for ci](https://github.com/bevyengine/bevy/pull/8431) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [N44: add screen ball and battle city games](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1326) on [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io) (1 month ago)
-- [Remove OnUpdate system set](https://github.com/bevyengine/bevy/pull/8260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui) - 🇺🇦 Please support the Ukrainian army: https://www.comebackalive.in.ua/donate (1 day ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (2 weeks ago)
 - [jakobhellermann/wasm-server-runner](https://github.com/jakobhellermann/wasm-server-runner) - cargo run for the browser (1 month ago)
 - [casuak/Game_1_Tiny_Celeste_v3](https://github.com/casuak/Game_1_Tiny_Celeste_v3) -  (1 month ago)
 - [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language (1 month ago)
-- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community (1 month ago)
