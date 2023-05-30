@@ -11,15 +11,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (3 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 days ago)
-- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (2 weeks ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (2 weeks ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (4 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
+- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (3 weeks ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 weeks ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (5 days ago)
+- [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (6 days ago)
 - [Fix look_to variable naming](https://github.com/bevyengine/bevy/pull/8627) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [Support to set window theme and expose system window theme changed event](https://github.com/bevyengine/bevy/pull/8593) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Update MSRV desc in README.md](https://github.com/bevyengine/bevy/pull/8546) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
@@ -28,7 +28,7 @@
 #### ⭐ Check out my recent stars
 
 - [gltf-rs/gltf](https://github.com/gltf-rs/gltf) - A crate for loading glTF 2.0 (1 week ago)
-- [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics (1 week ago)
+- [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics (2 weeks ago)
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust (2 weeks ago)
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (3 weeks ago)
 - [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui) - 🇺🇦 Please support the Ukrainian army: https://www.comebackalive.in.ua/donate (3 weeks ago)
