@@ -32,10 +32,14 @@
   4. 充分调研隐私号，从底层到上层提出5种方案，可供业务和淘系京东拼多多等第三方根据自身情况选择
   5. 自研DSP音频流识别接通方案，可识别所有隐私号，2s内识别接通准确率70%，4s内识别接通接近100%（仅做少量优化，未投入资源持续优化），优于阿里内部音频流识别方案（约60-70%识别成功率）
 
+#### Rust重写MRCP语音服务
+TODO
+
 #### 开源项目集合
 - [raft](https://github.com/lewiszlw/raft): Rust实现Raft共识算法
 - [tinyhttpd](https://github.com/lewiszlw/tinyhttpd): C实现Http服务器（支持CGI、TLS协议）
 - [dcc](https://github.com/lewiszlw/dcc): Java实现配置中心
+- [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer)：Rust实现光栅化实时软渲染器
 
 ## 专业技能
 - 编程语言：Java/Rust/Python/C
