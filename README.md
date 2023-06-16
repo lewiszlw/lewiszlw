@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (today)
 - [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) - glTF Sample Models (1 week ago)
 - [gltf-rs/gltf](https://github.com/gltf-rs/gltf) - A crate for loading glTF 2.0 (3 weeks ago)
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics (1 month ago)
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust (1 month ago)
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 month ago)
