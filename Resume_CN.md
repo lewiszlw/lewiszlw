@@ -12,7 +12,7 @@
 
 ## 项目经历
 
-#### 分布式任务调度引擎
+#### 自研分布式任务调度引擎
 - **项目简述**：当前系统使用的开源调度引擎出现问题难以排查，且功能和业务需求并不完全匹配，需要根据自身特点定制调度引擎
 - **项目职责**：负责调研、方案设计、开发、测试和上线全流程
 - **技术难点和创新点**
@@ -40,6 +40,7 @@ TODO
 - [tinyhttpd](https://github.com/lewiszlw/tinyhttpd): C实现Http服务器（支持CGI、TLS协议）
 - [dcc](https://github.com/lewiszlw/dcc): Java实现配置中心
 - [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer)：Rust实现光栅化实时软渲染器
+- [Night's Watch Games](https://github.com/NightsWatchGames/)：业余用Rust实现的各种小游戏
 
 ## 专业技能
 - 编程语言：Java/Rust/Python/C
