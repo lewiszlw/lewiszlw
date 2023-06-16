@@ -2,7 +2,7 @@
 
 联系方式：150-7143-1980 | lewiszlw520@gmail.com
 
-Github: [lewiszlw](https://github.com/lewiszlw) | 博客：[Night's Watch](https://nightswatch.games)
+Github: [lewiszlw](https://github.com/lewiszlw) | 个人站点：[Night's Watch](https://nightswatch.games)
 
 ## 教育背景
 - 2014.09 - 2018.06 / [武汉理工大学](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology) / 本科 / 计算机科学与技术专业
@@ -29,14 +29,14 @@ Github: [lewiszlw](https://github.com/lewiszlw) | 博客：[Night's Watch](https
   3. 任务丢失问题未再发生
 
 #### 隐私号智能外呼
-- **项目背景**：随着个保法推行，三方渠道的订单不会回传用户真实的手机号到小米系统，均为隐私号（11位号码+4位分机号），但隐私号底层通讯跟真实号有所不同，无法通过AI直接拨打
+- **项目背景**：随着个保法推行，第三方电商平台的订单不会回传用户真实的手机号到小米系统，均为隐私号（11位号码+4位分机号），但隐私号底层通讯跟真实号有所不同，无法通过AI直接拨打
 - **项目职责**：独立负责隐私号调研、方案制定、开发、测试、上线全流程
 - **技术挑战和创新点**
   1. 业界首先使用AI外呼隐私号，无任何现成方案可供参考。通过深入学习底层通信原理，探索了约8个方向的可行性，最终确定了4种方案，既保证主流电商平台隐私号呼叫的质量，同时也通过通用方案支持了所有隐私号
   2. 需要对整个外呼系统全面改造，内容多、工作量大，如何保证平稳上线？通过任务拆分、测试驱动开发，确保了高质量交付
 - **项目收益**：
-  1. 行业首先支持AI外呼隐私号（阿里/百度/网易等均不支持），定制化方案支持主流电商平台淘宝/京东/拼多多，准确率100%
-  2. 通用方案支持所有隐私号；隐私号外呼日均量级约8000，每年节省人力成本预计约900万
+  1. 行业首先支持AI外呼隐私号（阿里/百度/网易等均不支持），定制化方案支持主流电商平台淘宝/京东/拼多多，准确率100%；通用方案支持所有隐私号
+  2. 隐私号外呼日均量级约8000，每年节省人力成本预计约900万
 
 #### 满意度回访外呼
 - **项目背景**：业务计划搭建一个回访中心，集中处理售后服务单，对用户进行回访调查，一期需实现全量智能外呼
@@ -53,22 +53,28 @@ Github: [lewiszlw](https://github.com/lewiszlw) | 博客：[Night's Watch](https
 - **项目职责**：独立负责前期调研、方案制定、开发、测试、上线全流程
 - **技术挑战和创新点**
   1. 面对持续超过两年未解决的团队痛点，如何提出创新方案解决？主动请求挑战，在深入了解后提出上层应用采用Rust替换C++方案，既可通过FFI充分利用底层开源语音库，又可保证上层应用代码的内存安全性，以最小代价来最大化服务的稳定性
-  2. 面对复杂的业务逻辑，采用何种重写策略保证功能平稳上线？制定重写策略，先编写demo快速验证，然后重写简单模块上线验证稳定性，最后重写复杂模块，确保服务各项功能平稳上线
-  3. 如何最大化保障服务上线安全和稳定？- 通过复制线上流量离线评测，模拟尽可能真实的线上环境，同时以线上10+倍高并发流量压测。重写后的服务上线至今半年多，未再出现任何服务崩溃重启情况
+  2. 面对陌生的Rust编程和复杂的业务逻辑，如何克服困难、快速学习并将方案成功落地？利用业余时间快速学习Rust编程，制定重写策略，先编写demo快速验证可行性，然后重写简单模块上线验证稳定性，最后重写复杂模块，确保服务各项功能平稳上线
+  3. 如何最大化保障服务上线安全和稳定？通过复制线上流量离线评测，模拟尽可能真实的线上环境，同时以线上10+倍高并发流量压测。重写后的服务上线至今半年多，未再出现任何服务崩溃重启情况
 - **项目收益**
   1. 提出创新方案解决团队持续超过两年未解决的痛点，服务每月崩溃重启次数 300 -> 0，稳定性大幅提升
   2. 间接对各类技术指标（无声会话率、用户挂断率等）和业务指标（问卷完成率、满意度等）均有收益
 
 #### 开源项目集合
 - [raft](https://github.com/lewiszlw/raft): Rust实现Raft共识算法
-- [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer)：Rust实现光栅化实时软渲染
-- [tinyhttpd](https://github.com/lewiszlw/tinyhttpd): C语言实现Http服务器（支持CGI、TLS协议）
-- [Night's Watch Games](https://github.com/NightsWatchGames/)：业余用Rust实现的各种小游戏
+- [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer): Rust实现光栅化实时软渲染
+- [Night's Watch Games](https://github.com/NightsWatchGames/): Rust实现的各种小游戏
+- [tinyhttpd](https://github.com/lewiszlw/tinyhttpd): C语言实现Http服务器
 - [dcc](https://github.com/lewiszlw/dcc): Java实现配置中心
+- [bevyengine/bevy](https://github.com/bevyengine/bevy/pulls/lewiszlw): 参与bevy引擎贡献 20+ pr
 
 ## 专业技能
 - 编程语言：Java/Rust/Python/C
+- 框架：Spring/MyBatis
 - 分布式系统：Raft
 - 数据存储：MySQL/Redis
-- 网络协议：HTTP(S)/TLS/SIP/MRCPv2
+- 网络协议：HTTP(S)/TLS/SIP/MRCPv2/TCP
 - 开发工具：Git/Docker/Linux
+
+## 其他
+- 获得2022 Rust中文社区线上黑客马拉松第二名（[链接](https://mp.weixin.qq.com/s/dlNIbZ486syRPlzw7YwC0Q)，获1w奖金）
+- 参与“智能客服用户体验提升专项”项目获得集团技术委《质量奖》和《最佳项目奖》
