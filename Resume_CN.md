@@ -2,6 +2,8 @@
 
 联系方式：150-7143-1980 | lewiszlw520@gmail.com
 
+Github: [lewiszlw](https://github.com/lewiszlw) | 博客：[Night's Watch](https://nightswatch.games)
+
 ## 教育背景
 - 2014.09 - 2018.06 / [武汉理工大学](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology) / 本科 / 计算机科学与技术专业
 
@@ -48,6 +50,3 @@ TODO
 - 数据存储：MySQL/Redis
 - 网络协议：HTTP(S)/TLS/SIP/MRCPv2
 - 开发工具：Git/Docker/Linux
-
-## 其他
-- GitHub：https://github.com/lewiszlw
