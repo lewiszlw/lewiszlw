@@ -19,7 +19,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 weeks ago)
+- [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Fix look_to variable naming](https://github.com/bevyengine/bevy/pull/8627) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Support to set window theme and expose system window theme changed event](https://github.com/bevyengine/bevy/pull/8593) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Update MSRV desc in README.md](https://github.com/bevyengine/bevy/pull/8546) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (6 days ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (1 week ago)
 - [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) - glTF Sample Models (2 weeks ago)
 - [gltf-rs/gltf](https://github.com/gltf-rs/gltf) - A crate for loading glTF 2.0 (1 month ago)
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics (1 month ago)
