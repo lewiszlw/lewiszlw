@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (4 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 weeks ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (1 day ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 weeks ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 month ago)
 - [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (1 month ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 month ago)
