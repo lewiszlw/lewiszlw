@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (1 day ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (2 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 weeks ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 month ago)
 - [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (1 month ago)
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy. (1 day ago)
 - [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (1 week ago)
 - [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) - glTF Sample Models (3 weeks ago)
 - [gltf-rs/gltf](https://github.com/gltf-rs/gltf) - A crate for loading glTF 2.0 (1 month ago)
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics (1 month ago)
-- [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust (1 month ago)
