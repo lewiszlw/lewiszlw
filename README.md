@@ -11,15 +11,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (6 days ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (today)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 weeks ago)
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 month ago)
-- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (1 month ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 month ago)
+- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (1 month ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 month ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 days ago)
+- [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (5 days ago)
 - [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Fix look_to variable naming](https://github.com/bevyengine/bevy/pull/8627) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Support to set window theme and expose system window theme changed event](https://github.com/bevyengine/bevy/pull/8593) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy. (5 days ago)
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - [WIP] A tiny software renderer written in Rust. (2 weeks ago)
-- [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) - glTF Sample Models (3 weeks ago)
+- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy. (6 days ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (2 weeks ago)
+- [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) - glTF Sample Models (4 weeks ago)
 - [gltf-rs/gltf](https://github.com/gltf-rs/gltf) - A crate for loading glTF 2.0 (1 month ago)
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics (1 month ago)
