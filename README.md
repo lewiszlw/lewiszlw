@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (3 days ago)
+- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (4 days ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 week ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (1 week ago)
@@ -19,8 +19,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
-- [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
+- [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
+- [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Fix look_to variable naming](https://github.com/bevyengine/bevy/pull/8627) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Support to set window theme and expose system window theme changed event](https://github.com/bevyengine/bevy/pull/8593) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 months ago)
