@@ -19,7 +19,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Disable MSAA for pixel_perfect example](https://github.com/bevyengine/bevy/pull/9185) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 days ago)
+- [Disable MSAA for pixel_perfect example](https://github.com/bevyengine/bevy/pull/9185) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (5 days ago)
 - [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
 - [Hide naga info logs &amp; Derive PartialEq on Timer and Stopwatch](https://github.com/bevyengine/bevy/pull/8664) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
