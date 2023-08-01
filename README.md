@@ -12,9 +12,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (5 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (3 weeks ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (4 weeks ago)
 - [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (4 weeks ago)
 
 #### 🔨 Check out my recent pull requests
