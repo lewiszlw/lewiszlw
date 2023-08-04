@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (3 days ago)
 - [arrayJY/tiny-renderer](https://github.com/arrayJY/tiny-renderer) - A toy software renderer for learning Computer Graphics written in Rust. (1 month ago)
 - [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !! (1 month ago)
 - [VisualGMQ/rs-cpurenderer](https://github.com/VisualGMQ/rs-cpurenderer) - a cpu/gpu soft renderer in rust (1 month ago)
