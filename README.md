@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (1 day ago)
+- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (2 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 month ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (4 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (5 days ago)
 - [arrayJY/tiny-renderer](https://github.com/arrayJY/tiny-renderer) - A toy software renderer for learning Computer Graphics written in Rust. (1 month ago)
 - [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !! (1 month ago)
 - [VisualGMQ/rs-cpurenderer](https://github.com/VisualGMQ/rs-cpurenderer) - a cpu/gpu soft renderer in rust (1 month ago)
