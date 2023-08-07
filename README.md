@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (2 days ago)
+- [lewiszlw/tinysql](https://github.com/lewiszlw/tinysql) - [WIP] A tiny relational database written in Rust. (1 day ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 month ago)
@@ -19,15 +19,15 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Move scene_spawner_system to PostUpdate](https://github.com/bevyengine/bevy/pull/9260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
-- [Update text example using default font](https://github.com/bevyengine/bevy/pull/9259) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
-- [Disable MSAA for pixel_perfect example](https://github.com/bevyengine/bevy/pull/9185) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
-- [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
+- [Move scene_spawner_system to PostUpdate](https://github.com/bevyengine/bevy/pull/9260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
+- [Update text example using default font](https://github.com/bevyengine/bevy/pull/9259) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
+- [Disable MSAA for pixel_perfect example](https://github.com/bevyengine/bevy/pull/9185) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
+- [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 weeks ago)
 - [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (5 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (6 days ago)
 - [arrayJY/tiny-renderer](https://github.com/arrayJY/tiny-renderer) - A toy software renderer for learning Computer Graphics written in Rust. (1 month ago)
 - [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !! (1 month ago)
 - [VisualGMQ/rs-cpurenderer](https://github.com/VisualGMQ/rs-cpurenderer) - a cpu/gpu soft renderer in rust (1 month ago)
