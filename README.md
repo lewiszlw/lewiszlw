@@ -11,18 +11,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (1 day ago)
 - [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) - [WIP] A tiny relational database written in Rust. (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
-- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 month ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
 - [Move scene_spawner_system to PreUpdate](https://github.com/bevyengine/bevy/pull/9260) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Update text example using default font](https://github.com/bevyengine/bevy/pull/9259) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 weeks ago)
 - [Disable MSAA for pixel_perfect example](https://github.com/bevyengine/bevy/pull/9185) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 weeks ago)
-- [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 weeks ago)
+- [Limit NextState visibility](https://github.com/bevyengine/bevy/pull/9096) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Prevent setting parent as itself](https://github.com/bevyengine/bevy/pull/8980) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 
 #### ⭐ Check out my recent stars
