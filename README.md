@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
 - [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) - [WIP] A tiny relational database written in Rust (CMU 15-445). (1 day ago)
 - [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
@@ -19,16 +19,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RBO framework](https://github.com/systemxlabs/tinysql/pull/26) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (1 day ago)
-- [Split optimizer](https://github.com/systemxlabs/tinysql/pull/25) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (1 day ago)
-- [Not change window_theme with winit window theme](https://github.com/bevyengine/bevy/pull/9437) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 days ago)
-- [Add nested loop join executor to support cross and inner join](https://github.com/systemxlabs/tinysql/pull/18) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (5 days ago)
-- [Refactor column name](https://github.com/systemxlabs/tinysql/pull/16) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (5 days ago)
+- [RBO framework](https://github.com/systemxlabs/tinysql/pull/26) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (2 days ago)
+- [Split optimizer](https://github.com/systemxlabs/tinysql/pull/25) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (2 days ago)
+- [Not change window_theme with winit window theme](https://github.com/bevyengine/bevy/pull/9437) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 days ago)
+- [Add nested loop join executor to support cross and inner join](https://github.com/systemxlabs/tinysql/pull/18) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (6 days ago)
+- [Refactor column name](https://github.com/systemxlabs/tinysql/pull/16) on [systemxlabs/tinysql](https://github.com/systemxlabs/tinysql) (6 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (1 day ago)
-- [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (2 days ago)
+- [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (2 days ago)
+- [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (3 days ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
 - [arrayJY/tiny-renderer](https://github.com/arrayJY/tiny-renderer) - A toy software renderer for learning Computer Graphics written in Rust. (1 month ago)
 - [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !! (1 month ago)
