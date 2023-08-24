@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (2 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
@@ -19,11 +19,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Rename project](https://github.com/systemxlabs/bustubx/pull/37) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 days ago)
-- [Binder and Planner support Order by clause](https://github.com/systemxlabs/bustubx/pull/36) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 days ago)
-- [Refactor README](https://github.com/systemxlabs/bustubx/pull/35) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 days ago)
-- [Fix building select plan order](https://github.com/systemxlabs/bustubx/pull/34) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (6 days ago)
-- [Push down limit rule](https://github.com/systemxlabs/bustubx/pull/32) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (6 days ago)
+- [Rename project](https://github.com/systemxlabs/bustubx/pull/37) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 days ago)
+- [Binder and Planner support Order by clause](https://github.com/systemxlabs/bustubx/pull/36) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 days ago)
+- [Refactor README](https://github.com/systemxlabs/bustubx/pull/35) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 days ago)
+- [Fix building select plan order](https://github.com/systemxlabs/bustubx/pull/34) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
+- [Push down limit rule](https://github.com/systemxlabs/bustubx/pull/32) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
