@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (today)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 weeks ago)
 - [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (3 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 weeks ago)
@@ -19,16 +19,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Refactor physical plan](https://github.com/systemxlabs/bustubx/pull/40) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 day ago)
-- [Pretty printing tuples](https://github.com/systemxlabs/bustubx/pull/39) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 days ago)
+- [Split rules](https://github.com/systemxlabs/bustubx/pull/42) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 day ago)
+- [Physical sort](https://github.com/systemxlabs/bustubx/pull/41) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 day ago)
+- [Refactor physical plan](https://github.com/systemxlabs/bustubx/pull/40) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 days ago)
+- [Pretty printing tuples](https://github.com/systemxlabs/bustubx/pull/39) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 days ago)
 - [Rename project](https://github.com/systemxlabs/bustubx/pull/37) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
-- [Binder and Planner support Order by clause](https://github.com/systemxlabs/bustubx/pull/36) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
-- [Refactor README](https://github.com/systemxlabs/bustubx/pull/35) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
 
 #### ⭐ Check out my recent stars
 
 - [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (2 weeks ago)
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (2 weeks ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (4 weeks ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 month ago)
 - [arrayJY/tiny-renderer](https://github.com/arrayJY/tiny-renderer) - A toy software renderer for learning Computer Graphics written in Rust. (1 month ago)
 - [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !! (1 month ago)
