@@ -11,23 +11,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 weeks ago)
-- [NightsWatchGames/tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer) - A tiny software renderer written in Rust. (3 weeks ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 weeks ago)
+- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程笔记翻译 (1 day ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
+- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (1 day ago)
+- [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems (1 day ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 days ago)
-- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 days ago)
-- [Support create index sql](https://github.com/systemxlabs/bustubx/pull/44) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 days ago)
-- [Split rules](https://github.com/systemxlabs/bustubx/pull/42) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (5 days ago)
-- [Physical sort](https://github.com/systemxlabs/bustubx/pull/41) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (5 days ago)
+- [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 day ago)
+- [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 day ago)
+- [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (1 day ago)
+- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 days ago)
+- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (2 weeks ago)
+- [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (3 weeks ago)
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (3 weeks ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 month ago)
 - [arrayJY/tiny-renderer](https://github.com/arrayJY/tiny-renderer) - A toy software renderer for learning Computer Graphics written in Rust. (2 months ago)
