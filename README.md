@@ -11,19 +11,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (3 days ago)
+- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (4 days ago)
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems (1 week ago)
 - [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (1 week ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
 - [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 week ago)
 - [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
 - [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (1 week ago)
-- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
-- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 week ago)
+- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 weeks ago)
+- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
