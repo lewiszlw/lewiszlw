@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/sqlparser-lalrpop](https://github.com/systemxlabs/sqlparser-lalrpop) - [WIP] A experimental SQL query parser using LALRPOP. (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - [WIP] A experimental SQL query parser using LALRPOP. (today)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
 - [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (1 week ago)
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems (2 weeks ago)
 - [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (2 weeks ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (1 day ago)
+- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (2 days ago)
 - [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (1 month ago)
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (1 month ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 month ago)
