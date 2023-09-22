@@ -11,9 +11,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - A fork of databend parser without irrelevant code, easy to extend SQL grammar. (1 day ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - [WIP] A experimental SQL query parser using nom. (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (5 days ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - [WIP] A experimental SQL query parser using nom. (today)
+- [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - A fork of databend parser without irrelevant code, easy to extend SQL grammar. (2 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
 - [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (1 week ago)
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems (2 weeks ago)
 
@@ -22,12 +22,12 @@
 - [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (2 weeks ago)
 - [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 weeks ago)
 - [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (2 weeks ago)
-- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 weeks ago)
-- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 weeks ago)
+- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 weeks ago)
+- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (3 days ago)
+- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (4 days ago)
 - [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (1 month ago)
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (1 month ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 month ago)
