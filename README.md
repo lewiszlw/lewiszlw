@@ -11,23 +11,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - [WIP] A experimental SQL query parser using nom. (1 day ago)
-- [NightsWatchGames/mini-ecs](https://github.com/NightsWatchGames/mini-ecs) - [WIP] A mini ECS framework aims to learn Bevy ECS internals. (2 days ago)
-- [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - A fork of databend parser without irrelevant code, easy to extend SQL grammar. (4 days ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - [WIP] A experimental SQL query parser using nom. (today)
+- [NightsWatchGames/mini-ecs](https://github.com/NightsWatchGames/mini-ecs) - [WIP] A mini ECS framework aims to learn Bevy ECS internals. (3 days ago)
+- [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - A fork of databend parser without irrelevant code, easy to extend SQL grammar. (5 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
-- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (1 week ago)
+- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (2 weeks ago)
-- [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (2 weeks ago)
-- [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (2 weeks ago)
+- [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (3 weeks ago)
+- [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 weeks ago)
+- [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (3 weeks ago)
 - [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 weeks ago)
 - [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (6 days ago)
+- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (1 week ago)
 - [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (1 month ago)
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes (1 month ago)
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 month ago)
