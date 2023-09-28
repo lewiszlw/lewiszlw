@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 day ago)
-- [NightsWatchGames/mini-ecs](https://github.com/NightsWatchGames/mini-ecs) - [WIP] A mini ECS framework aims to learn Bevy ECS internals. (5 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (today)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (2 days ago)
+- [NightsWatchGames/mini-ecs](https://github.com/NightsWatchGames/mini-ecs) - [WIP] A mini ECS framework aims to learn Bevy ECS internals. (6 days ago)
 - [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - A fork of databend parser without irrelevant code, easy to extend SQL grammar. (1 week ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
-- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 day ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 day ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (2 days ago)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 days ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (2 days ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (3 days ago)
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (1 week ago)
 - [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (1 month ago)
