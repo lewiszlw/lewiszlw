@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 day ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (2 days ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (4 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 day ago)
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (2 days ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (2 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (3 days ago)
 
 #### 🔨 Check out my recent pull requests
 
 - [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (3 weeks ago)
 - [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (3 weeks ago)
 - [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (3 weeks ago)
-- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 weeks ago)
-- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (4 weeks ago)
+- [Introduce tracing](https://github.com/systemxlabs/bustubx/pull/47) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 month ago)
+- [Add BigInt type](https://github.com/systemxlabs/bustubx/pull/46) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (4 days ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (4 days ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (5 days ago)
+- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (1 day ago)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (5 days ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (5 days ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (6 days ago)
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (1 week ago)
-- [Fedomn/sqlrs](https://github.com/Fedomn/sqlrs) - sqlrs is an in-process sql query engine (1 month ago)
