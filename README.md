@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/cmu-15-445-notes-zh_cn](https://github.com/systemxlabs/cmu-15-445-notes-zh_cn) - CMU 15-445 课程讲义翻译 (1 day ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (3 days ago)
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (3 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 days ago)
+- [systemxlabs/notebook](https://github.com/systemxlabs/notebook) - 笔记和思考 (today)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (3 days ago)
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (4 days ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (4 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (4 days ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (2 days ago)
-- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (6 days ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (6 days ago)
+- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (3 days ago)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 week ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 week ago)
 - [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 week ago)
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (2 weeks ago)
