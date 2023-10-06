@@ -13,21 +13,21 @@
 
 - [systemxlabs/notebook](https://github.com/systemxlabs/notebook) - 笔记和思考 (1 day ago)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 day ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (5 days ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (6 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (6 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (6 days ago)
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Support text column creation](https://github.com/KipData/KipSQL/pull/77) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
-- [fmt &amp; update readme &amp; update .gitignore](https://github.com/KipData/KipSQL/pull/76) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
+- [Support text column insertion](https://github.com/KipData/KipSQL/pull/81) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
+- [Fix duplicate cast in insert](https://github.com/KipData/KipSQL/pull/78) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 day ago)
+- [Support text column creation](https://github.com/KipData/KipSQL/pull/77) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
+- [fmt &amp; update readme &amp; update .gitignore](https://github.com/KipData/KipSQL/pull/76) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (2 days ago)
 - [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 month ago)
-- [Introduce derive-new to simplify code](https://github.com/systemxlabs/bustubx/pull/48) on [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) (1 month ago)
-- [Fix link](https://github.com/SanderMertens/ecs-faq/pull/19) on [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (5 days ago)
+- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (6 days ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 week ago)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 week ago)
 - [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 week ago)
