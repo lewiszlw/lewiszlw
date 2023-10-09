@@ -11,24 +11,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/notebook](https://github.com/systemxlabs/notebook) - 笔记和思考 (3 days ago)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (3 days ago)
+- [systemxlabs/notebook](https://github.com/systemxlabs/notebook) - 笔记和思考 (4 days ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (4 days ago)
 - [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Support text column insertion](https://github.com/KipData/KipSQL/pull/81) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
-- [Fix duplicate cast in insert](https://github.com/KipData/KipSQL/pull/78) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
-- [Support text column creation](https://github.com/KipData/KipSQL/pull/77) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
-- [fmt &amp; update readme &amp; update .gitignore](https://github.com/KipData/KipSQL/pull/76) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
-- [Fix 404 page logo](https://github.com/bevyengine/bevy-website/pull/739) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 month ago)
+- [refactor: replace once_cell with std](https://github.com/datafuselabs/databend/pull/13127) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (1 day ago)
+- [Support text column insertion](https://github.com/KipData/KipSQL/pull/81) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
+- [Fix duplicate cast in insert](https://github.com/KipData/KipSQL/pull/78) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
+- [Support text column creation](https://github.com/KipData/KipSQL/pull/77) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
+- [fmt &amp; update readme &amp; update .gitignore](https://github.com/KipData/KipSQL/pull/76) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (5 days ago)
 
 #### ⭐ Check out my recent stars
 
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (1 day ago)
 - [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (1 week ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 week ago)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (1 week ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 week ago)
-- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust (2 weeks ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (2 weeks ago)
