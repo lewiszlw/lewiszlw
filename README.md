@@ -11,23 +11,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (2 days ago)
-- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 week ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (today)
 - [systemxlabs/notebook](https://github.com/systemxlabs/notebook) - 笔记和思考 (1 week ago)
+- [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 week ago)
 - [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Refactor server](https://github.com/KipData/KipDB/pull/50) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 day ago)
-- [Use default clippy lints and remove unused unstable features](https://github.com/KipData/KipDB/pull/49) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 days ago)
-- [Remove unnecessary mod](https://github.com/KipData/KipDB/pull/48) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
-- [Cleanup text related](https://github.com/KipData/KipSQL/pull/84) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (3 days ago)
-- [Improve update error](https://github.com/apache/arrow-datafusion/pull/7777) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 days ago)
+- [Fix ci &amp; remove dead code](https://github.com/KipData/KipDB/pull/51) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 day ago)
+- [Refactor server](https://github.com/KipData/KipDB/pull/50) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 days ago)
+- [Use default clippy lints and remove unused unstable features](https://github.com/KipData/KipDB/pull/49) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
+- [Remove unnecessary mod](https://github.com/KipData/KipDB/pull/48) on [KipData/KipDB](https://github.com/KipData/KipDB) (4 days ago)
+- [Cleanup text related](https://github.com/KipData/KipSQL/pull/84) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (4 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (4 days ago)
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (5 days ago)
 - [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (1 week ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 weeks ago)
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (2 weeks ago)
