@@ -11,12 +11,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Improve naming](https://github.com/apache/arrow-datafusion/pull/7831) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
-- [Expose arrow-schema `serde` crate feature flag](https://github.com/apache/arrow-datafusion/pull/7829) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (today)
-- [Replace failure with thiserror](https://github.com/KipData/KipDB/pull/52) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
-- [Fix ci &amp; remove dead code](https://github.com/KipData/KipDB/pull/51) on [KipData/KipDB](https://github.com/KipData/KipDB) (4 days ago)
-- [Refactor server](https://github.com/KipData/KipDB/pull/50) on [KipData/KipDB](https://github.com/KipData/KipDB) (5 days ago)
-- [Use default clippy lints and remove unused unstable features](https://github.com/KipData/KipDB/pull/49) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
+- [Improve `ContextProvider` naming:  rename` get_table_provider` --&gt; `get_table_source`, deprecate `get_table_provider`](https://github.com/apache/arrow-datafusion/pull/7831) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 day ago)
+- [Expose arrow-schema `serde` crate feature flag](https://github.com/apache/arrow-datafusion/pull/7829) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 day ago)
+- [Replace failure with thiserror](https://github.com/KipData/KipDB/pull/52) on [KipData/KipDB](https://github.com/KipData/KipDB) (4 days ago)
+- [Fix ci &amp; remove dead code](https://github.com/KipData/KipDB/pull/51) on [KipData/KipDB](https://github.com/KipData/KipDB) (5 days ago)
+- [Refactor server](https://github.com/KipData/KipDB/pull/50) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
+- [Use default clippy lints and remove unused unstable features](https://github.com/KipData/KipDB/pull/49) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [Remove unnecessary mod](https://github.com/KipData/KipDB/pull/48) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [Cleanup text related](https://github.com/KipData/KipSQL/pull/84) on [KipData/KipSQL](https://github.com/KipData/KipSQL) (1 week ago)
 - [Improve update error](https://github.com/apache/arrow-datafusion/pull/7777) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
@@ -24,16 +24,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (today)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (3 days ago)
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (3 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (4 days ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (4 days ago)
 - [KipData/KipSQL](https://github.com/KipData/KipSQL) - build the SQL layer of KipDB database (1 week ago)
 - [systemxlabs/notebook](https://github.com/systemxlabs/notebook) - 笔记和思考 (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (today)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 day ago)
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (1 week ago)
 - [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (2 weeks ago)
-- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 weeks ago)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (2 weeks ago)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (3 weeks ago)
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework (3 weeks ago)
