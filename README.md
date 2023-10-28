@@ -11,10 +11,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Improve build](https://github.com/KipData/KipDB/pull/54) on [KipData/KipDB](https://github.com/KipData/KipDB) (2 days ago)
-- [Add rocksdb as new kernel](https://github.com/KipData/KipDB/pull/53) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
-- [Not reexport RecordBatch twice](https://github.com/apache/arrow-rs/pull/4968) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (6 days ago)
-- [chore: Fix typo in mysql doc](https://github.com/apache/incubator-opendal/pull/3351) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (6 days ago)
+- [Improve build](https://github.com/KipData/KipDB/pull/54) on [KipData/KipDB](https://github.com/KipData/KipDB) (3 days ago)
+- [Add rocksdb as new kernel](https://github.com/KipData/KipDB/pull/53) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
+- [Not reexport RecordBatch twice](https://github.com/apache/arrow-rs/pull/4968) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
+- [chore: Fix typo in mysql doc](https://github.com/apache/incubator-opendal/pull/3351) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
 - [Reexport percent_encoding](https://github.com/servo/rust-url/pull/873) on [servo/rust-url](https://github.com/servo/rust-url) (1 week ago)
 - [Reexport percent_encoding](https://github.com/lewiszlw/rust-url/pull/1) on [lewiszlw/rust-url](https://github.com/lewiszlw/rust-url) (1 week ago)
 - [Support `IN ()` syntax of SQLite](https://github.com/sqlparser-rs/sqlparser-rs/pull/1005) on [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) (1 week ago)
@@ -24,16 +24,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (5 days ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (5 days ago)
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (6 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (6 days ago)
+- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (6 days ago)
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 week ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 week ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (1 week ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 week ago)
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (2 weeks ago)
-- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (3 weeks ago)
+- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (4 weeks ago)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 month ago)
