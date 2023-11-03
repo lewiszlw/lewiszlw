@@ -11,22 +11,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: Extract common deps into workspace](https://github.com/apache/arrow-datafusion/pull/7982) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 days ago)
-- [Improve MemoryCatalogProvider default impl block placement](https://github.com/apache/arrow-datafusion/pull/7975) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 days ago)
-- [Simplify error using thiserror crate](https://github.com/apache/arrow-datafusion/pull/7974) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 days ago)
-- [Add rocksdb bench](https://github.com/KipData/KipDB/pull/56) on [KipData/KipDB](https://github.com/KipData/KipDB) (4 days ago)
-- [Enable clippy in ci](https://github.com/KipData/KipDB/pull/55) on [KipData/KipDB](https://github.com/KipData/KipDB) (5 days ago)
+- [Some minor updates](https://github.com/geoarrow/geoarrow-rs/pull/217) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 day ago)
+- [Minor: Extract common deps into workspace](https://github.com/apache/arrow-datafusion/pull/7982) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 days ago)
+- [Improve MemoryCatalogProvider default impl block placement](https://github.com/apache/arrow-datafusion/pull/7975) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (5 days ago)
+- [Simplify error using thiserror crate](https://github.com/apache/arrow-datafusion/pull/7974) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (5 days ago)
+- [Add rocksdb bench](https://github.com/KipData/KipDB/pull/56) on [KipData/KipDB](https://github.com/KipData/KipDB) (5 days ago)
+- [Enable clippy in ci](https://github.com/KipData/KipDB/pull/55) on [KipData/KipDB](https://github.com/KipData/KipDB) (6 days ago)
 - [Improve build](https://github.com/KipData/KipDB/pull/54) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [Add rocksdb as new kernel](https://github.com/KipData/KipDB/pull/53) on [KipData/KipDB](https://github.com/KipData/KipDB) (1 week ago)
 - [Not reexport RecordBatch twice](https://github.com/apache/arrow-rs/pull/4968) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
 - [chore: Fix typo in mysql doc](https://github.com/apache/incubator-opendal/pull/3351) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (1 week ago)
-- [Reexport percent_encoding](https://github.com/servo/rust-url/pull/873) on [servo/rust-url](https://github.com/servo/rust-url) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (today)
-- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (4 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 day ago)
+- [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (5 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (1 week ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (1 week ago)
 
