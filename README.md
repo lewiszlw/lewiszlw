@@ -11,23 +11,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [GeometryArrayTrait::value() return Option](https://github.com/geoarrow/geoarrow-rs/pull/227) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 day ago)
-- [Move scalar iterators into scalar mod](https://github.com/geoarrow/geoarrow-rs/pull/225) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 days ago)
-- [Add Extension metadata](https://github.com/geoarrow/geoarrow-rs/pull/224) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 days ago)
-- [Enable doc test](https://github.com/geoarrow/geoarrow-rs/pull/222) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
-- [Mit and apache](https://github.com/geoarrow/geoarrow-rs/pull/221) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
-- [Add extension name](https://github.com/geoarrow/geoarrow-rs/pull/220) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
-- [Avoid panics in GEOS geometry construction](https://github.com/geoarrow/geoarrow-rs/pull/217) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 days ago)
+- [WKBArray support intersects](https://github.com/geoarrow/geoarrow-rs/pull/230) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 day ago)
+- [Expose geo_traits](https://github.com/geoarrow/geoarrow-rs/pull/228) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 day ago)
+- [GeometryArrayTrait::value() return Option](https://github.com/geoarrow/geoarrow-rs/pull/227) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 days ago)
+- [Move scalar iterators into scalar mod](https://github.com/geoarrow/geoarrow-rs/pull/225) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
+- [Add Extension metadata](https://github.com/geoarrow/geoarrow-rs/pull/224) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
+- [Enable doc test](https://github.com/geoarrow/geoarrow-rs/pull/222) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 days ago)
+- [Mit and apache](https://github.com/geoarrow/geoarrow-rs/pull/221) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 days ago)
+- [Add extension name](https://github.com/geoarrow/geoarrow-rs/pull/220) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 days ago)
+- [Avoid panics in GEOS geometry construction](https://github.com/geoarrow/geoarrow-rs/pull/217) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (5 days ago)
 - [Minor: Extract common deps into workspace](https://github.com/apache/arrow-datafusion/pull/7982) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
-- [Improve MemoryCatalogProvider default impl block placement](https://github.com/apache/arrow-datafusion/pull/7975) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
-- [Simplify error using thiserror crate](https://github.com/apache/arrow-datafusion/pull/7974) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (1 day ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (4 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (2 days ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (5 days ago)
 - [KipData/KipDB](https://github.com/KipData/KipDB) -  Lightweight, asynchronous based on LSM Leveled Compaction KV database (1 week ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
