@@ -11,7 +11,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
+- [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 days ago)
 - [Ewkb support for WKBArray](https://github.com/geoarrow/geoarrow-rs/pull/254) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Implement Contains for geo scalars](https://github.com/geoarrow/geoarrow-rs/pull/250) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Implement Within for geo scalars](https://github.com/geoarrow/geoarrow-rs/pull/249) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
@@ -19,12 +19,12 @@
 - [Add IntoArrow trait](https://github.com/geoarrow/geoarrow-rs/pull/246) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Implement intersects on geo scalars](https://github.com/geoarrow/geoarrow-rs/pull/245) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [bounding_rect return RectArray &amp; Impl From&lt;RectArray&gt; for PolygonArray](https://github.com/geoarrow/geoarrow-rs/pull/242) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
-- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/238) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
-- [Remove associated type ArrowArray from GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/237) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
+- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/238) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
+- [Remove associated type ArrowArray from GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/237) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (today)
+- [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (1 day ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (1 week ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 week ago)
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (2 weeks ago)
@@ -36,4 +36,4 @@
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (1 month ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 - [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) -  (1 month ago)
-- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (1 month ago)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers (2 months ago)
