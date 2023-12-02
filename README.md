@@ -19,8 +19,8 @@
 - [Add IntoArrow trait](https://github.com/geoarrow/geoarrow-rs/pull/246) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [Implement intersects on geo scalars](https://github.com/geoarrow/geoarrow-rs/pull/245) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [bounding_rect return RectArray &amp; Impl From&lt;RectArray&gt; for PolygonArray](https://github.com/geoarrow/geoarrow-rs/pull/242) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
-- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/238) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
-- [Remove associated type ArrowArray from GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/237) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
+- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/238) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
+- [Remove associated type ArrowArray from GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/237) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -32,7 +32,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (1 day ago)
+- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (2 days ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (3 weeks ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (1 month ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
