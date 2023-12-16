@@ -11,21 +11,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 days ago)
-- [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 days ago)
+- [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 day ago)
+- [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
+- [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 days ago)
 - [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Remove unneeded lifetime from GeometryScalarTrait](https://github.com/geoarrow/geoarrow-rs/pull/295) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
-- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
+- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
 - [Ewkb support for WKBArray](https://github.com/geoarrow/geoarrow-rs/pull/254) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
-- [Implement Contains for geo scalars](https://github.com/geoarrow/geoarrow-rs/pull/250) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (today)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 day ago)
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (1 day ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
 - [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (3 weeks ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 month ago)
