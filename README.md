@@ -11,9 +11,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 days ago)
-- [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (6 days ago)
-- [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (6 days ago)
+- [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (5 days ago)
+- [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
+- [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
 - [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
@@ -24,10 +24,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (4 days ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (5 days ago)
+- [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (2 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (5 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (6 days ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
 
 #### ⭐ Check out my recent stars
