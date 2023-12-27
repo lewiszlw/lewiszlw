@@ -12,8 +12,8 @@
 #### 🔨 Check out my recent pull requests
 
 - [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
-- [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
-- [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 week ago)
+- [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
+- [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
 - [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
@@ -24,7 +24,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (5 days ago)
+- [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (6 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (1 week ago)
 - [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
@@ -32,7 +32,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (5 days ago)
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (6 days ago)
 - [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (3 weeks ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations (1 month ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (2 months ago)
