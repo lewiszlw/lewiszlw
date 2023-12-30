@@ -18,14 +18,14 @@
 - [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
 - [Remove unneeded lifetime from GeometryScalarTrait](https://github.com/geoarrow/geoarrow-rs/pull/295) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
-- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
+- [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
 - [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 month ago)
 - [Ewkb support for WKBArray](https://github.com/geoarrow/geoarrow-rs/pull/254) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (1 week ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust, Python, and JavaScript (WebAssembly) with vectorized geometry operations (2 weeks ago)
 - [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 weeks ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 month ago)
@@ -33,7 +33,7 @@
 #### ⭐ Check out my recent stars
 
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 week ago)
-- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (4 weeks ago)
+- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (1 month ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust, Python, and JavaScript (WebAssembly) with vectorized geometry operations (1 month ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with constructor for each field in struct. (2 months ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (2 months ago)
