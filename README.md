@@ -14,8 +14,8 @@
 - [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
 - [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 weeks ago)
-- [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
-- [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 weeks ago)
+- [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
+- [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
 - [Remove unneeded lifetime from GeometryScalarTrait](https://github.com/geoarrow/geoarrow-rs/pull/295) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (4 weeks ago)
 - [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (1 month ago)
@@ -32,7 +32,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (1 day ago)
+- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (2 days ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 week ago)
 - [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (1 month ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust, Python, and JavaScript (WebAssembly) with vectorized geometry operations (1 month ago)
