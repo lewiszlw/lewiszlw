@@ -24,7 +24,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (6 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 week ago)
 - [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (4 weeks ago)
