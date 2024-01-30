@@ -24,16 +24,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (today)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (2 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (3 days ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
 - [systemxlabs/riscv-simulator](https://github.com/systemxlabs/riscv-simulator) - A simple RISC-V CPU simulator (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (5 days ago)
-- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (4 weeks ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (6 days ago)
+- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (1 month ago)
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search  (1 month ago)
 - [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb) - JSONB implement in rust (2 months ago)
 - [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) - GeoArrow in Rust, Python, and JavaScript (WebAssembly) with vectorized geometry operations (2 months ago)
