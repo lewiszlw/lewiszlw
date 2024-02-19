@@ -19,16 +19,16 @@
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Remove unneeded lifetime from GeometryScalarTrait](https://github.com/geoarrow/geoarrow-rs/pull/295) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
-- [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
+- [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 - [Ewkb support for WKBArray](https://github.com/geoarrow/geoarrow-rs/pull/254) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (1 day ago)
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 days ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (4 days ago)
-- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (6 days ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (3 weeks ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (today)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
+- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (2 days ago)
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (5 days ago)
+- [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
