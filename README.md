@@ -25,15 +25,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (today)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (3 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (5 days ago)
-- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (6 days ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 day ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (4 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (6 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (3 days ago)
-- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (3 days ago)
+- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (4 days ago)
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (4 days ago)
 - [aprimadi/var-bitmap](https://github.com/aprimadi/var-bitmap) - A simple variable-sized bitmap in Rust (2 weeks ago)
 - [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - A fork of databend which only keeps parser code, easy to extend SQL grammar based on it. (2 weeks ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com (3 weeks ago)
