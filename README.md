@@ -11,6 +11,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix ExecutorLost event debug info](https://github.com/apache/arrow-ballista/pull/988) on [apache/arrow-ballista](https://github.com/apache/arrow-ballista) (1 day ago)
 - [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
@@ -20,19 +21,18 @@
 - [Remove unneeded lifetime from GeometryScalarTrait](https://github.com/geoarrow/geoarrow-rs/pull/295) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Remove vscode folder](https://github.com/geoarrow/geoarrow-rs/pull/259) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
-- [Ewkb support for WKBArray](https://github.com/geoarrow/geoarrow-rs/pull/254) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (4 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 days ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 week ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (today)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (5 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (5 days ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 days ago)
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (1 week ago)
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (1 week ago)
 - [aprimadi/var-bitmap](https://github.com/aprimadi/var-bitmap) - A simple variable-sized bitmap in Rust (3 weeks ago)
