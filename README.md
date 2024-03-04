@@ -11,12 +11,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix ExecutorLost event debug info](https://github.com/apache/arrow-ballista/pull/988) on [apache/arrow-ballista](https://github.com/apache/arrow-ballista) (5 days ago)
+- [Fix ExecutorLost event debug info](https://github.com/apache/arrow-ballista/pull/988) on [apache/arrow-ballista](https://github.com/apache/arrow-ballista) (6 days ago)
 - [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
-- [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
-- [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
+- [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
+- [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 - [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 - [Remove unneeded lifetime from GeometryScalarTrait](https://github.com/geoarrow/geoarrow-rs/pull/295) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 - [Remove GeometryArray enum](https://github.com/geoarrow/geoarrow-rs/pull/291) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
@@ -25,14 +25,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (today)
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (4 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (5 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (6 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (1 week ago)
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (1 week ago)
 - [aprimadi/var-bitmap](https://github.com/aprimadi/var-bitmap) - A simple variable-sized bitmap in Rust (3 weeks ago)
