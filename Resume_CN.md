@@ -2,7 +2,7 @@
 
 联系方式：150-7143-1980 | lewiszlw520@gmail.com
 
-Github: [lewiszlw](https://github.com/lewiszlw) | 个人站点：[Night's Watch](https://nightswatch.games)
+Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemxlabs](https://github.com/systemxlabs) | [github.com/NightsWatchGames](https://github.com/NightsWatchGames)
 
 ## 教育背景
 - 2014.09 - 2018.06 / [武汉理工大学](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology) / 本科 / 计算机科学与技术专业
@@ -10,7 +10,8 @@ Github: [lewiszlw](https://github.com/lewiszlw) | 个人站点：[Night's Watch]
 ## 工作经历
 - **美团点评** / 2018.07 - 2019.08 / 后台开发工程师 / 负责境内度假供应链平台开发
 - **Amazon** / 2019.08 - 2021.06 / Software Dev Engineer / 负责亚马逊物流商家供货平台以及新国家上线
-- **小米科技** / 2021.07 - 至今 / 软件研发工程师 / 负责智能客服智能外呼和IVR系统
+- **小米科技** / 2021.07 - 2023.08 / 软件研发工程师 / 负责智能客服智能外呼和IVR系统
+- **数慧时空** / 2023.09 - 至今 / Rust工程师（数据库） / 负责数据经纬产品设计与开发
 
 ## 项目经历
 
@@ -29,29 +30,7 @@ Github: [lewiszlw](https://github.com/lewiszlw) | 个人站点：[Night's Watch]
   2. 支持高并发任务调度，并发从最初约50增长至目前800+（增长16倍），依然支持良好
   3. 任务丢失问题未再发生
 
-#### 隐私号智能外呼
-- **项目背景**：随着个保法推行，第三方电商平台的订单不会回传用户真实的手机号到小米系统，均为隐私号（11位号码+4位分机号），但隐私号底层通讯跟真实号有所不同，无法通过AI直接拨打
-- **项目职责**：独立负责隐私号调研、方案制定、开发、测试、上线全流程
-- **项目技术**：Java、Lua、Spring、Dubbo、Freeswitch、SIP
-- **技术挑战和创新点**
-  1. 业界首先使用AI外呼隐私号，无任何现成方案可供参考。通过深入学习底层通信原理，探索了约8个方向的可行性，最终确定了4种方案，既保证主流电商平台隐私号呼叫的质量，同时也通过通用方案支持了所有隐私号
-  2. 需要对整个外呼系统全面改造，内容多、工作量大，如何保证平稳上线？通过任务拆分、测试驱动开发，确保了高质量交付
-- **项目收益**：
-  1. 行业首先支持AI外呼隐私号（阿里/百度/网易等均不支持），定制化方案支持主流电商平台淘宝/京东/拼多多，准确率100%；通用方案支持所有隐私号
-  2. 隐私号外呼日均量级约8000，每年节省人力成本预计约900万
-
-#### 满意度回访外呼
-- **项目背景**：业务计划搭建一个回访中心，集中处理售后服务单，对用户进行回访调查，一期需实现全量智能外呼
-- **项目职责**：独立负责集团重要业务接入
-- **项目技术**：Java、Spring、Dubbo、Gconf、MySQL、Redis
-- **技术挑战和创新点**
-  1. 如何重构现有多轮映射关系以具有更好的业务扩展性？重新设计原有的多轮节点与回传结果映射功能，通过解析逻辑表达式来支持更自由的映射关系，具有非常好的扩展性
-  2. 如何解决不同运营商之间的底层通信差异难题？针对按键采集存在的认为“无法解决”的遗留问题（不支持某些运营商号码），通过调研按键采集底层通信原理，通过兼容旧协议解决
-  3. 如何抽象出更好的业务模型以满足业务对不同任务的特殊处理？通过设计内部任务分发机制，在更高层次进行抽象建模，整个模型更为简洁易于理解，同时不仅支持会话时间段特殊设置，也支持其他会话维度的特殊设置，具有更好的可扩展性
-- **项目收益**：
-  1. 每年呼叫量达1500w，每年节省成本约4800+万
-
-#### Rust重写MRCP语音服务
+#### Rust 重写 MRCP 语音服务
 - **项目背景**：MRCP语音服务采用开源底层库结合C++编写，由于团队缺乏C++经验、以及C++使用不当容易出现内存问题，服务平均每月出现 300 次崩溃重启，直接严重影响用户体验、通话各项指标和业务指标，稳定性问题一直无法得到解决且隐隐在加剧，各种bug层出不穷，排查耗时耗力，已成为团队一个很大的痛点
 - **项目职责**：独立负责前期调研、方案制定、开发、测试、上线全流程
 - **项目技术**：Rust、C、FFI、Unimrcp、TTS、ASR、MRCPv2、Websocket
@@ -63,22 +42,41 @@ Github: [lewiszlw](https://github.com/lewiszlw) | 个人站点：[Night's Watch]
   1. 提出创新方案解决团队持续超过两年未解决的痛点，服务每月崩溃重启次数 300 -> 0，稳定性大幅提升
   2. 间接对各类技术指标（无声会话率、用户挂断率等）和业务指标（问卷完成率、满意度等）均有收益
 
-#### 开源项目集合
-- [raft](https://github.com/lewiszlw/raft): Rust实现Raft共识算法
+#### DataFusion 查询引擎扩展 GEO 计算能力
+- **项目背景**：公司业务为地理信息处理，需要在开源查询引擎上扩展 GEO 计算能力
+- **项目职责**：独立负责前期调研、方案制定、核心功能开发、测试、上线
+- **项目技术**：Rust、DataFusion、GEOS、geozero
+- **技术挑战和创新点**
+  1. 采用唯一可用的 [geoarrow-rs] 库实现 GEO 计算能力，由于功能不足，参与贡献并成为其第二大贡献者（截至2024/3/12）
+  2. 随着 [geoarrow-rs] 库发展，与公司需求偏离越远，创建新的 geo 库 [datafusion-geo]，支持多种 geo 二进制数据方言，并采用 rayon 并行加速，性能超过 [geoarrow-rs]
+- **项目收益**
+  1. 支持 30+ GEO计算函数
+
+#### 开源贡献与项目
+主要开源贡献
+- [bevyengine/bevy](https://github.com/bevyengine/bevy/commits?author=lewiszlw): 贡献 21 commits
+- [geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw): 贡献 18 commits
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 7 commits
+
+个人开源项目
+- [bustubx](https://github.com/systemxlabs/bustubx): Rust实现的关系型数据库
+- [sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom): Rust实现的SQL查询解析器
+- [datafusion-geo](https://github.com/systemxlabs/datafusion-geo): 给DataFusion查询引擎扩展GEO计算能力
+- [raft](https://github.com/systemxlabs/raft): Rust实现的Raft共识算法
+- [derive-with](https://github.com/systemxlabs/derive-with): 使用Rust过程宏实现的with构造方法链式调用
 - [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer): Rust实现光栅化实时软渲染
 - [Night's Watch Games](https://github.com/NightsWatchGames/): Rust实现的各种小游戏
-- [tinyhttpd](https://github.com/lewiszlw/tinyhttpd): C语言实现Http服务器
-- [dcc](https://github.com/lewiszlw/dcc): Java实现配置中心
-- [bevyengine/bevy](https://github.com/bevyengine/bevy/pulls/lewiszlw): 参与bevy引擎贡献 20+ pr
 
 ## 专业技能
-- 编程语言：Java/Rust/Python/C
-- 框架：Spring/Dubbo/MyBatis
+- 编程语言：Rust/Java/Python/C
 - 分布式系统：Raft
-- 数据存储：MySQL/Redis
+- 数据存储和计算：DataFusion/Ballista
 - 网络协议：HTTP(S)/TLS/SIP/MRCPv2/TCP
-- 开发工具：Git/Docker/Linux
+- 开发工具：Git/Docker/Linux/Vim
 
 ## 其他
 - 获得2022 Rust中文社区线上黑客马拉松第二名（[链接](https://mp.weixin.qq.com/s/dlNIbZ486syRPlzw7YwC0Q)，获1w奖金）
-- 参与“智能客服用户体验提升专项”项目获得集团技术委《质量奖》和《最佳项目奖》
+- 参与小米“智能客服用户体验提升专项”项目获得集团技术委《质量奖》和《最佳项目奖》
+
+[geoarrow-rs]: https://github.com/geoarrow/geoarrow-rs
+[datafusion-geo]: https://github.com/systemxlabs/datafusion-geo
