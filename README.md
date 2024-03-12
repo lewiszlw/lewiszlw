@@ -32,8 +32,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (today)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (4 days ago)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (6 days ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 weeks ago)
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (3 weeks ago)
-- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (3 weeks ago)
