@@ -11,29 +11,29 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [UDAF and UDWF support aliases](https://github.com/apache/arrow-datafusion/pull/9489) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (5 days ago)
-- [Fix `geos:Geometry` to `ewkt` bug](https://github.com/georust/geozero/pull/203) on [georust/geozero](https://github.com/georust/geozero) (6 days ago)
+- [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 day ago)
+- [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 day ago)
+- [UDAF and UDWF support aliases](https://github.com/apache/arrow-datafusion/pull/9489) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (6 days ago)
+- [Fix `geos:Geometry` to `ewkt` bug](https://github.com/georust/geozero/pull/203) on [georust/geozero](https://github.com/georust/geozero) (1 week ago)
 - [Fix GeosWriter not implemented srid method](https://github.com/georust/geozero/pull/201) on [georust/geozero](https://github.com/georust/geozero) (1 week ago)
 - [Fix ExecutorLost event debug info](https://github.com/apache/arrow-ballista/pull/988) on [apache/arrow-ballista](https://github.com/apache/arrow-ballista) (2 weeks ago)
 - [Reexport geos/geozero/gdal/proj crates](https://github.com/geoarrow/geoarrow-rs/pull/319) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (2 months ago)
 - [Implement Reproject for other geometry arrays](https://github.com/geoarrow/geoarrow-rs/pull/310) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 - [WKBBuilder supports pushing GeometryTrait](https://github.com/geoarrow/geoarrow-rs/pull/309) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 - [Rename mutable file to builder](https://github.com/geoarrow/geoarrow-rs/pull/298) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
-- [Rename GeoArrayAccessor to GeometryArrayAccessor](https://github.com/geoarrow/geoarrow-rs/pull/297) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
-- [Impl dyn GeometryArrayTrait](https://github.com/geoarrow/geoarrow-rs/pull/296) on [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (today)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (4 days ago)
-- [georust/geozero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data. (5 days ago)
-- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (5 days ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (1 day ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (5 days ago)
+- [georust/geozero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data. (6 days ago)
+- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (6 days ago)
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (today)
-- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (4 days ago)
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (6 days ago)
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 day ago)
+- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (5 days ago)
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (1 week ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 weeks ago)
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (3 weeks ago)
