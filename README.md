@@ -11,8 +11,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (3 days ago)
-- [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (3 days ago)
+- [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (4 days ago)
+- [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (4 days ago)
 - [UDAF and UDWF support aliases](https://github.com/apache/arrow-datafusion/pull/9489) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
 - [Fix `geos:Geometry` to `ewkt` bug](https://github.com/georust/geozero/pull/203) on [georust/geozero](https://github.com/georust/geozero) (1 week ago)
 - [Fix GeosWriter not implemented srid method](https://github.com/georust/geozero/pull/201) on [georust/geozero](https://github.com/georust/geozero) (1 week ago)
@@ -24,16 +24,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (today)
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 day ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 day ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 day ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
-- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (2 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (3 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (3 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (3 days ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (1 day ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 day ago)
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (4 days ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (1 week ago)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (1 week ago)
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 weeks ago)
-- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (3 weeks ago)
