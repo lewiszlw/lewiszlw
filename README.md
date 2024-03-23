@@ -11,9 +11,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
-- [Replace isatty with atty](https://github.com/sundy-li/arrow_cli/pull/17) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
-- [Bump arrow version](https://github.com/sundy-li/arrow_cli/pull/16) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 days ago)
+- [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 days ago)
+- [Replace isatty with atty](https://github.com/sundy-li/arrow_cli/pull/17) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 days ago)
+- [Bump arrow version](https://github.com/sundy-li/arrow_cli/pull/16) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 days ago)
 - [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 week ago)
 - [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 week ago)
 - [UDAF and UDWF support aliases](https://github.com/apache/arrow-datafusion/pull/9489) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (2 weeks ago)
@@ -24,16 +24,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (today)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (4 days ago)
-- [NightsWatchGames/texas-holdem](https://github.com/NightsWatchGames/texas-holdem) - [WIP] Multiplayer texas holdem game made with bevy engine. (6 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 day ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (3 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (4 days ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (1 week ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 week ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 week ago)
