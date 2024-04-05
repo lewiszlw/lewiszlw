@@ -18,14 +18,14 @@
 - [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (3 weeks ago)
 - [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (3 weeks ago)
 - [UDAF and UDWF support aliases](https://github.com/apache/arrow-datafusion/pull/9489) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 weeks ago)
-- [Fix `geos:Geometry` to `ewkt` bug](https://github.com/georust/geozero/pull/203) on [georust/geozero](https://github.com/georust/geozero) (4 weeks ago)
+- [Fix `geos:Geometry` to `ewkt` bug](https://github.com/georust/geozero/pull/203) on [georust/geozero](https://github.com/georust/geozero) (1 month ago)
 - [Fix GeosWriter not implemented srid method](https://github.com/georust/geozero/pull/201) on [georust/geozero](https://github.com/georust/geozero) (1 month ago)
 - [Fix ExecutorLost event debug info](https://github.com/apache/arrow-ballista/pull/988) on [apache/arrow-ballista](https://github.com/apache/arrow-ballista) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (3 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (4 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (1 week ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for educational purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
@@ -36,4 +36,4 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 weeks ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (2 weeks ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 weeks ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (3 weeks ago)
