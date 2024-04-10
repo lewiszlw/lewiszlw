@@ -1,4 +1,4 @@
-**Hi, I'm Linwei Zhang** (usually naming **lewiszlw** on the web):
+**Hi, I'm Linwei Zhang** (usually naming **lewiszlw** on the internet):
 - 🎓 Computer science graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
 - 👨‍💻 Worked at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
 - 💻 Database engineer | 🎮 Hobbyist game dev
