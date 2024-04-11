@@ -1,4 +1,4 @@
-**Hi, I'm Linwei Zhang** (usually naming **lewiszlw** on the web):
+**Hi, I'm Linwei Zhang** (usually naming **lewiszlw** on the internet):
 - 🎓 Computer science graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
 - 👨‍💻 Worked at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
 - 💻 Database engineer | 🎮 Hobbyist game dev
@@ -24,8 +24,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (today)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (3 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (2 weeks ago)
