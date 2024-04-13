@@ -11,7 +11,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/arrow-datafusion/pull/9990) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (4 days ago)
+- [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/arrow-datafusion/pull/9990) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (5 days ago)
 - [Update loop.md](https://github.com/sunface/rust-course/pull/1404) on [sunface/rust-course](https://github.com/sunface/rust-course) (2 weeks ago)
 - [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 weeks ago)
 - [Replace isatty with atty](https://github.com/sundy-li/arrow_cli/pull/17) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 weeks ago)
@@ -24,9 +24,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (today)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (4 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (5 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (2 weeks ago)
 
