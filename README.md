@@ -11,23 +11,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/arrow-datafusion/pull/9990) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 week ago)
+- [Fix executor metadata decode bug](https://github.com/apache/datafusion-ballista/pull/1004) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 day ago)
+- [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/datafusion/pull/9990) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Update loop.md](https://github.com/sunface/rust-course/pull/1404) on [sunface/rust-course](https://github.com/sunface/rust-course) (3 weeks ago)
 - [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Replace isatty with atty](https://github.com/sundy-li/arrow_cli/pull/17) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Bump arrow version](https://github.com/sundy-li/arrow_cli/pull/16) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 month ago)
 - [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 month ago)
-- [UDAF and UDWF support aliases](https://github.com/apache/arrow-datafusion/pull/9489) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (1 month ago)
+- [UDAF and UDWF support aliases](https://github.com/apache/datafusion/pull/9489) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Fix `geos:Geometry` to `ewkt` bug](https://github.com/georust/geozero/pull/203) on [georust/geozero](https://github.com/georust/geozero) (1 month ago)
-- [Fix GeosWriter not implemented srid method](https://github.com/georust/geozero/pull/201) on [georust/geozero](https://github.com/georust/geozero) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (3 weeks ago)
 
 #### ⭐ Check out my recent stars
