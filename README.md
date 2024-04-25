@@ -11,28 +11,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update github repo links](https://github.com/apache/datafusion/pull/10167) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Fix executor metadata decode bug](https://github.com/apache/datafusion-ballista/pull/1004) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (5 days ago)
+- [Fix slots locking](https://github.com/apache/datafusion-ballista/pull/1009) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 day ago)
+- [Simplify heartbeat timestamp](https://github.com/apache/datafusion-ballista/pull/1008) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 day ago)
+- [Update github repo links](https://github.com/apache/datafusion/pull/10167) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Fix executor metadata decode bug](https://github.com/apache/datafusion-ballista/pull/1004) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (6 days ago)
 - [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/datafusion/pull/9990) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Update loop.md](https://github.com/sunface/rust-course/pull/1404) on [sunface/rust-course](https://github.com/sunface/rust-course) (4 weeks ago)
+- [Update loop.md](https://github.com/sunface/rust-course/pull/1404) on [sunface/rust-course](https://github.com/sunface/rust-course) (1 month ago)
 - [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Replace isatty with atty](https://github.com/sundy-li/arrow_cli/pull/17) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Bump arrow version](https://github.com/sundy-li/arrow_cli/pull/16) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Rename stat_table to table_exists in Catalog trait](https://github.com/apache/iceberg-rust/pull/257) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 month ago)
-- [Implement Display instead of ToString](https://github.com/apache/iceberg-rust/pull/256) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 month ago)
-- [UDAF and UDWF support aliases](https://github.com/apache/datafusion/pull/9489) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
-- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (3 weeks ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
+- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (4 weeks ago)
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (1 month ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 month ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 month ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 month ago)
