@@ -11,10 +11,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix slots locking](https://github.com/apache/datafusion-ballista/pull/1009) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 day ago)
-- [Simplify heartbeat timestamp](https://github.com/apache/datafusion-ballista/pull/1008) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 day ago)
-- [Update github repo links](https://github.com/apache/datafusion/pull/10167) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Fix executor metadata decode bug](https://github.com/apache/datafusion-ballista/pull/1004) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (6 days ago)
+- [Fix slots locking](https://github.com/apache/datafusion-ballista/pull/1009) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (2 days ago)
+- [Simplify heartbeat timestamp](https://github.com/apache/datafusion-ballista/pull/1008) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (2 days ago)
+- [Update github repo links](https://github.com/apache/datafusion/pull/10167) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Fix executor metadata decode bug](https://github.com/apache/datafusion-ballista/pull/1004) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 week ago)
 - [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/datafusion/pull/9990) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Update loop.md](https://github.com/sunface/rust-course/pull/1404) on [sunface/rust-course](https://github.com/sunface/rust-course) (1 month ago)
 - [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
@@ -24,9 +24,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (2 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (4 weeks ago)
 
