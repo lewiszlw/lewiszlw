@@ -48,9 +48,16 @@ Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemx
 - **项目技术**：Rust、DataFusion、GEOS、geozero
 - **技术挑战和创新点**
   1. 采用唯一可用的 [geoarrow-rs] 库实现 GEO 计算能力，由于功能不足，参与贡献并成为其第二大贡献者（截至2024/3/12）
-  2. 随着 [geoarrow-rs] 库发展，与公司需求偏离越远，创建新的 geo 库 [datafusion-geo]，支持多种 geo 二进制数据方言，并采用 rayon 并行加速，性能超过 [geoarrow-rs]
+  2. 随着 [geoarrow-rs] 库发展，与公司需求偏离越远，探索新的方案 [datafusion-geo]，支持多种 geo 二进制数据方言，并采用 rayon 并行加速，性能超过 [geoarrow-rs]
 - **项目收益**
   1. 支持 30+ GEO计算函数
+
+#### 数据经纬系统分布式架构
+- **项目背景**：支持更大规模的数据处理
+- **项目职责**：独立负责前期调研、方案制定、功能开发、测试、上线
+- **项目技术**：Rust、DataFusion、Ballista
+- TODO
+
 
 #### 开源贡献与项目
 主要开源贡献
