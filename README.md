@@ -11,23 +11,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Avoid potential bug](https://github.com/apache/datafusion-ballista/pull/1010) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 day ago)
-- [Remove `ScalarFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10277) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Fix slots locking](https://github.com/apache/datafusion-ballista/pull/1009) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (6 days ago)
-- [Simplify heartbeat timestamp](https://github.com/apache/datafusion-ballista/pull/1008) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (6 days ago)
+- [Support limit in StreamingTableExec](https://github.com/apache/datafusion/pull/10309) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Split parquet bloom filter config and enable bloom filter on read by default](https://github.com/apache/datafusion/pull/10306) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Avoid potential bug](https://github.com/apache/datafusion-ballista/pull/1010) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (2 days ago)
+- [Remove `ScalarFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10277) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Fix slots locking](https://github.com/apache/datafusion-ballista/pull/1009) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 week ago)
+- [Simplify heartbeat timestamp](https://github.com/apache/datafusion-ballista/pull/1008) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 week ago)
 - [Update github repo links](https://github.com/apache/datafusion/pull/10167) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Fix executor metadata decode bug](https://github.com/apache/datafusion-ballista/pull/1004) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (1 week ago)
 - [Remove unnecessary result in `DFSchema::index_of_column_by_name`](https://github.com/apache/datafusion/pull/9990) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Update loop.md](https://github.com/sunface/rust-course/pull/1404) on [sunface/rust-course](https://github.com/sunface/rust-course) (1 month ago)
-- [Enable ipc compression feature](https://github.com/sundy-li/arrow_cli/pull/18) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
-- [Replace isatty with atty](https://github.com/sundy-li/arrow_cli/pull/17) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (1 day ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
-- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (4 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from arrow-ballista codebase for learning purpose.  (2 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
+- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (5 days ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 week ago)
 
 #### ⭐ Check out my recent stars
