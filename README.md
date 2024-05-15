@@ -11,21 +11,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove `AggregateFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10441) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Improve flight sql examples](https://github.com/apache/datafusion/pull/10432) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Simplify making information_schame tables](https://github.com/apache/datafusion/pull/10420) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Fix window expr deserialization](https://github.com/apache/datafusion/pull/10506) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Remove `AggregateFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10441) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Improve flight sql examples](https://github.com/apache/datafusion/pull/10432) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Simplify making information_schame tables](https://github.com/apache/datafusion/pull/10420) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Move array_agg unit tests to slt](https://github.com/apache/datafusion/pull/10402) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Move average unit tests to slt](https://github.com/apache/datafusion/pull/10401) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [Remove ScalarFunctionDefinition](https://github.com/apache/datafusion/pull/10325) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
+- [Remove ScalarFunctionDefinition](https://github.com/apache/datafusion/pull/10325) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Support limit in StreamingTableExec](https://github.com/apache/datafusion/pull/10309) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Split parquet bloom filter config and enable bloom filter on read by default](https://github.com/apache/datafusion/pull/10306) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Avoid potential bug](https://github.com/apache/datafusion-ballista/pull/1010) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (2 weeks ago)
-- [Remove `ScalarFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10277) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 weeks ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (2 weeks ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 weeks ago)
