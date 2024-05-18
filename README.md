@@ -11,8 +11,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fetch data from each endpoint](https://github.com/sundy-li/arrow_cli/pull/19) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
-- [Fix window expr deserialization](https://github.com/apache/datafusion/pull/10506) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Fetch data from each endpoint](https://github.com/sundy-li/arrow_cli/pull/19) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
+- [Fix window expr deserialization](https://github.com/apache/datafusion/pull/10506) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
 - [Remove `AggregateFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10441) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve flight sql examples](https://github.com/apache/datafusion/pull/10432) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Simplify making information_schame tables](https://github.com/apache/datafusion/pull/10420) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -24,16 +24,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 weeks ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (3 weeks ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (1 month ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 month ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 month ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 month ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 months ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 months ago)
