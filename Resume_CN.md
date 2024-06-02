@@ -61,9 +61,9 @@ Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemx
 
 #### 开源贡献与项目
 主要开源贡献
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 24 commits
 - [bevyengine/bevy](https://github.com/bevyengine/bevy/commits?author=lewiszlw): 贡献 21 commits
 - [geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw): 贡献 18 commits
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 7 commits
 
 个人开源项目
 - [bustubx](https://github.com/systemxlabs/bustubx): Rust实现的关系型数据库
