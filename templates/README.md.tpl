@@ -23,3 +23,8 @@
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+
+#### 📜 Check out my recent blog posts
+{{range rss "https://systemxlabs.github.io/atom.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
