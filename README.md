@@ -9,6 +9,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiszlw&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+#### 🎖️ Open source contributions
+- [![Commits to Apache DataFusion](https://img.shields.io/github/commit-activity/t/apache/datafusion?authorFilter=lewiszlw&style=social&label=Apache%20DataFusion)](https://github.com/apache/datafusion/commits?author=lewiszlw)
+- [![Commits to Bevy Engine](https://img.shields.io/github/commit-activity/t/bevyengine/bevy?authorFilter=lewiszlw&style=social&label=Bevy%20Engine)](https://github.com/bevyengine/bevy/commits?author=lewiszlw)
+- [![Commits to GeoArrow Rust](https://img.shields.io/github/commit-activity/t/geoarrow/geoarrow-rs?authorFilter=lewiszlw&style=social&label=GeoArrow%20Rust)](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw)
+
 #### 🔨 Check out my recent pull requests
 
 - [Cleanup GetIndexedField](https://github.com/apache/datafusion/pull/10769) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
