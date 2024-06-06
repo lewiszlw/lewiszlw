@@ -16,22 +16,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Cleanup GetIndexedField](https://github.com/apache/datafusion/pull/10769) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Improve docs and fix a typo](https://github.com/apache/datafusion/pull/10798) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Cleanup GetIndexedField](https://github.com/apache/datafusion/pull/10769) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
 - [Separate `Partitioning` protobuf serialization code](https://github.com/apache/datafusion/pull/10708) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve `UserDefinedLogicalNodeCore::from_template` API to return Result](https://github.com/apache/datafusion/pull/10597) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Improve ContextProvider](https://github.com/apache/datafusion/pull/10577) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Migrate testing optimizer rules to use `rewrite` API](https://github.com/apache/datafusion/pull/10576) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Improve `UserDefinedLogicalNode::from_template` API to return `Result`](https://github.com/apache/datafusion/pull/10575) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Improve signature of `get_field` function](https://github.com/apache/datafusion/pull/10569) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Fetch data from each endpoint](https://github.com/sundy-li/arrow_cli/pull/19) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
+- [Fetch data from each endpoint](https://github.com/sundy-li/arrow_cli/pull/19) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 weeks ago)
 - [Fix window expr deserialization](https://github.com/apache/datafusion/pull/10506) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Remove `AggregateFunctionDefinition::Name`](https://github.com/apache/datafusion/pull/10441) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (3 days ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 weeks ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (1 month ago)
 
@@ -45,8 +45,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (1 week ago)
+- [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (3 days ago)
+- [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (2 weeks ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (3 weeks ago)
 - [Ballista 分布式查询引擎 - 计划执行](https://systemxlabs.github.io/blog/ballista-mvp-part5/) (1 month ago)
 - [Ballista 分布式查询引擎 - 集群共享状态](https://systemxlabs.github.io/blog/ballista-mvp-part4/) (1 month ago)
-- [Ballista 分布式查询引擎 - 事件驱动调度](https://systemxlabs.github.io/blog/ballista-mvp-part3/) (1 month ago)
