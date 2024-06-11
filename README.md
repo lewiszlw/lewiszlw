@@ -16,12 +16,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Debug print as many fields as possible for `SessionState`](https://github.com/apache/datafusion/pull/10818) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Fix `ScalarUDFImpl::propagate_constraints` doc](https://github.com/apache/datafusion/pull/10810) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Improve docs and fix a typo](https://github.com/apache/datafusion/pull/10798) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Debug print as many fields as possible for `SessionState`](https://github.com/apache/datafusion/pull/10818) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Fix `ScalarUDFImpl::propagate_constraints` doc](https://github.com/apache/datafusion/pull/10810) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Improve docs and fix a typo](https://github.com/apache/datafusion/pull/10798) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Cleanup GetIndexedField](https://github.com/apache/datafusion/pull/10769) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Separate `Partitioning` protobuf serialization code](https://github.com/apache/datafusion/pull/10708) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [Improve `UserDefinedLogicalNodeCore::from_template` API to return Result](https://github.com/apache/datafusion/pull/10597) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
+- [Improve `UserDefinedLogicalNodeCore::from_template` API to return Result](https://github.com/apache/datafusion/pull/10597) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Improve ContextProvider](https://github.com/apache/datafusion/pull/10577) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Migrate testing optimizer rules to use `rewrite` API](https://github.com/apache/datafusion/pull/10576) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Improve `UserDefinedLogicalNode::from_template` API to return `Result`](https://github.com/apache/datafusion/pull/10575) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 weeks ago)
 - [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (1 month ago)
