@@ -16,8 +16,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Debug print as many fields as possible for `SessionState`](https://github.com/apache/datafusion/pull/10818) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Fix `ScalarUDFImpl::propagate_constraints` doc](https://github.com/apache/datafusion/pull/10810) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Debug print as many fields as possible for `SessionState`](https://github.com/apache/datafusion/pull/10818) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Fix `ScalarUDFImpl::propagate_constraints` doc](https://github.com/apache/datafusion/pull/10810) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve docs and fix a typo](https://github.com/apache/datafusion/pull/10798) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Cleanup GetIndexedField](https://github.com/apache/datafusion/pull/10769) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Separate `Partitioning` protobuf serialization code](https://github.com/apache/datafusion/pull/10708) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
@@ -29,11 +29,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (today)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (5 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 weeks ago)
-- [systemxlabs/datafusion-geo](https://github.com/systemxlabs/datafusion-geo) - Add geo functionality extension to datafusion query engine. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -46,7 +46,7 @@
 #### 📜 Check out my recent blog posts
 
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (1 week ago)
-- [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (2 weeks ago)
+- [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (3 weeks ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (1 month ago)
 - [Ballista 分布式查询引擎 - 计划执行](https://systemxlabs.github.io/blog/ballista-mvp-part5/) (1 month ago)
 - [Ballista 分布式查询引擎 - 集群共享状态](https://systemxlabs.github.io/blog/ballista-mvp-part4/) (1 month ago)
