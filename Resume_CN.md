@@ -2,7 +2,7 @@
 
 联系方式：150-7143-1980 | lewiszlw520@gmail.com
 
-Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemxlabs](https://github.com/systemxlabs) | [github.com/NightsWatchGames](https://github.com/NightsWatchGames)
+Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemxlabs](https://github.com/systemxlabs)
 
 ## 教育背景
 - 2014.09 - 2018.06 / [武汉理工大学](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology) / 本科 / 计算机科学与技术专业
@@ -61,14 +61,15 @@ Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemx
 
 #### 开源贡献与项目
 主要开源贡献
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 24 commits
-- [bevyengine/bevy](https://github.com/bevyengine/bevy/commits?author=lewiszlw): 贡献 21 commits
-- [geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw): 贡献 18 commits
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 30 prs（Committer）
+- [bevyengine/bevy](https://github.com/bevyengine/bevy/commits?author=lewiszlw): 贡献 21 prs（社区成员）
+- [geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw): 贡献 18 prs
 
 个人开源项目
 - [bustubx](https://github.com/systemxlabs/bustubx): Rust实现的关系型数据库
 - [sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom): Rust实现的SQL查询解析器
 - [datafusion-geo](https://github.com/systemxlabs/datafusion-geo): 给DataFusion查询引擎扩展GEO计算能力
+- [ballista-mvp](https://github.com/systemxlabs/ballista-mvp): 分布式查询引擎最小实现，并撰写了[系列文章](https://systemxlabs.github.io/blog/ballista-mvp-part1/)
 - [raft](https://github.com/systemxlabs/raft): Rust实现的Raft共识算法
 - [derive-with](https://github.com/systemxlabs/derive-with): 使用Rust过程宏实现的with构造方法链式调用
 - [tiny-renderer](https://github.com/NightsWatchGames/tiny-renderer): Rust实现光栅化实时软渲染
