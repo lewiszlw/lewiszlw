@@ -16,22 +16,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Deprecate `OptimizerRule::try_optimize`](https://github.com/apache/datafusion/pull/11022) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Support multi extension codecs for `AsExecutionPlan` trait](https://github.com/apache/datafusion/pull/10983) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Fix `file_stream_provider` example compilation failure on windows](https://github.com/apache/datafusion/pull/10975) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Fix job hangs when partition count of plan is zero](https://github.com/apache/datafusion-ballista/pull/1024) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (4 days ago)
-- [Convert `StringAgg` to UDAF](https://github.com/apache/datafusion/pull/10945) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Give `OptimizerRule::try_optimize` default implementation and cleanup duplicated custom implementations](https://github.com/apache/datafusion/pull/11059) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Deprecate `OptimizerRule::try_optimize`](https://github.com/apache/datafusion/pull/11022) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Support multi extension codecs for `AsExecutionPlan` trait](https://github.com/apache/datafusion/pull/10983) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Fix `file_stream_provider` example compilation failure on windows](https://github.com/apache/datafusion/pull/10975) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Fix job hangs when partition count of plan is zero](https://github.com/apache/datafusion-ballista/pull/1024) on [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) (5 days ago)
+- [Convert `StringAgg` to UDAF](https://github.com/apache/datafusion/pull/10945) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Move `Literal` to `physical-expr-common`](https://github.com/apache/datafusion/pull/10910) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Debug print as many fields as possible for `SessionState`](https://github.com/apache/datafusion/pull/10818) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Fix `ScalarUDFImpl::propagate_constraints` doc](https://github.com/apache/datafusion/pull/10810) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Improve docs and fix a typo](https://github.com/apache/datafusion/pull/10798) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Cleanup GetIndexedField](https://github.com/apache/datafusion/pull/10769) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (5 days ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (6 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (6 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 
@@ -39,7 +39,7 @@
 
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 month ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (2 months ago)
-- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (2 months ago)
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (3 months ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 months ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (3 months ago)
 
@@ -49,4 +49,4 @@
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (1 month ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (1 month ago)
 - [Ballista 分布式查询引擎 - 计划执行](https://systemxlabs.github.io/blog/ballista-mvp-part5/) (1 month ago)
-- [Ballista 分布式查询引擎 - 集群共享状态](https://systemxlabs.github.io/blog/ballista-mvp-part4/) (1 month ago)
+- [Ballista 分布式查询引擎 - 集群共享状态](https://systemxlabs.github.io/blog/ballista-mvp-part4/) (2 months ago)
