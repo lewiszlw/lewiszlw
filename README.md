@@ -16,9 +16,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Reduce TaskContext clone](https://github.com/apache/datafusion/pull/11161) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Enable `clone_on_ref_ptr` lint](https://github.com/apache/datafusion/pull/11157) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Add composed extension codec example](https://github.com/apache/datafusion/pull/11095) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Reduce TaskContext clone](https://github.com/apache/datafusion/pull/11161) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Enable `clone_on_ref_ptr` lint](https://github.com/apache/datafusion/pull/11157) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Add composed extension codec example](https://github.com/apache/datafusion/pull/11095) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Give `OptimizerRule::try_optimize` default implementation and cleanup duplicated custom implementations](https://github.com/apache/datafusion/pull/11059) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Deprecate `OptimizerRule::try_optimize`](https://github.com/apache/datafusion/pull/11022) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Support multi extension codecs for `AsExecutionPlan` trait](https://github.com/apache/datafusion/pull/10983) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -29,9 +29,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (5 days ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 week ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 weeks ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (2 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 weeks ago)
 
