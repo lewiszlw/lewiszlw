@@ -16,8 +16,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Reduce TaskContext clone](https://github.com/apache/datafusion/pull/11161) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Enable `clone_on_ref_ptr` lint](https://github.com/apache/datafusion/pull/11157) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Reduce TaskContext clone](https://github.com/apache/datafusion/pull/11161) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Enable `clone_on_ref_ptr`clippy  lint on some crates](https://github.com/apache/datafusion/pull/11157) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
 - [Add composed extension codec example](https://github.com/apache/datafusion/pull/11095) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Give `OptimizerRule::try_optimize` default implementation and cleanup duplicated custom implementations](https://github.com/apache/datafusion/pull/11059) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Deprecate `OptimizerRule::try_optimize`](https://github.com/apache/datafusion/pull/11022) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -45,7 +45,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (4 weeks ago)
+- [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (1 month ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (1 month ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (1 month ago)
 - [Ballista 分布式查询引擎 - 计划执行](https://systemxlabs.github.io/blog/ballista-mvp-part5/) (2 months ago)
