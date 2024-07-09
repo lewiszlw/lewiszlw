@@ -16,23 +16,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix typos in meshlet section](https://github.com/bevyengine/bevy-website/pull/1535) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (3 days ago)
-- [Add `FlightSqlServiceClient::new_from_inner`](https://github.com/apache/arrow-rs/pull/6003) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 days ago)
-- [Add typos check in ci workflow](https://github.com/apache/datafusion/pull/11259) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Rename `Schema::all_fields` to `flattened_fields`](https://github.com/apache/arrow-rs/pull/6001) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on physical-plan crate](https://github.com/apache/datafusion/pull/11241) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on physical-expr crate](https://github.com/apache/datafusion/pull/11240) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on execution crate](https://github.com/apache/datafusion/pull/11239) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on expr crate](https://github.com/apache/datafusion/pull/11238) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Fix typos in meshlet section](https://github.com/bevyengine/bevy-website/pull/1535) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (4 days ago)
+- [Add `FlightSqlServiceClient::new_from_inner`](https://github.com/apache/arrow-rs/pull/6003) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (5 days ago)
+- [Fix typos in datafusion-examples/datafusion-cli/docs](https://github.com/apache/datafusion/pull/11259) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Rename `Schema::all_fields` to `flattened_fields`](https://github.com/apache/arrow-rs/pull/6001) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (5 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on physical-plan crate](https://github.com/apache/datafusion/pull/11241) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on physical-expr crate](https://github.com/apache/datafusion/pull/11240) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on execution crate](https://github.com/apache/datafusion/pull/11239) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on expr crate](https://github.com/apache/datafusion/pull/11238) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Reduce TaskContext clone](https://github.com/apache/datafusion/pull/11161) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Enable `clone_on_ref_ptr`clippy  lint on some crates](https://github.com/apache/datafusion/pull/11157) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 days ago)
-- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (3 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website (4 days ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (3 weeks ago)
 
 #### ⭐ Check out my recent stars
@@ -45,8 +45,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (2 days ago)
+- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (3 days ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (1 month ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (1 month ago)
-- [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (1 month ago)
+- [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (2 months ago)
 - [Ballista 分布式查询引擎 - 计划执行](https://systemxlabs.github.io/blog/ballista-mvp-part5/) (2 months ago)
