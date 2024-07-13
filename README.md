@@ -16,24 +16,24 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(parser): support parsing placeholder](https://github.com/datafuselabs/databend/pull/16030) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (1 day ago)
-- [Support serialization/deserialization for custom physical exprs in proto](https://github.com/apache/datafusion/pull/11387) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on common](https://github.com/apache/datafusion/pull/11384) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on sql](https://github.com/apache/datafusion/pull/11380) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [chore: add repo link in databend-common-ast lib](https://github.com/datafuselabs/databend/pull/16010) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (2 days ago)
-- [Add begin/end_transaction methods in FlightSqlServiceClient](https://github.com/apache/arrow-rs/pull/6026) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on optimizer](https://github.com/apache/datafusion/pull/11346) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [feat(parser): support parsing placeholder](https://github.com/datafuselabs/databend/pull/16030) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (2 days ago)
+- [Support serialization/deserialization for custom physical exprs in proto](https://github.com/apache/datafusion/pull/11387) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on common](https://github.com/apache/datafusion/pull/11384) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on sql](https://github.com/apache/datafusion/pull/11380) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [chore: add repo link in databend-common-ast lib](https://github.com/datafuselabs/databend/pull/16010) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (3 days ago)
+- [Add begin/end_transaction methods in FlightSqlServiceClient](https://github.com/apache/arrow-rs/pull/6026) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on optimizer](https://github.com/apache/datafusion/pull/11346) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
 - [Fix typos in meshlet section](https://github.com/bevyengine/bevy-website/pull/1535) on [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) (1 week ago)
 - [Add `FlightSqlServiceClient::new_from_inner`](https://github.com/apache/arrow-rs/pull/6003) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
 - [Fix typos in datafusion-examples/datafusion-cli/docs](https://github.com/apache/datafusion/pull/11259) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com (2 days ago)
-- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com (3 days ago)
+- [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (4 days ago)
 
 #### ⭐ Check out my recent stars
 
@@ -45,7 +45,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (6 days ago)
+- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (1 week ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (1 month ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (1 month ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (2 months ago)
