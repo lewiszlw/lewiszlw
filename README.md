@@ -16,23 +16,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Create `datafusion-physical-optimizer` crate](https://github.com/apache/datafusion/pull/11507) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Reorganize arrow-flight test code](https://github.com/apache/arrow-rs/pull/6065) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 days ago)
-- [Replace to_lowercase with to_string in sql example](https://github.com/apache/datafusion/pull/11486) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on functions*](https://github.com/apache/datafusion/pull/11468) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Enable `clone_on_ref_ptr` clippy lints on proto](https://github.com/apache/datafusion/pull/11465) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [UDF pushdown into cross join](https://github.com/apache/datafusion/pull/11528) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Create `datafusion-physical-optimizer` crate](https://github.com/apache/datafusion/pull/11507) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Reorganize arrow-flight test code](https://github.com/apache/arrow-rs/pull/6065) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 days ago)
+- [Replace to_lowercase with to_string in sql example](https://github.com/apache/datafusion/pull/11486) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on functions*](https://github.com/apache/datafusion/pull/11468) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Enable `clone_on_ref_ptr` clippy lints on proto](https://github.com/apache/datafusion/pull/11465) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
 - [feat(parser): support parsing placeholder](https://github.com/datafuselabs/databend/pull/16030) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (1 week ago)
 - [Support serialization/deserialization for custom physical exprs in proto](https://github.com/apache/datafusion/pull/11387) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Enable `clone_on_ref_ptr` clippy lint on common](https://github.com/apache/datafusion/pull/11384) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Enable `clone_on_ref_ptr` clippy lint on sql](https://github.com/apache/datafusion/pull/11380) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [chore: add repo link in databend-common-ast lib](https://github.com/datafuselabs/databend/pull/16010) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 day ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 day ago)
-- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 days ago)
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (4 days ago)
 - [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 week ago)
 
 #### ⭐ Check out my recent stars
