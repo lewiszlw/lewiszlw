@@ -16,12 +16,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [UDF pushdown into cross join](https://github.com/apache/datafusion/pull/11528) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Create `datafusion-physical-optimizer` crate](https://github.com/apache/datafusion/pull/11507) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Reorganize arrow-flight test code](https://github.com/apache/arrow-rs/pull/6065) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 days ago)
-- [Replace to_lowercase with to_string in sql example](https://github.com/apache/datafusion/pull/11486) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Enable `clone_on_ref_ptr` clippy lint on functions*](https://github.com/apache/datafusion/pull/11468) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Enable `clone_on_ref_ptr` clippy lints on proto](https://github.com/apache/datafusion/pull/11465) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [UDF pushdown into cross join](https://github.com/apache/datafusion/pull/11528) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Create `datafusion-physical-optimizer` crate](https://github.com/apache/datafusion/pull/11507) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Reorganize arrow-flight test code](https://github.com/apache/arrow-rs/pull/6065) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 days ago)
+- [Replace to_lowercase with to_string in sql example](https://github.com/apache/datafusion/pull/11486) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Enable `clone_on_ref_ptr` clippy lint on functions*](https://github.com/apache/datafusion/pull/11468) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Enable `clone_on_ref_ptr` clippy lints on proto](https://github.com/apache/datafusion/pull/11465) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
 - [feat(parser): support parsing placeholder](https://github.com/datafuselabs/databend/pull/16030) on [datafuselabs/databend](https://github.com/datafuselabs/databend) (1 week ago)
 - [Support serialization/deserialization for custom physical exprs in proto](https://github.com/apache/datafusion/pull/11387) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Enable `clone_on_ref_ptr` clippy lint on common](https://github.com/apache/datafusion/pull/11384) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -29,10 +29,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 days ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 days ago)
-- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (3 days ago)
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (5 days ago)
 - [systemxlabs/sqlparser-nom](https://github.com/systemxlabs/sqlparser-nom) - A SQL query parser written using nom. (1 week ago)
 
 #### ⭐ Check out my recent stars
@@ -45,7 +45,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (1 week ago)
+- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (2 weeks ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (1 month ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (1 month ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (2 months ago)
