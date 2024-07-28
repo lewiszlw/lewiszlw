@@ -16,8 +16,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Rename `input_type` --&gt; `input_types` om AggregateFunctionExpr / AccumulatorArgs / StateFieldsArgs](https://github.com/apache/datafusion/pull/11666) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Concurrent collect](https://github.com/sundy-li/arrow_cli/pull/20) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Rename `input_type` --&gt; `input_types` om AggregateFunctionExpr / AccumulatorArgs / StateFieldsArgs](https://github.com/apache/datafusion/pull/11666) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Concurrent collect](https://github.com/sundy-li/arrow_cli/pull/20) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
 - [Push scalar functions  into cross join](https://github.com/apache/datafusion/pull/11528) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Create `datafusion-physical-optimizer` crate](https://github.com/apache/datafusion/pull/11507) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Reorganize arrow-flight test code](https://github.com/apache/arrow-rs/pull/6065) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 week ago)
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine (1 week ago)
