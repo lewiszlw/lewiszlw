@@ -16,21 +16,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Optionally create name of aggregate expression from expressions](https://github.com/apache/datafusion/pull/11776) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Support `LogicalPlan` `Debug` differently than `Display`](https://github.com/apache/datafusion/pull/11774) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Move datafusion to data processing and update desc](https://github.com/rust-unofficial/awesome-rust/pull/1777) on [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) (3 days ago)
-- [Derive `Debug` for logical plan nodes](https://github.com/apache/datafusion/pull/11757) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Minor: Improve documentation for AggregateUDFImpl::state_fields](https://github.com/apache/datafusion/pull/11740) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Create `name` of aggregate expression from expressions](https://github.com/apache/datafusion/pull/11739) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Evaluate ValuesExec&#39;s exprs during execution](https://github.com/apache/datafusion/pull/11737) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Remove `AggregateFunctionDefinition`](https://github.com/apache/datafusion/pull/11803) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Optionally create name of aggregate expression from expressions](https://github.com/apache/datafusion/pull/11776) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Support `LogicalPlan` `Debug` differently than `Display`](https://github.com/apache/datafusion/pull/11774) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Move datafusion to data processing and update desc](https://github.com/rust-unofficial/awesome-rust/pull/1777) on [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) (4 days ago)
+- [Derive `Debug` for logical plan nodes](https://github.com/apache/datafusion/pull/11757) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Minor: Improve documentation for AggregateUDFImpl::state_fields](https://github.com/apache/datafusion/pull/11740) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Create `name` of aggregate expression from expressions](https://github.com/apache/datafusion/pull/11739) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Evaluate ValuesExec&#39;s exprs during execution](https://github.com/apache/datafusion/pull/11737) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
 - [Rename `input_type` --&gt; `input_types` on AggregateFunctionExpr / AccumulatorArgs / StateFieldsArgs](https://github.com/apache/datafusion/pull/11666) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Concurrent collect](https://github.com/sundy-li/arrow_cli/pull/20) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
-- [Push scalar functions  into cross join](https://github.com/apache/datafusion/pull/11528) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (3 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (4 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 weeks ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 weeks ago)
@@ -45,7 +45,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (4 weeks ago)
+- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (1 month ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (2 months ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (2 months ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (2 months ago)
