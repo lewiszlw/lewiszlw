@@ -16,7 +16,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Improve nested loop join code](https://github.com/apache/datafusion/pull/11863) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Move `LimitPushdown` to physical-optimizer crate](https://github.com/apache/datafusion/pull/11945) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Improve nested loop join code](https://github.com/apache/datafusion/pull/11863) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Add `LogicalPlan::CreateIndex`](https://github.com/apache/datafusion/pull/11817) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Don&#39;t implement `create_sliding_accumulator` repeatedly](https://github.com/apache/datafusion/pull/11813) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve readme page in crates.io](https://github.com/apache/datafusion/pull/11809) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -25,15 +26,14 @@
 - [Optionally create name of aggregate expression from expressions](https://github.com/apache/datafusion/pull/11776) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Support `LogicalPlan` `Debug` differently than `Display`](https://github.com/apache/datafusion/pull/11774) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Move datafusion to data processing and update desc](https://github.com/rust-unofficial/awesome-rust/pull/1777) on [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) (1 week ago)
-- [Derive `Debug` for logical plan nodes](https://github.com/apache/datafusion/pull/11757) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (1 week ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 weeks ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 
 #### ⭐ Check out my recent stars
 
