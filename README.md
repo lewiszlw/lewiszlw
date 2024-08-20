@@ -16,28 +16,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: Remove wrong comment on `Accumulator::evaluate` and `Accumulator::state`](https://github.com/apache/datafusion/pull/12001) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Fix CI and increase timeout](https://github.com/sundy-li/arrow_cli/pull/22) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
+- [Support create index with clause](https://github.com/sqlparser-rs/sqlparser-rs/pull/1389) on [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) (1 day ago)
+- [Minor: polish `Accumulator::state` docs](https://github.com/apache/datafusion/pull/12053) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Minor: Remove wrong comment on `Accumulator::evaluate` and `Accumulator::state`](https://github.com/apache/datafusion/pull/12001) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Fix CI and increase timeout](https://github.com/sundy-li/arrow_cli/pull/22) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (6 days ago)
 - [Move `LimitPushdown` to physical-optimizer crate](https://github.com/apache/datafusion/pull/11945) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve nested loop join code](https://github.com/apache/datafusion/pull/11863) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Add `LogicalPlan::CreateIndex`](https://github.com/apache/datafusion/pull/11817) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Don&#39;t implement `create_sliding_accumulator` repeatedly](https://github.com/apache/datafusion/pull/11813) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Improve readme page in crates.io](https://github.com/apache/datafusion/pull/11809) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Improve log func tests stability](https://github.com/apache/datafusion/pull/11808) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Remove `AggregateFunctionDefinition`](https://github.com/apache/datafusion/pull/11803) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Optionally create name of aggregate expression from expressions](https://github.com/apache/datafusion/pull/11776) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (3 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
-- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (5 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (5 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (4 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (6 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (6 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (5 days ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (6 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 months ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (4 months ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (4 months ago)
