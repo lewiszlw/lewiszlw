@@ -16,24 +16,24 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Use `LexRequirement` alias as much as possible](https://github.com/apache/datafusion/pull/12130) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Improve `CombinePartialFinalAggregate` code readability](https://github.com/apache/datafusion/pull/12128) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
-- [Remove `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12096) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Cleanup `WindowExpr` and `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12069) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Move `CombinePartialFinalAggregate` rule into physical-optimizer crate](https://github.com/apache/datafusion/pull/12167) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Use `LexRequirement` alias as much as possible](https://github.com/apache/datafusion/pull/12130) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Improve `CombinePartialFinalAggregate` code readability](https://github.com/apache/datafusion/pull/12128) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Remove `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12096) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Cleanup `WindowExpr` and `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12069) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Support create index with clause](https://github.com/sqlparser-rs/sqlparser-rs/pull/1389) on [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) (1 week ago)
 - [Minor: polish `Accumulator::state` docs](https://github.com/apache/datafusion/pull/12053) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: Remove wrong comment on `Accumulator::evaluate` and `Accumulator::state`](https://github.com/apache/datafusion/pull/12001) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Fix CI and increase timeout](https://github.com/sundy-li/arrow_cli/pull/22) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
 - [Move `LimitPushdown` to physical-optimizer crate](https://github.com/apache/datafusion/pull/11945) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Improve nested loop join code](https://github.com/apache/datafusion/pull/11863) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (5 days ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 week ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
