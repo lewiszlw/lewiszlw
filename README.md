@@ -16,28 +16,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Move `CombinePartialFinalAggregate` rule into physical-optimizer crate](https://github.com/apache/datafusion/pull/12167) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Use `LexRequirement` alias as much as possible](https://github.com/apache/datafusion/pull/12130) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Improve `CombinePartialFinalAggregate` code readability](https://github.com/apache/datafusion/pull/12128) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Remove `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12096) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Improve binary scalars display](https://github.com/apache/datafusion/pull/12192) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Move `CombinePartialFinalAggregate` rule into physical-optimizer crate](https://github.com/apache/datafusion/pull/12167) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Use `LexRequirement` alias as much as possible](https://github.com/apache/datafusion/pull/12130) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Improve `CombinePartialFinalAggregate` code readability](https://github.com/apache/datafusion/pull/12128) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Remove `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12096) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Cleanup `WindowExpr` and `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12069) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Support create index with clause](https://github.com/sqlparser-rs/sqlparser-rs/pull/1389) on [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) (1 week ago)
 - [Minor: polish `Accumulator::state` docs](https://github.com/apache/datafusion/pull/12053) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: Remove wrong comment on `Accumulator::evaluate` and `Accumulator::state`](https://github.com/apache/datafusion/pull/12001) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [Fix CI and increase timeout](https://github.com/sundy-li/arrow_cli/pull/22) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
-- [Move `LimitPushdown` to physical-optimizer crate](https://github.com/apache/datafusion/pull/11945) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
+- [Fix CI and increase timeout](https://github.com/sundy-li/arrow_cli/pull/22) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (5 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
+- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 day ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 weeks ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 weeks ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 week ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 months ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (5 months ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (5 months ago)
