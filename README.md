@@ -16,28 +16,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
-- [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve binary scalars display](https://github.com/apache/datafusion/pull/12192) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Move `CombinePartialFinalAggregate` rule into physical-optimizer crate](https://github.com/apache/datafusion/pull/12167) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Use `LexRequirement` alias as much as possible](https://github.com/apache/datafusion/pull/12130) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve `CombinePartialFinalAggregate` code readability](https://github.com/apache/datafusion/pull/12128) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [Remove `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12096) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
+- [Remove `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12096) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Cleanup `WindowExpr` and `AggregateExpr` trait](https://github.com/apache/datafusion/pull/12069) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Support create index with clause](https://github.com/sqlparser-rs/sqlparser-rs/pull/1389) on [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (3 days ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (3 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (3 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (4 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (4 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (2 weeks ago)
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (3 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 months ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (5 months ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (5 months ago)
@@ -45,7 +45,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (1 month ago)
+- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (2 months ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (3 months ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (3 months ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (3 months ago)
