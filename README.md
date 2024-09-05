@@ -16,9 +16,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
-- [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Improve binary scalars display](https://github.com/apache/datafusion/pull/12192) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Move `CombinePartialFinalAggregate` rule into physical-optimizer crate](https://github.com/apache/datafusion/pull/12167) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -29,11 +29,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (3 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (4 days ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (4 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (4 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (5 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (5 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
 
 #### ⭐ Check out my recent stars
 
