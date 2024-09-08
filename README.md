@@ -16,10 +16,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
-- [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
+- [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
 - [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
@@ -29,10 +29,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 days ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (6 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (today)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (3 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
 - [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
@@ -45,8 +45,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [DataFusion 两阶段并行哈希分组聚合](https://systemxlabs.github.io/blog/datafusion-grouped-aggregations/) (2 weeks ago)
 - [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (2 months ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (3 months ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (3 months ago)
 - [Apache DataFusion 查询引擎论文](https://systemxlabs.github.io/blog/datafusion-paper/) (4 months ago)
-- [Ballista 分布式查询引擎 - 计划执行](https://systemxlabs.github.io/blog/ballista-mvp-part5/) (4 months ago)
