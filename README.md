@@ -16,24 +16,24 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix build badge](https://github.com/smol-rs/async-executor/pull/128) on [smol-rs/async-executor](https://github.com/smol-rs/async-executor) (1 day ago)
+- [Fix build badge](https://github.com/smol-rs/async-task/pull/82) on [smol-rs/async-task](https://github.com/smol-rs/async-task) (1 day ago)
 - [Reuse `spill_record_batch_by_size` function](https://github.com/apache/datafusion/pull/12389) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
+- [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
+- [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Improve binary scalars display](https://github.com/apache/datafusion/pull/12192) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Move `CombinePartialFinalAggregate` rule into physical-optimizer crate](https://github.com/apache/datafusion/pull/12167) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - [Archived] A fork of databend which only keeps parser code, easy to extend SQL grammar based on it. (5 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
+- [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 day ago)
+- [smol-rs/async-executor](https://github.com/smol-rs/async-executor) - Async executor (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [systemxlabs/databend-parser](https://github.com/systemxlabs/databend-parser) - [Archived] A fork of databend which only keeps parser code, easy to extend SQL grammar based on it. (6 days ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 week ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
