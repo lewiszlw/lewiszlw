@@ -23,15 +23,15 @@
 - [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
-- [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
+- [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
+- [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 day ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (1 week ago)
 - [smol-rs/async-executor](https://github.com/smol-rs/async-executor) - Async executor (1 week ago)
 
