@@ -19,7 +19,7 @@
 - [Fix build badge](https://github.com/smol-rs/async-executor/pull/128) on [smol-rs/async-executor](https://github.com/smol-rs/async-executor) (2 weeks ago)
 - [Fix build badge](https://github.com/smol-rs/async-task/pull/82) on [smol-rs/async-task](https://github.com/smol-rs/async-task) (2 weeks ago)
 - [Reuse `spill_record_batch_by_size` function](https://github.com/apache/datafusion/pull/12389) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
+- [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
 - [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
 - [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
 - [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (6 days ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (6 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [smol-rs/async-executor](https://github.com/smol-rs/async-executor) - Async executor (2 weeks ago)
 - [smol-rs/async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors (2 weeks ago)
@@ -47,6 +47,6 @@
 
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (3 weeks ago)
 - [DataFusion 查询引擎两阶段并行哈希分组聚合](https://systemxlabs.github.io/blog/datafusion-grouped-aggregations/) (1 month ago)
-- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (2 months ago)
+- [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (3 months ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (4 months ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (4 months ago)
