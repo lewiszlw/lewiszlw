@@ -19,7 +19,7 @@
 - [Fix build badge](https://github.com/smol-rs/async-executor/pull/128) on [smol-rs/async-executor](https://github.com/smol-rs/async-executor) (2 weeks ago)
 - [Fix build badge](https://github.com/smol-rs/async-task/pull/82) on [smol-rs/async-task](https://github.com/smol-rs/async-task) (2 weeks ago)
 - [Reuse `spill_record_batch_by_size` function](https://github.com/apache/datafusion/pull/12389) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
+- [Minor: Re-export variable provider](https://github.com/apache/datafusion/pull/12351) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Move `TopKAggregation` rule into `physical-optimizer` crate](https://github.com/apache/datafusion/pull/12334) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Simplify `update_skip_aggregation_probe` method](https://github.com/apache/datafusion/pull/12332) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
