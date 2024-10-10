@@ -16,6 +16,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: Bump `delta_kernel` version for bug fixes](https://github.com/delta-io/delta-rs/pull/2933) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (1 day ago)
 - [Fix build badge](https://github.com/smol-rs/async-executor/pull/128) on [smol-rs/async-executor](https://github.com/smol-rs/async-executor) (3 weeks ago)
 - [Fix build badge](https://github.com/smol-rs/async-task/pull/82) on [smol-rs/async-task](https://github.com/smol-rs/async-task) (3 weeks ago)
 - [Reuse `spill_record_batch_by_size` function](https://github.com/apache/datafusion/pull/12389) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -25,7 +26,6 @@
 - [Fix various typos in aggregation doc](https://github.com/apache/datafusion/pull/12301) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Remove redundant result of `AggregateFunctionExpr::field`](https://github.com/apache/datafusion/pull/12258) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Make group expressions nullable more accurate](https://github.com/apache/datafusion/pull/12256) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
-- [Minor: Fix grouping set typo](https://github.com/apache/datafusion/pull/12216) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -38,14 +38,14 @@
 #### ⭐ Check out my recent stars
 
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (4 weeks ago)
-- [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) - Rust 死灵书简体中文翻译 (4 weeks ago)
+- [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) - Rust 死灵书简体中文翻译 (1 month ago)
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow. (1 month ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 months ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (6 months ago)
 
 #### 📜 Check out my recent blog posts
 
-- [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (3 weeks ago)
+- [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (4 weeks ago)
 - [DataFusion 查询引擎两阶段并行哈希分组聚合](https://systemxlabs.github.io/blog/datafusion-grouped-aggregations/) (1 month ago)
 - [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (3 months ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (4 months ago)
