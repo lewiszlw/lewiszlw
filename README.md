@@ -16,7 +16,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: Bump `delta_kernel` version for bug fixes](https://github.com/delta-io/delta-rs/pull/2933) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (4 days ago)
+- [fix: Bump `delta_kernel` version for bug fixes](https://github.com/delta-io/delta-rs/pull/2933) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (5 days ago)
 - [Fix build badge](https://github.com/smol-rs/async-executor/pull/128) on [smol-rs/async-executor](https://github.com/smol-rs/async-executor) (3 weeks ago)
 - [Fix build badge](https://github.com/smol-rs/async-task/pull/82) on [smol-rs/async-task](https://github.com/smol-rs/async-task) (3 weeks ago)
 - [Reuse `spill_record_batch_by_size` function](https://github.com/apache/datafusion/pull/12389) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 weeks ago)
 - [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 weeks ago)
 - [smol-rs/async-executor](https://github.com/smol-rs/async-executor) - Async executor (3 weeks ago)
