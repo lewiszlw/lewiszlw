@@ -16,22 +16,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update ch6 2fs-implementation.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/226) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 day ago)
-- [Update ch6 0intro.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/225) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (3 days ago)
-- [Update ch5 0intro.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/224) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 days ago)
-- [Update 7more-as.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/223) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (5 days ago)
-- [Update 6multitasking-based-on-as.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/222) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (5 days ago)
-- [Update 3sv39-implementation-1.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/221) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (6 days ago)
-- [Update 2address-space.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/220) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (6 days ago)
-- [Update 1rust-dynamic-allocation.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/219) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (6 days ago)
+- [Update ch6 3using-easy-fs-in-kernel.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/227) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 day ago)
+- [Update ch6 2fs-implementation.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/226) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (2 days ago)
+- [Update ch6 0intro.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/225) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 days ago)
+- [Update ch5 0intro.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/224) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (5 days ago)
+- [Update 7more-as.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/223) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (6 days ago)
+- [Update 6multitasking-based-on-as.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/222) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (6 days ago)
+- [Update 3sv39-implementation-1.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/221) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
+- [Update 2address-space.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/220) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
+- [Update 1rust-dynamic-allocation.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/219) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [fix: Bump `delta_kernel` version for bug fixes](https://github.com/delta-io/delta-rs/pull/2933) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (1 week ago)
-- [Fix build badge](https://github.com/smol-rs/async-executor/pull/128) on [smol-rs/async-executor](https://github.com/smol-rs/async-executor) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (3 days ago)
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (5 days ago)
-- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (6 days ago)
+- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (4 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (6 days ago)
+- [NightsWatchGames/.github](https://github.com/NightsWatchGames/.github) -  (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (3 weeks ago)
 
@@ -46,7 +46,7 @@
 #### 📜 Check out my recent blog posts
 
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (1 month ago)
-- [DataFusion 查询引擎两阶段并行哈希分组聚合](https://systemxlabs.github.io/blog/datafusion-grouped-aggregations/) (1 month ago)
+- [DataFusion 查询引擎两阶段并行哈希分组聚合](https://systemxlabs.github.io/blog/datafusion-grouped-aggregations/) (2 months ago)
 - [Rust 无畏并发的基础 Send 和 Sync](https://systemxlabs.github.io/blog/rust-send-sync/) (3 months ago)
 - [DataFusion 查询引擎 UDF 设计](https://systemxlabs.github.io/blog/datafusion-udf/) (4 months ago)
 - [DataFusion 查询引擎 TreeNode APIs](https://systemxlabs.github.io/blog/datafusion-tree-node-apis/) (5 months ago)
