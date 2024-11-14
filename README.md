@@ -17,22 +17,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (1 day ago)
-- [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (6 days ago)
+- [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (1 day ago)
+- [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (2 days ago)
+- [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (1 week ago)
 - [Update ch9 2device-driver-3.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/239) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [Update ch9 2device-driver-2.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/238) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [Update ch9 2device-driver-1.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/237) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [Update ch9 2device-driver-0.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/236) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [Update ch9 1io-interface.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/235) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [Update ch8 5concurrency-problem.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/234) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
-- [Update ch8 2lock.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/233) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
-- [Task initial stack pointer doesn&#39;t need offset -32 in stackful_coroutine example](https://github.com/rcore-os/rCore-Tutorial-v3/pull/154) on [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) (2 weeks ago)
+- [Update ch8 2lock.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/233) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 day ago)
-- [rcore-os/blog](https://github.com/rcore-os/blog) - rcore-os Developer Blog (5 days ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (2 days ago)
+- [rcore-os/blog](https://github.com/rcore-os/blog) - rcore-os Developer Blog (6 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
 - [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 
