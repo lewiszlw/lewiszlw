@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (4 days ago)
-- [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (5 days ago)
+- [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (5 days ago)
+- [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (6 days ago)
 - [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (1 week ago)
 - [Update ch9 2device-driver-3.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/239) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
 - [Update ch9 2device-driver-2.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/238) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (5 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (6 days ago)
 - [rcore-os/blog](https://github.com/rcore-os/blog) - rcore-os Developer Blog (1 week ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
-- [systemxlabs/ballista-mvp](https://github.com/systemxlabs/ballista-mvp) - A MVP implementation of distributed query engine cut from datafusion-ballista codebase for learning purpose.  (1 week ago)
 
 #### ⭐ Check out my recent stars
 
