@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Support custom field metadata in UDF](https://github.com/apache/datafusion/pull/13458) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
+- [Support custom field metadata in UDF](https://github.com/apache/datafusion/pull/13458) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
 - [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (1 week ago)
 - [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (1 week ago)
 - [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (2 weeks ago)
@@ -31,10 +31,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/riscv-hypervisor](https://github.com/systemxlabs/riscv-hypervisor) - A type-1 hypervisor written in Rust and run on RISC-V machine with H extension. (1 day ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
+- [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 week ago)
-- [rcore-os/blog](https://github.com/rcore-os/blog) - rcore-os Developer Blog (2 weeks ago)
+- [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python (1 week ago)
 
 #### ⭐ Check out my recent stars
 
