@@ -17,32 +17,32 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [2024秋冬季开源操作系统训练营第三阶段总结-张林伟](https://github.com/rcore-os/blog/pull/652) on [rcore-os/blog](https://github.com/rcore-os/blog) (2 days ago)
+- [2024秋冬季开源操作系统训练营第三阶段总结-张林伟](https://github.com/rcore-os/blog/pull/652) on [rcore-os/blog](https://github.com/rcore-os/blog) (3 days ago)
 - [Support custom field metadata in UDF](https://github.com/apache/datafusion/pull/13458) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (3 weeks ago)
 - [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (3 weeks ago)
-- [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (3 weeks ago)
+- [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (4 weeks ago)
 - [Update ch9 2device-driver-3.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/239) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 weeks ago)
-- [Update ch9 2device-driver-2.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/238) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 weeks ago)
-- [Update ch9 2device-driver-1.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/237) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 weeks ago)
-- [Update ch9 2device-driver-0.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/236) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 weeks ago)
-- [Update ch9 1io-interface.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/235) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (4 weeks ago)
+- [Update ch9 2device-driver-2.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/238) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 month ago)
+- [Update ch9 2device-driver-1.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/237) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 month ago)
+- [Update ch9 2device-driver-0.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/236) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 month ago)
+- [Update ch9 1io-interface.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/235) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/riscv-hypervisor](https://github.com/systemxlabs/riscv-hypervisor) - A type-1 hypervisor written in Rust and run on RISC-V machine with H extension. (today)
-- [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (2 days ago)
+- [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (3 days ago)
 - [NightsWatchGames/nightswatchgames.github.io](https://github.com/NightsWatchGames/nightswatchgames.github.io) - The source files for the official website. (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
+- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (today)
 - [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (1 month ago)
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (1 month ago)
 - [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (1 month ago)
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (2 months ago)
-- [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) - Rust 死灵书简体中文翻译 (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
