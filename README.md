@@ -31,9 +31,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
+- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (1 day ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (1 week ago)
-- [systemxlabs/riscv-hypervisor](https://github.com/systemxlabs/riscv-hypervisor) - A type-1 hypervisor written in Rust and run on RISC-V machine with H extension. (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
