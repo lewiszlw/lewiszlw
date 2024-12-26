@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [ 2024秋冬季开源操作系统训练营第三和第四阶段总结-张林伟](https://github.com/rcore-os/blog/pull/702) on [rcore-os/blog](https://github.com/rcore-os/blog) (3 days ago)
+- [ 2024秋冬季开源操作系统训练营第三和第四阶段总结-张林伟](https://github.com/rcore-os/blog/pull/702) on [rcore-os/blog](https://github.com/rcore-os/blog) (4 days ago)
 - [2024秋冬季开源操作系统训练营第三阶段总结-张林伟](https://github.com/rcore-os/blog/pull/652) on [rcore-os/blog](https://github.com/rcore-os/blog) (3 weeks ago)
 - [Support custom field metadata in UDF](https://github.com/apache/datafusion/pull/13458) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (1 month ago)
@@ -30,19 +30,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 day ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 day ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 day ago)
-- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (1 day ago)
-- [NightsWatchGames/screen-ball](https://github.com/NightsWatchGames/screen-ball) - Work and play ball game made with bevy engine. (2 days ago)
-- [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (2 days ago)
+- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (2 days ago)
+- [NightsWatchGames/jump-jump](https://github.com/NightsWatchGames/jump-jump) - 3D wechat jump-jump game made with bevy engine. (2 days ago)
+- [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (3 days ago)
 
 #### ⭐ Check out my recent stars
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (1 day ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (2 weeks ago)
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see https://github.com/rustsbi/prototyper. (2 weeks ago)
-- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (2 weeks ago)
+- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (3 weeks ago)
 - [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (1 month ago)
-- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily. (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
