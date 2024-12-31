@@ -10,10 +10,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiszlw&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🎖️ Open source contributions
-- [![Commits to Apache DataFusion](https://img.shields.io/github/commit-activity/t/apache/datafusion?authorFilter=lewiszlw&style=social&label=Apache%20DataFusion)](https://github.com/apache/datafusion/commits?author=lewiszlw)
+- [![Commits to Apache DataFusion](https://img.shields.io/github/commit-activity/t/apache/datafusion?authorFilter=lewiszlw&style=social&label=Apache%20DataFusion)](https://github.com/apache/datafusion/commits?author=lewiszlw) [![Commits to Arrow Rust](https://img.shields.io/github/commit-activity/t/apache/arrow-rs?authorFilter=lewiszlw&style=social&label=Arrow%20Rust)](https://github.com/apache/arrow-rs/commits?author=lewiszlw) [![Commits to Iceberg Rust](https://img.shields.io/github/commit-activity/t/apache/iceberg-rust?authorFilter=lewiszlw&style=social&label=Iceberg%20Rust)](https://github.com/apache/iceberg-rust/commits?author=lewiszlw)
+- [![Commits to GeoArrow Rust](https://img.shields.io/github/commit-activity/t/geoarrow/geoarrow-rs?authorFilter=lewiszlw&style=social&label=GeoArrow%20Rust)](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw) [![Commits to Geozero](https://img.shields.io/github/commit-activity/t/georust/geozero?authorFilter=lewiszlw&style=social&label=Geozero)](https://github.com/georust/geozero/commits?author=lewiszlw)
 - [![Commits to Bevy Engine](https://img.shields.io/github/commit-activity/t/bevyengine/bevy?authorFilter=lewiszlw&style=social&label=Bevy%20Engine)](https://github.com/bevyengine/bevy/commits?author=lewiszlw)
 - [![Commits to rCore-Tutorial-Book-v3](https://img.shields.io/github/commit-activity/t/rcore-os/rCore-Tutorial-Book-v3?authorFilter=lewiszlw&style=social&label=rCore%20Tutorial%20Book)](https://github.com/rcore-os/rCore-Tutorial-Book-v3/commits?author=lewiszlw)
-- [![Commits to GeoArrow Rust](https://img.shields.io/github/commit-activity/t/geoarrow/geoarrow-rs?authorFilter=lewiszlw&style=social&label=GeoArrow%20Rust)](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw)
 
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 10}}
