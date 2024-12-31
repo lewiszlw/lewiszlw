@@ -83,8 +83,8 @@ Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemx
 - 开发工具：Git/Docker/Linux/Vim
 
 ## 其他
-- 获得2022 Rust中文社区线上黑客马拉松第二名（[链接](https://mp.weixin.qq.com/s/dlNIbZ486syRPlzw7YwC0Q)，获1w奖金）
-- 参与小米“智能客服用户体验提升专项”项目获得集团技术委《质量奖》和《最佳项目奖》
+- 参加并通过 [2024 秋冬季清华 rCore 开源操作系统训练营](https://opencamp.cn/os2edu/camp/2024fall)（通过率 32/3949=0.8%）
+- 获得 2022 Rust 中文社区线上黑客马拉松第二名（[链接](https://mp.weixin.qq.com/s/dlNIbZ486syRPlzw7YwC0Q)，获 1w 奖金）
 
 [geoarrow-rs]: https://github.com/geoarrow/geoarrow-rs
 [datafusion-geo]: https://github.com/systemxlabs/datafusion-geo
