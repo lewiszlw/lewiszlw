@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (6 days ago)
-- [fix(catalog): delete metadata file when droping table in MemoryCatalog](https://github.com/apache/iceberg-rust/pull/854) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (6 days ago)
+- [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 week ago)
+- [fix(catalog): delete metadata file when droping table in MemoryCatalog](https://github.com/apache/iceberg-rust/pull/854) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 week ago)
 - [ 2024秋冬季开源操作系统训练营第三和第四阶段总结-张林伟](https://github.com/rcore-os/blog/pull/702) on [rcore-os/blog](https://github.com/rcore-os/blog) (1 week ago)
 - [2024秋冬季开源操作系统训练营第三阶段总结-张林伟](https://github.com/rcore-os/blog/pull/652) on [rcore-os/blog](https://github.com/rcore-os/blog) (1 month ago)
 - [Support custom field metadata in UDF](https://github.com/apache/datafusion/pull/13458) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (3 days ago)
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (4 days ago)
 - [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
