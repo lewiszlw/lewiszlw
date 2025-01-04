@@ -26,11 +26,11 @@
 - [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (1 month ago)
 - [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (1 month ago)
 - [Update ch9 2device-driver-3.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/239) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 month ago)
-- [Update ch9 2device-driver-2.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/238) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (1 month ago)
+- [Update ch9 2device-driver-2.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/238) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (4 days ago)
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (5 days ago)
 - [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
@@ -41,7 +41,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (1 week ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (3 weeks ago)
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see https://github.com/rustsbi/prototyper. (3 weeks ago)
-- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (4 weeks ago)
+- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (1 month ago)
 - [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (2 months ago)
 
 #### 📜 Check out my recent blog posts
