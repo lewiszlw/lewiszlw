@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (today)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 week ago)
 - [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (1 week ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [NightsWatchGames/battle-city](https://github.com/NightsWatchGames/battle-city) - Classical battle-city game made with bevy engine. (1 week ago)
-- [NightsWatchGames/rubiks-cube](https://github.com/NightsWatchGames/rubiks-cube) - Rubik&#39;s cube made with bevy engine. (1 week ago)
+- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
