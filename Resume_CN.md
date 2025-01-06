@@ -61,8 +61,8 @@ Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemx
 
 #### 开源贡献与项目
 主要开源贡献
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 30 prs（Committer）
-- [bevyengine/bevy](https://github.com/bevyengine/bevy/commits?author=lewiszlw): 贡献 21 prs（社区成员）
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/commits?author=lewiszlw): 贡献 70+ prs（Committer）
+- [bevyengine/bevy](https://github.com/bevyengine/bevy/commits?author=lewiszlw): 贡献 20+ prs（社区成员）
 - [geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw): 贡献 18 prs
 
 个人开源项目
@@ -83,7 +83,7 @@ Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemx
 - 开发工具：Git/Docker/Linux/Vim
 
 ## 其他
-- 参加并通过 [2024 秋冬季清华 rCore 开源操作系统训练营](https://opencamp.cn/os2edu/camp/2024fall)（通过率 1%）
+- 参加并通过 [2024 秋冬季清华大学开源操作系统训练营](https://opencamp.cn/os2edu/camp/2024fall)（通过率 1%）
 - 获得 2022 Rust 中文社区线上黑客马拉松第二名（[链接](https://mp.weixin.qq.com/s/dlNIbZ486syRPlzw7YwC0Q)，获 1w 奖金）
 
 [geoarrow-rs]: https://github.com/geoarrow/geoarrow-rs
