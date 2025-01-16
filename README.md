@@ -17,7 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: fix duplicated SharedBitmapBuilder definitions](https://github.com/apache/datafusion/pull/14122) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Reuse `on` expressions values in HashJoinExec](https://github.com/apache/datafusion/pull/14131) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
+- [Minor: fix duplicated SharedBitmapBuilder definitions](https://github.com/apache/datafusion/pull/14122) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
 - [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (2 weeks ago)
 - [fix(catalog): delete metadata file when droping table in MemoryCatalog](https://github.com/apache/iceberg-rust/pull/854) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (2 weeks ago)
 - [ 2024秋冬季开源操作系统训练营第三和第四阶段总结-张林伟](https://github.com/rcore-os/blog/pull/702) on [rcore-os/blog](https://github.com/rcore-os/blog) (3 weeks ago)
@@ -26,15 +27,14 @@
 - [fix: num rows statistics](https://github.com/delta-io/delta-rs/pull/2990) on [delta-io/delta-rs](https://github.com/delta-io/delta-rs) (2 months ago)
 - [Format code](https://github.com/arceos-org/oscamp/pull/1) on [arceos-org/oscamp](https://github.com/arceos-org/oscamp) (2 months ago)
 - [2024秋冬季开源操作系统训练营总结-张林伟](https://github.com/rcore-os/blog/pull/507) on [rcore-os/blog](https://github.com/rcore-os/blog) (2 months ago)
-- [Update ch9 2device-driver-3.rst](https://github.com/rcore-os/rCore-Tutorial-Book-v3/pull/239) on [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (2 weeks ago)
-- [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (2 weeks ago)
-- [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (3 weeks ago)
+- [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
