@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (2 days ago)
-- [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
-- [Deduplicate function `get_final_indices_from_shared_bitmap`](https://github.com/apache/datafusion/pull/14145) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
+- [Deduplicate function `get_final_indices_from_shared_bitmap`](https://github.com/apache/datafusion/pull/14145) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Reuse `on` expressions values in HashJoinExec](https://github.com/apache/datafusion/pull/14131) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: fix duplicated SharedBitmapBuilder definitions](https://github.com/apache/datafusion/pull/14122) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (3 weeks ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (2 weeks ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (3 weeks ago)
-- [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (3 weeks ago)
+- [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
