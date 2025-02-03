@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
+- [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Deduplicate function `get_final_indices_from_shared_bitmap`](https://github.com/apache/datafusion/pull/14145) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Reuse `on` expressions values in HashJoinExec](https://github.com/apache/datafusion/pull/14131) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (3 weeks ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 weeks ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (4 weeks ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 month ago)
 - [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (1 month ago)
 
@@ -41,13 +41,13 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (1 month ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (1 month ago)
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see https://github.com/rustsbi/prototyper. (1 month ago)
-- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (1 month ago)
+- [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (2 months ago)
 - [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
-- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (2 weeks ago)
-- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (3 weeks ago)
+- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (3 weeks ago)
+- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (4 weeks ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (1 month ago)
 - [200 行 Rust 代码实现绿色线程 / 有栈协程](https://systemxlabs.github.io/blog/green-threads-in-200-lines-of-rust/) (3 months ago)
 - [DataFusion 查询引擎两阶段并行哈希分组聚合](https://systemxlabs.github.io/blog/datafusion-grouped-aggregations/) (5 months ago)
