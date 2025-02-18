@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (3 days ago)
+- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (4 days ago)
 - [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
 - [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 month ago)
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg (1 month ago)
 - [systemxlabs/async-os](https://github.com/systemxlabs/async-os) -  (1 month ago)
