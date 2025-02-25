@@ -2,7 +2,7 @@
 
 联系方式：150-7143-1980 | lewiszlw520@gmail.com
 
-Github: [github.com/lewiszlw](https://github.com/lewiszlw) | [github.com/systemxlabs](https://github.com/systemxlabs)
+Github: [github.com/lewiszlw](https://github.com/lewiszlw) | 博客：[github.com/systemxlabs](https://github.com/systemxlabs) | B 站：[space.bilibili.com/43876861](https://space.bilibili.com/43876861)
 
 ## 教育背景
 - 2014.09 - 2018.06 / [武汉理工大学](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology) / 本科 / 计算机科学与技术专业
