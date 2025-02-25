@@ -24,15 +24,15 @@
 - [Deduplicate function `get_final_indices_from_shared_bitmap`](https://github.com/apache/datafusion/pull/14145) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Reuse `on` expressions values in HashJoinExec](https://github.com/apache/datafusion/pull/14131) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Minor: fix duplicated SharedBitmapBuilder definitions](https://github.com/apache/datafusion/pull/14122) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
-- [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 month ago)
-- [fix(catalog): delete metadata file when droping table in MemoryCatalog](https://github.com/apache/iceberg-rust/pull/854) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (1 month ago)
+- [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (2 months ago)
+- [fix(catalog): delete metadata file when droping table in MemoryCatalog](https://github.com/apache/iceberg-rust/pull/854) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (2 months ago)
 - [ 2024秋冬季开源操作系统训练营第三和第四阶段总结-张林伟](https://github.com/rcore-os/blog/pull/702) on [rcore-os/blog](https://github.com/rcore-os/blog) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for learning purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (4 days ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (4 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for learning purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (5 days ago)
+- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (5 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 month ago)
 
