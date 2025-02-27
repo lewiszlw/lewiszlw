@@ -17,6 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Minor: fix doc](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 day ago)
 - [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -26,12 +27,11 @@
 - [Minor: fix duplicated SharedBitmapBuilder definitions](https://github.com/apache/datafusion/pull/14122) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Add orbstack guide](https://github.com/apache/iceberg-rust/pull/856) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (2 months ago)
 - [fix(catalog): delete metadata file when droping table in MemoryCatalog](https://github.com/apache/iceberg-rust/pull/854) on [apache/iceberg-rust](https://github.com/apache/iceberg-rust) (2 months ago)
-- [ 2024秋冬季开源操作系统训练营第三和第四阶段总结-张林伟](https://github.com/rcore-os/blog/pull/702) on [rcore-os/blog](https://github.com/rcore-os/blog) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for learning purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (6 days ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (6 days ago)
+- [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for learning purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (1 week ago)
+- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 month ago)
@@ -42,11 +42,11 @@
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (2 months ago)
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see prototyper folder. (2 months ago)
 - [rcore-os/bitmap-allocator](https://github.com/rcore-os/bitmap-allocator) - Free space bitmap allocator (2 months ago)
-- [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (3 months ago)
+- [systemxlabs/green-threads-in-200-lines-of-rust](https://github.com/systemxlabs/green-threads-in-200-lines-of-rust) - Green threads / stackful coroutine implemented in 200 lines of Rust. (4 months ago)
 
 #### 📜 Check out my recent blog posts
 
-- [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (2 weeks ago)
+- [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (3 weeks ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 month ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 month ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (2 months ago)
