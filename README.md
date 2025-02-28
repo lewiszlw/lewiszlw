@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Minor: fix doc](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 day ago)
-- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
+- [Minor: fix doc and remove unused code](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 days ago)
+- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
