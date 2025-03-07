@@ -17,12 +17,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Move `make_builder` into mod.rs](https://github.com/apache/arrow-rs/pull/7218) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (6 days ago)
-- [Expose `field_builders` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/7217) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (6 days ago)
-- [Fix link in datasource readme](https://github.com/apache/datafusion/pull/14928) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
+- [Move `make_builder` into mod.rs](https://github.com/apache/arrow-rs/pull/7218) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
+- [Expose `field_builders` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/7217) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
+- [Fix link in datasource readme](https://github.com/apache/datafusion/pull/14928) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Minor: fix doc and remove unused code](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
-- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
-- [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
+- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
+- [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Deduplicate function `get_final_indices_from_shared_bitmap`](https://github.com/apache/datafusion/pull/14145) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (6 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (2 weeks ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - Execute sql queries on remote databases (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/bustubx](https://github.com/systemxlabs/bustubx) - [WIP] A relational database written in Rust for learning purpose, heavily inspired by cmu-db/bustub. (CMU 15-445). (2 weeks ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 month ago)
 
 #### ⭐ Check out my recent stars
 
@@ -48,6 +48,6 @@
 
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (4 weeks ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 month ago)
-- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 month ago)
+- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (2 months ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (2 months ago)
 - [200 行 Rust 代码实现绿色线程 / 有栈协程](https://systemxlabs.github.io/blog/green-threads-in-200-lines-of-rust/) (4 months ago)
