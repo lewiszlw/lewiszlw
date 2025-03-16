@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (3 days ago)
-- [Minor: Cleanup useless/duplicated code in gen tools](https://github.com/apache/datafusion/pull/15113) on [apache/datafusion](https://github.com/apache/datafusion) (5 days ago)
+- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (4 days ago)
+- [Minor: Cleanup useless/duplicated code in gen tools](https://github.com/apache/datafusion/pull/15113) on [apache/datafusion](https://github.com/apache/datafusion) (6 days ago)
 - [Minor: Move `make_builder` into mod.rs](https://github.com/apache/arrow-rs/pull/7218) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Expose `field_builders` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/7217) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Fix link in datasource readme](https://github.com/apache/datafusion/pull/14928) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Minor: fix doc and remove unused code](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
-- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
+- [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Simplify `collect_left_input` function in hash join](https://github.com/apache/datafusion/pull/14148) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases (1 day ago)
-- [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) - Oracle connection pooling for Rust&#39;s bb8 (2 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases (2 days ago)
+- [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) - Oracle connection pooling for Rust&#39;s bb8 (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (5 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases (2 days ago)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (2 months ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (3 months ago)
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see prototyper folder. (3 months ago)
