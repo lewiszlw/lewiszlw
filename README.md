@@ -17,12 +17,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (1 week ago)
+- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (2 weeks ago)
 - [Minor: Cleanup useless/duplicated code in gen tools](https://github.com/apache/datafusion/pull/15113) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
 - [Minor: Move `make_builder` into mod.rs](https://github.com/apache/arrow-rs/pull/7218) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Expose `field_builders` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/7217) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Fix link in datasource readme](https://github.com/apache/datafusion/pull/14928) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
-- [Minor: fix doc and remove unused code](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
+- [Minor: fix doc and remove unused code](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 weeks ago)
 - [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
@@ -30,8 +30,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 day ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 day ago)
+- [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 days ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 - [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) - Oracle connection pooling for Rust&#39;s bb8 (1 week ago)
