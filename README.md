@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (2 weeks ago)
+- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (3 weeks ago)
 - [Minor: Cleanup useless/duplicated code in gen tools](https://github.com/apache/datafusion/pull/15113) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Minor: Move `make_builder` into mod.rs](https://github.com/apache/arrow-rs/pull/7218) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Expose `field_builders` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/7217) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 day ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (2 weeks ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 weeks ago)
-- [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) - Oracle connection pooling for Rust&#39;s bb8 (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
@@ -46,8 +46,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (1 day ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 month ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (2 months ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (2 months ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (3 months ago)
-- [200 行 Rust 代码实现绿色线程 / 有栈协程](https://systemxlabs.github.io/blog/green-threads-in-200-lines-of-rust/) (5 months ago)
