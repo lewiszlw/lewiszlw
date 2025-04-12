@@ -31,7 +31,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 day ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) - Rust object_store crate (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (2 weeks ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (3 weeks ago)
