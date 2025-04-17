@@ -30,10 +30,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (today)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (5 days ago)
+- [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 day ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
-- [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) - Rust object_store crate (1 week ago)
+- [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) - Rust object_store crate (2 weeks ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (3 weeks ago)
 
 #### ⭐ Check out my recent stars
