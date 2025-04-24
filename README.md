@@ -17,6 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix `CoalescePartitionsExec` proto serialization](https://github.com/apache/datafusion/pull/15824) on [apache/datafusion](https://github.com/apache/datafusion) (1 day ago)
 - [Fix semantic versioning link in README.md](https://github.com/apache/arrow-rs-object-store/pull/317) on [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) (3 weeks ago)
 - [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (1 month ago)
 - [Minor: Cleanup useless/duplicated code in gen tools](https://github.com/apache/datafusion/pull/15113) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
@@ -26,21 +27,20 @@
 - [Minor: fix doc and remove unused code](https://github.com/apache/arrow-rs/pull/7194) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Migrate math functions to implement invoke_with_args](https://github.com/apache/datafusion/pull/14658) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [Fix link to volcano parallelism paper](https://github.com/apache/datafusion/pull/14497) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
-- [Minor: fix hash join doc](https://github.com/apache/datafusion/pull/14206) on [apache/datafusion](https://github.com/apache/datafusion) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (5 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
-- [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) - Rust object_store crate (2 weeks ago)
+- [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) - Rust object_store crate (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (6 days ago)
+- [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 month ago)
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (3 months ago)
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (4 months ago)
 - [systemxlabs/rust-to-riscv-asm](https://github.com/systemxlabs/rust-to-riscv-asm) - A bare metal program example about how to convert Rust code to RISC-V assembly. (4 months ago)
 - [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see prototyper folder. (4 months ago)
 
