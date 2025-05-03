@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
+- [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (6 days ago)
 - [Fix build failure caused by new `CoalescePartitionsExec::with_fetch` method](https://github.com/apache/datafusion/pull/15849) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Fix `CoalescePartitionsExec` proto serialization](https://github.com/apache/datafusion/pull/15824) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [Fix semantic versioning link in README.md](https://github.com/apache/arrow-rs-object-store/pull/317) on [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 week ago)
 - [NightsWatchGames/tetris](https://github.com/NightsWatchGames/tetris) - Classical tetris game made with bevy engine. (1 week ago)
