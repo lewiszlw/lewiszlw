@@ -38,9 +38,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (1 day ago)
-- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (1 day ago)
-- [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (4 weeks ago)
+- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (2 days ago)
+- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (2 days ago)
+- [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (2 months ago)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (4 months ago)
 
