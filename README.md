@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (2 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (3 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 weeks ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 weeks ago)
@@ -38,8 +38,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (3 days ago)
-- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (3 days ago)
+- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (4 days ago)
+- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (4 days ago)
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (2 months ago)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (4 months ago)
