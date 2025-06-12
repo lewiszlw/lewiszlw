@@ -17,6 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 day ago)
+- [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 day ago)
 - [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 week ago)
 - [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
 - [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
@@ -25,29 +27,27 @@
 - [Fix semantic versioning link in README.md](https://github.com/apache/arrow-rs-object-store/pull/317) on [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) (2 months ago)
 - [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (3 months ago)
 - [Minor: Cleanup useless/duplicated code in gen tools](https://github.com/apache/datafusion/pull/15113) on [apache/datafusion](https://github.com/apache/datafusion) (3 months ago)
-- [Minor: Move `make_builder` into mod.rs](https://github.com/apache/arrow-rs/pull/7218) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 months ago)
-- [Expose `field_builders` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/7217) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 day ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (2 days ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (2 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 month ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (3 weeks ago)
-- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (3 weeks ago)
+- [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (4 weeks ago)
+- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (4 weeks ago)
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (1 month ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (2 months ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (3 months ago)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (5 months ago)
 
 #### 📜 Check out my recent blog posts
 
 - [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (2 months ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (4 months ago)
-- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (4 months ago)
+- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (5 months ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (5 months ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (6 months ago)
