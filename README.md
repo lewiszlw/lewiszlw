@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (6 days ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (2 weeks ago)
@@ -38,8 +38,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (2 days ago)
-- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (4 days ago)
+- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (3 days ago)
+- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (5 days ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (1 month ago)
 - [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (1 month ago)
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (2 months ago)
