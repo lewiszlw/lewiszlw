@@ -38,8 +38,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (4 days ago)
-- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (6 days ago)
+- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (5 days ago)
+- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (1 week ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (1 month ago)
 - [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (1 month ago)
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器 (2 months ago)
