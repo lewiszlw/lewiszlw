@@ -19,10 +19,10 @@
 
 - [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 week ago)
 - [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
-- [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
+- [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 weeks ago)
 - [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 month ago)
 - [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
-- [Fix build failure caused by new `CoalescePartitionsExec::with_fetch` method](https://github.com/apache/datafusion/pull/15849) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
+- [Fix build failure caused by new `CoalescePartitionsExec::with_fetch` method](https://github.com/apache/datafusion/pull/15849) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [Fix `CoalescePartitionsExec` proto serialization](https://github.com/apache/datafusion/pull/15824) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [Fix semantic versioning link in README.md](https://github.com/apache/arrow-rs-object-store/pull/317) on [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) (2 months ago)
 - [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (3 months ago)
@@ -33,12 +33,12 @@
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 week ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (2 weeks ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (3 weeks ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 weeks ago)
+- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (5 days ago)
+- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (6 days ago)
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (1 week ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (1 month ago)
 - [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (1 month ago)
