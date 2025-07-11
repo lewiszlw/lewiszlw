@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (4 weeks ago)
-- [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 weeks ago)
+- [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
+- [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 month ago)
 - [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 month ago)
 - [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 months ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 weeks ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (3 weeks ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (4 weeks ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (4 weeks ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (1 month ago)
 
