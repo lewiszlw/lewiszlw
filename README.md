@@ -17,7 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 days ago)
+- [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (today)
+- [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (5 days ago)
 - [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 month ago)
@@ -26,19 +27,18 @@
 - [Fix build failure caused by new `CoalescePartitionsExec::with_fetch` method](https://github.com/apache/datafusion/pull/15849) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [Fix `CoalescePartitionsExec` proto serialization](https://github.com/apache/datafusion/pull/15824) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [Fix semantic versioning link in README.md](https://github.com/apache/arrow-rs-object-store/pull/317) on [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) (3 months ago)
-- [Bump bb8 to 0.9](https://github.com/RavuAlHemio/bb8-oracle/pull/2) on [RavuAlHemio/bb8-oracle](https://github.com/RavuAlHemio/bb8-oracle) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (3 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (today)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (4 days ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 month ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 month ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (6 days ago)
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (1 week ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (1 month ago)
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (1 month ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (2 months ago)
