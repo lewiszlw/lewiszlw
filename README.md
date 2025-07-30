@@ -17,16 +17,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (6 days ago)
+- [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 day ago)
+- [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
 - [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
-- [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
+- [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (1 month ago)
 - [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 month ago)
 - [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 months ago)
 - [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 months ago)
 - [Fix build failure caused by new `CoalescePartitionsExec::with_fetch` method](https://github.com/apache/datafusion/pull/15849) on [apache/datafusion](https://github.com/apache/datafusion) (3 months ago)
-- [Fix `CoalescePartitionsExec` proto serialization](https://github.com/apache/datafusion/pull/15824) on [apache/datafusion](https://github.com/apache/datafusion) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -46,7 +46,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (3 months ago)
+- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (4 months ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (5 months ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (6 months ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (6 months ago)
