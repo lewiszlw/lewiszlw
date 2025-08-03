@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (4 days ago)
+- [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (5 days ago)
 - [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 week ago)
 - [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (1 week ago)
 - [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 days ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (2 weeks ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 month ago)
