@@ -19,7 +19,7 @@
 
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 week ago)
 - [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
-- [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (2 weeks ago)
+- [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 months ago)
 - [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 months ago)
@@ -30,15 +30,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 weeks ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (3 weeks ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 month ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 month ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (3 weeks ago)
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (4 weeks ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (1 month ago)
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (1 month ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (2 months ago)
@@ -48,6 +48,6 @@
 
 - [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (4 months ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (6 months ago)
-- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (6 months ago)
+- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (7 months ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (7 months ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (8 months ago)
