@@ -32,7 +32,7 @@
 
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 weeks ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (4 weeks ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL queries on remote databases. (1 month ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 months ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 months ago)
 
