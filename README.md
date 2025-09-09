@@ -22,19 +22,19 @@
 - [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
-- [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (2 months ago)
-- [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 months ago)
+- [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 months ago)
+- [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 months ago)
 - [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 months ago)
 - [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 months ago)
 - [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
-- [systemxlabs/ordered_string](https://github.com/systemxlabs/ordered_string) - Convert integer / float / decimal to string and preserve the order (4 days ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
+- [systemxlabs/ordered_string](https://github.com/systemxlabs/ordered_string) - Convert integer / float / decimal to string and preserve the order (5 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
