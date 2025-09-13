@@ -17,6 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add recommended crate to handle numeric type](https://github.com/sfackler/rust-postgres/pull/1267) on [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) (1 day ago)
 - [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (3 weeks ago)
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 month ago)
 - [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
@@ -26,23 +27,22 @@
 - [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 months ago)
 - [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 months ago)
 - [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 months ago)
-- [Bump edition / dependencies and support custom timeout](https://github.com/sundy-li/arrow_cli/pull/23) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
 - [systemxlabs/ordered_string](https://github.com/systemxlabs/ordered_string) - Convert integer / float / decimal to string and preserve the order (1 week ago)
 - [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
 
 #### ⭐ Check out my recent stars
 
+- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (1 day ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (2 months ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (2 months ago)
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (2 months ago)
 - [pacman82/arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust. (4 months ago)
-- [pacman82/odbc-api](https://github.com/pacman82/odbc-api) - ODBC (Open Database Connectivity) bindings for Rust. (4 months ago)
 
 #### 📜 Check out my recent blog posts
 
