@@ -18,9 +18,9 @@
 #### 🔨 Check out my recent pull requests
 
 - [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (1 week ago)
-- [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (4 weeks ago)
+- [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 month ago)
-- [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
+- [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 months ago)
 - [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 months ago)
 - [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 months ago)
@@ -30,8 +30,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 day ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 week ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (1 week ago)
 - [systemxlabs/ordered_string](https://github.com/systemxlabs/ordered_string) - Convert integer / float / decimal to string and preserve the order (2 weeks ago)
