@@ -17,6 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 day ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
 - [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (1 week ago)
 - [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 month ago)
@@ -24,17 +27,14 @@
 - [Simplify try cast expr evaluation](https://github.com/apache/datafusion/pull/16834) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 - [`make_builder` supports view types](https://github.com/apache/arrow-rs/pull/7938) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 months ago)
 - [Fix `bevy_core_widgets`  crate description typo](https://github.com/bevyengine/bevy/pull/19578) on [bevyengine/bevy](https://github.com/bevyengine/bevy) (3 months ago)
-- [Add `pretty_format_batches_with_schema` function](https://github.com/apache/arrow-rs/pull/7642) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 months ago)
-- [Fix a typo in chapter4](https://github.com/Vonng/ddia/pull/358) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 months ago)
-- [Fix chapter2 comma typo](https://github.com/Vonng/ddia/pull/356) on [Vonng/ddia](https://github.com/Vonng/ddia) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (4 days ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (1 day ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (5 days ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 weeks ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (2 weeks ago)
-- [systemxlabs/ordered_string](https://github.com/systemxlabs/ordered_string) - Convert integer / float / decimal to string and preserve the order (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
