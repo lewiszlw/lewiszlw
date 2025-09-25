@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 day ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 days ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 days ago)
 - [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (1 week ago)
 - [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (1 day ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (5 days ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (2 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (6 days ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 weeks ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (2 weeks ago)
