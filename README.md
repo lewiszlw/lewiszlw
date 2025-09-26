@@ -17,10 +17,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 days ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 days ago)
-- [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (1 week ago)
+- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 days ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
+- [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (2 weeks ago)
 - [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (1 month ago)
 - [Derive `Serialize` and `Deserialize` on `CastOptions`](https://github.com/apache/arrow-rs/pull/7981) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 months ago)
@@ -30,15 +30,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (2 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 weeks ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (1 week ago)
+- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (2 weeks ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (2 months ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (3 months ago)
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (3 months ago)
