@@ -20,9 +20,9 @@
 - [Expose `fields` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/8448) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/18) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
 - [Add oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/17) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
+- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 weeks ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
 - [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (1 month ago)
 - [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (1 month ago)
 - [Refactor HnswIoT to be more general](https://github.com/jean-pierreBoth/hnswlib-rs/pull/26) on [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) (2 months ago)
@@ -30,19 +30,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (4 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (2 weeks ago)
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (2 weeks ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (1 week ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (2 weeks ago)
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (1 month ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (3 months ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (3 months ago)
-- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (3 months ago)
+- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (4 months ago)
 
 #### 📜 Check out my recent blog posts
 
