@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix sql exec time](https://github.com/sundy-li/arrow_cli/pull/24) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
+- [Fix sql exec time](https://github.com/sundy-li/arrow_cli/pull/24) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 days ago)
 - [Expose `fields` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/8448) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/18) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
 - [Add oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/17) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
@@ -30,10 +30,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 days ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 weeks ago)
 
 #### ⭐ Check out my recent stars
