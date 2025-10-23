@@ -17,22 +17,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 days ago)
 - [Fix sql exec time](https://github.com/sundy-li/arrow_cli/pull/24) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
 - [Expose `fields` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/8448) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/18) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
 - [Add oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/17) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
-- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (4 weeks ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
-- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 weeks ago)
+- [CPU core -&gt; CPU 核心](https://github.com/Vonng/ddia/pull/371) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 month ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/indexlake/pull/47) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
+- [Bump datafusion to 49](https://github.com/systemxlabs/datafusion-remote-table/pull/16) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 - [Add recommended crate to handle numeric type](https://github.com/rust-postgres/rust-postgres/pull/1267) on [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) (1 month ago)
-- [Memory datasource protobuf support](https://github.com/apache/datafusion/pull/17290) on [apache/datafusion](https://github.com/apache/datafusion) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (today)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (5 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (6 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 weeks ago)
 
