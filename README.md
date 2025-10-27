@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
-- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (5 days ago)
+- [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (5 days ago)
+- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (6 days ago)
 - [Fix sql exec time](https://github.com/sundy-li/arrow_cli/pull/24) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
 - [Expose `fields` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/8448) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/18) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 days ago)
-- [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (3 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
+- [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (4 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 
