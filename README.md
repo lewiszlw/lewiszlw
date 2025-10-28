@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (5 days ago)
-- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (6 days ago)
+- [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (6 days ago)
+- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [Fix sql exec time](https://github.com/sundy-li/arrow_cli/pull/24) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
 - [Expose `fields` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/8448) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/18) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
@@ -30,15 +30,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
-- [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (4 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
+- [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (5 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (3 weeks ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (4 weeks ago)
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (1 month ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (3 months ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (4 months ago)
@@ -46,7 +46,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (6 months ago)
+- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (7 months ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (8 months ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (9 months ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (9 months ago)
