@@ -31,8 +31,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 days ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (4 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
+- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (5 days ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (2 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 weeks ago)
 
