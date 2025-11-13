@@ -33,7 +33,7 @@
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
-- [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (2 weeks ago)
+- [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (3 weeks ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 weeks ago)
 
 #### ⭐ Check out my recent stars
@@ -42,7 +42,7 @@
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (2 months ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (4 months ago)
 - [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (4 months ago)
-- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (4 months ago)
+- [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (5 months ago)
 
 #### 📜 Check out my recent blog posts
 
