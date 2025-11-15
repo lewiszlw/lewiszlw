@@ -30,18 +30,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 days ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (3 weeks ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (1 month ago)
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (2 months ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (4 months ago)
-- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (4 months ago)
+- [nikis05/derive-visitor](https://github.com/nikis05/derive-visitor) -  (5 months ago)
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust (5 months ago)
 
 #### 📜 Check out my recent blog posts
