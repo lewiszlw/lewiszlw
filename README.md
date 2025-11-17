@@ -30,10 +30,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (4 days ago)
-- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (1 week ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 days ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (3 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (5 days ago)
+- [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (2 weeks ago)
 - [apache/datafusion-sandbox](https://github.com/apache/datafusion-sandbox) - DataFusion Test Sandbox (3 weeks ago)
 
 #### ⭐ Check out my recent stars
