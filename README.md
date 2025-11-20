@@ -17,10 +17,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (today)
-- [Bump datafusion / arrow / parquet version](https://github.com/systemxlabs/indexlake/pull/53) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 day ago)
+- [Bump datafusion / arrow / parquet version](https://github.com/systemxlabs/indexlake/pull/53) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
 - [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 weeks ago)
-- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 weeks ago)
+- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 - [Fix sql exec time](https://github.com/sundy-li/arrow_cli/pull/24) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [Expose `fields` in `StructBuilder`](https://github.com/apache/arrow-rs/pull/8448) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Oracle sde geometry type](https://github.com/systemxlabs/datafusion-remote-table/pull/18) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
@@ -30,15 +30,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (2 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 day ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 week ago)
 - [systemxlabs/derive-with](https://github.com/systemxlabs/derive-with) - Derive with-constructor for each field in struct. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 day ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 days ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (1 month ago)
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (2 months ago)
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust. (4 months ago)
