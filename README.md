@@ -21,7 +21,7 @@
 - [Make flight sql client generic](https://github.com/apache/arrow-rs/pull/8915) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Add `bb8-tonic` to README.md](https://github.com/djc/bb8/pull/266) on [djc/bb8](https://github.com/djc/bb8) (2 weeks ago)
 - [GH110: Fix Unsupported vector type error](https://github.com/ViggoC/arrow-java/pull/1) on [ViggoC/arrow-java](https://github.com/ViggoC/arrow-java) (2 weeks ago)
-- [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (2 weeks ago)
+- [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (3 weeks ago)
 - [Bump datafusion / arrow / parquet version](https://github.com/systemxlabs/indexlake/pull/53) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 - [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
-- [apache/arrow-java](https://github.com/apache/arrow-java) - Official Java implementation of Apache Arrow (5 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (today)
+- [apache/arrow-java](https://github.com/apache/arrow-java) - Official Java implementation of Apache Arrow (6 days ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
-- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 week ago)
+- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
