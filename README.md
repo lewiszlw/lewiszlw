@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
 - [Let flight sql client returns `FlightError` &amp; cleanup code](https://github.com/apache/arrow-rs/pull/8916) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Make flight sql client generic](https://github.com/apache/arrow-rs/pull/8915) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (2 weeks ago)
 - [Add `bb8-tonic` to README.md](https://github.com/djc/bb8/pull/266) on [djc/bb8](https://github.com/djc/bb8) (2 weeks ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 day ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 day ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
 - [apache/arrow-java](https://github.com/apache/arrow-java) - Official Java implementation of Apache Arrow (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 
