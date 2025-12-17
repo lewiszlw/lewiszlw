@@ -17,12 +17,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
+- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (6 days ago)
 - [Let flight sql client returns `FlightError` &amp; cleanup code](https://github.com/apache/arrow-rs/pull/8916) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Make flight sql client generic](https://github.com/apache/arrow-rs/pull/8915) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (3 weeks ago)
 - [Add `bb8-tonic` to README.md](https://github.com/djc/bb8/pull/266) on [djc/bb8](https://github.com/djc/bb8) (3 weeks ago)
 - [GH110: Fix Unsupported vector type error](https://github.com/ViggoC/arrow-java/pull/1) on [ViggoC/arrow-java](https://github.com/ViggoC/arrow-java) (3 weeks ago)
-- [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (3 weeks ago)
+- [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (4 weeks ago)
 - [Bump datafusion / arrow / parquet version](https://github.com/systemxlabs/indexlake/pull/53) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
 - [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 - [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (4 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (4 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) -  (1 day ago)
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (5 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (5 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
 - [apache/arrow-java](https://github.com/apache/arrow-java) - Official Java implementation of Apache Arrow (1 week ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
