@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Support single query &amp; improve help info](https://github.com/sundy-li/arrow_cli/pull/27) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
-- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
+- [Support single query &amp; improve help info](https://github.com/sundy-li/arrow_cli/pull/27) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (6 days ago)
+- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
 - [Let flight sql client returns `FlightError` &amp; cleanup code](https://github.com/apache/arrow-rs/pull/8916) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Make flight sql client generic](https://github.com/apache/arrow-rs/pull/8915) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Add `bb8-tonic` to README.md](https://github.com/djc/bb8/pull/266) on [djc/bb8](https://github.com/djc/bb8) (1 month ago)
@@ -30,10 +30,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 day ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) -  (1 day ago)
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 day ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (2 days ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (2 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 week ago)
 
 #### ⭐ Check out my recent stars
