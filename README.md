@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Support single query &amp; improve help info](https://github.com/sundy-li/arrow_cli/pull/27) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (6 days ago)
+- [Support single query &amp; improve help info](https://github.com/sundy-li/arrow_cli/pull/27) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
 - [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
 - [Let flight sql client returns `FlightError` &amp; cleanup code](https://github.com/apache/arrow-rs/pull/8916) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Make flight sql client generic](https://github.com/apache/arrow-rs/pull/8915) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
@@ -31,10 +31,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) -  (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (2 days ago)
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (2 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (1 week ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (3 days ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (3 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
