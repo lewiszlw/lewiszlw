@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) -  (today)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (6 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 weeks ago)
 
