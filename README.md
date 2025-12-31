@@ -38,11 +38,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (today)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
 - [datafusion-contrib/datafusion-functions-json](https://github.com/datafusion-contrib/datafusion-functions-json) - JSON support for DataFusion (unofficial) (1 month ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 month ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (3 months ago)
-- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations. (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
