@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Upgrade and simplify deps &amp; update README.md &amp; add crate desc](https://github.com/sundy-li/arrow_cli/pull/29) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Close prepared statement](https://github.com/sundy-li/arrow_cli/pull/28) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Add `FlightInfo::with_endpoints` method](https://github.com/apache/arrow-rs/pull/9075) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 day ago)
 - [Support single query &amp; improve help info](https://github.com/sundy-li/arrow_cli/pull/27) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 week ago)
-- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
+- [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 weeks ago)
 - [Let flight sql client returns `FlightError` &amp; cleanup code](https://github.com/apache/arrow-rs/pull/8916) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Make flight sql client generic](https://github.com/apache/arrow-rs/pull/8915) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
 - [Add `bb8-tonic` to README.md](https://github.com/djc/bb8/pull/266) on [djc/bb8](https://github.com/djc/bb8) (1 month ago)
 - [GH110: Fix Unsupported vector type error](https://github.com/ViggoC/arrow-java/pull/1) on [ViggoC/arrow-java](https://github.com/ViggoC/arrow-java) (1 month ago)
 - [Update datafusion to 50](https://github.com/systemxlabs/datafusion-loki/pull/5) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 month ago)
-- [Bump datafusion / arrow / parquet version](https://github.com/systemxlabs/indexlake/pull/53) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
-- [Skip dm integration tests on github actions](https://github.com/systemxlabs/datafusion-remote-table/pull/21) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 months ago)
-- [Bump datafusion to 50](https://github.com/systemxlabs/datafusion-remote-table/pull/19) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 day ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
 - [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 week ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (today)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 day ago)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
 - [datafusion-contrib/datafusion-functions-json](https://github.com/datafusion-contrib/datafusion-functions-json) - JSON support for DataFusion (unofficial) (1 month ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 month ago)
@@ -49,5 +49,5 @@
 - [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (9 months ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (10 months ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (11 months ago)
-- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (11 months ago)
+- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 year ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (1 year ago)
