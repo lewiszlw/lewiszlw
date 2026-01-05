@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade and simplify deps &amp; update README.md &amp; add crate desc](https://github.com/sundy-li/arrow_cli/pull/29) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 days ago)
-- [Close prepared statement](https://github.com/sundy-li/arrow_cli/pull/28) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 days ago)
-- [Add `FlightInfo::with_endpoints` method](https://github.com/apache/arrow-rs/pull/9075) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (4 days ago)
+- [Upgrade and simplify deps &amp; update README.md &amp; add crate desc](https://github.com/sundy-li/arrow_cli/pull/29) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
+- [Close prepared statement](https://github.com/sundy-li/arrow_cli/pull/28) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
+- [Add `FlightInfo::with_endpoints` method](https://github.com/apache/arrow-rs/pull/9075) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (5 days ago)
 - [Support single query &amp; improve help info](https://github.com/sundy-li/arrow_cli/pull/27) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
 - [Print version &amp; Add more sql time metrics](https://github.com/sundy-li/arrow_cli/pull/25) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 weeks ago)
 - [Let flight sql client returns `FlightError` &amp; cleanup code](https://github.com/apache/arrow-rs/pull/8916) on [apache/arrow-rs](https://github.com/apache/arrow-rs) (1 month ago)
@@ -30,19 +30,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (4 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (4 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (today)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (5 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
 - [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) -  (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (4 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (5 days ago)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
 - [datafusion-contrib/datafusion-functions-json](https://github.com/datafusion-contrib/datafusion-functions-json) - JSON support for DataFusion (unofficial) (1 month ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 month ago)
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
