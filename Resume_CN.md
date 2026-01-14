@@ -18,8 +18,8 @@
 #### 支持可扩展索引和内联表的数据湖格式
 - 可扩展的索引系统：支持 B+ 树、Rstar、BM25、HNSW 等索引
 - 内联表支持：支持将小表内联存储在 Catalog 中
-- 可扩展的 SQL Catalog：支持 Postgres、SQLite 等 Catalog，支持自定义 SQL Catalog
-- 可扩展的 Storage：支持本地文件系统、S3 兼容存储，支持自定义 Storage
+- 可扩展的 Catalog：支持 Postgres、SQLite 等 Catalog 或自定义 Catalog
+- 可扩展的 Storage：支持本地文件系统、S3 兼容存储或自定义 Storage
 - 支持 ACID 事务
 
 #### 基于 DataFusion 的分布式流式计算库
