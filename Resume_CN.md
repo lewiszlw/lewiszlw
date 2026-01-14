@@ -15,14 +15,14 @@
 
 ## 项目经历
 
-#### 支持可扩展索引和内联表的数据湖格式
+#### 支持可扩展索引和内联表的数据湖格式 [indexlake](https://github.com/systemxlabs/indexlake)
 - 可扩展的索引系统：支持 B+ 树、Rstar、BM25、HNSW 等索引
 - 内联表支持：支持将小表内联存储在 Catalog 中
 - 可扩展的 Catalog：支持 Postgres、SQLite 等 Catalog 或自定义 Catalog
 - 可扩展的 Storage：支持本地文件系统、S3 兼容存储或自定义 Storage
 - 支持 ACID 事务
 
-#### 基于 DataFusion 的分布式流式计算库
+#### 基于 DataFusion 的分布式流式计算库 [datafusion-dist](https://github.com/systemxlabs/datafusion-dist)
 - 将 DataFusion 单机执行计划扩展为分布式执行计划在集群上流式执行
 - 可扩展的集群管理，可通过 PostgreSQL 或自定义方式管理集群节点
 - 可扩展的网络层，可通过 grpc 或自定义方式进行节点间通信
@@ -35,7 +35,7 @@
 - 基于 geos / geozero 等库实现几十种 GEO 相关 DataFusion 自定义函数
 - 基于 rstar 索引和自定义 DataFusion join 算子加速 GEO 计算
 
-#### DataFusion 远端数据库查询扩展
+#### DataFusion 远端数据库查询扩展 [datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table)
 - 支持 Postgres / MySQL / Oracle / SQLite / Dameng 数据库
 - 支持自动推理结果集 schema 和用户自定义 schema
 - 支持下推 filters 和 limit 到远端数据库执行
