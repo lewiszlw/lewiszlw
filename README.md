@@ -17,10 +17,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: add LazyTable struct for lazy table loading](https://github.com/systemxlabs/indexlake/pull/64) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [feat: stream_insert writes to multiple files based on inline_row_count_limit](https://github.com/systemxlabs/indexlake/pull/63) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [refactor(datafusion): remove block_in_place with lazy table loading](https://github.com/systemxlabs/indexlake/pull/62) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [refactor(postgres-catalog): remove block_in_place from Drop impl](https://github.com/systemxlabs/indexlake/pull/61) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
+- [refactor: add LazyTable struct for lazy table loading](https://github.com/systemxlabs/indexlake/pull/64) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [feat: stream_insert writes to multiple files based on inline_row_count_limit](https://github.com/systemxlabs/indexlake/pull/63) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [refactor(datafusion): remove block_in_place with lazy table loading](https://github.com/systemxlabs/indexlake/pull/62) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [refactor(postgres-catalog): remove block_in_place from Drop impl](https://github.com/systemxlabs/indexlake/pull/61) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
 - [refactor: remove ConnectionCodec and use lazy pool creation](https://github.com/systemxlabs/datafusion-remote-table/pull/29) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [feat: add support for Utf8View and BinaryView data types](https://github.com/systemxlabs/datafusion-remote-table/pull/28) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [Remove block_in_place](https://github.com/systemxlabs/datafusion-remote-table/pull/27) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
@@ -30,16 +30,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (3 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (4 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 weeks ago)
 - [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (2 weeks ago)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
 - [datafusion-contrib/datafusion-functions-json](https://github.com/datafusion-contrib/datafusion-functions-json) - JSON support for DataFusion (unofficial) (1 month ago)
