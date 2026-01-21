@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Print schema option](https://github.com/sundy-li/arrow_cli/pull/30) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Print schema option](https://github.com/sundy-li/arrow_cli/pull/30) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
 - [refactor: add LazyTable struct for lazy table loading](https://github.com/systemxlabs/indexlake/pull/64) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [feat: stream_insert writes to multiple files based on inline_row_count_limit](https://github.com/systemxlabs/indexlake/pull/63) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [refactor(datafusion): remove block_in_place with lazy table loading](https://github.com/systemxlabs/indexlake/pull/62) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
@@ -31,16 +31,16 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 weeks ago)
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (2 weeks ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (3 weeks ago)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
 - [datafusion-contrib/datafusion-functions-json](https://github.com/datafusion-contrib/datafusion-functions-json) - JSON support for DataFusion (unofficial) (2 months ago)
 
