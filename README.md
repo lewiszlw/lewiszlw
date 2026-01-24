@@ -17,11 +17,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade datafusion to 51](https://github.com/systemxlabs/datafusion-loki/pull/6) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (2 days ago)
-- [chore: upgrade datafusion to 51](https://github.com/systemxlabs/datafusion-dist/pull/27) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
-- [Update datafusion to 51](https://github.com/systemxlabs/indexlake/pull/66) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
-- [Update datafusion to 51](https://github.com/systemxlabs/datafusion-remote-table/pull/30) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 days ago)
-- [Print schema option](https://github.com/sundy-li/arrow_cli/pull/30) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 days ago)
+- [Upgrade datafusion to 51](https://github.com/systemxlabs/datafusion-loki/pull/6) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (3 days ago)
+- [chore: upgrade datafusion to 51](https://github.com/systemxlabs/datafusion-dist/pull/27) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 days ago)
+- [Update datafusion to 51](https://github.com/systemxlabs/indexlake/pull/66) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
+- [Update datafusion to 51](https://github.com/systemxlabs/datafusion-remote-table/pull/30) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
+- [Print schema option](https://github.com/sundy-li/arrow_cli/pull/30) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
 - [refactor: add LazyTable struct for lazy table loading](https://github.com/systemxlabs/indexlake/pull/64) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [feat: stream_insert writes to multiple files based on inline_row_count_limit](https://github.com/systemxlabs/indexlake/pull/63) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [refactor(datafusion): remove block_in_place with lazy table loading](https://github.com/systemxlabs/indexlake/pull/62) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 day ago)
-- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (2 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (4 days ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 days ago)
+- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (3 days ago)
 
 #### ⭐ Check out my recent stars
 
