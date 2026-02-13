@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Improve dump task check order](https://github.com/systemxlabs/indexlake/pull/77) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [Improve dump task check order](https://github.com/systemxlabs/indexlake/pull/77) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
@@ -30,18 +30,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 weeks ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 weeks ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 weeks ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (3 weeks ago)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (5 days ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 week ago)
-- [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (1 week ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 weeks ago)
+- [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (2 weeks ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 
 #### 📜 Check out my recent blog posts
