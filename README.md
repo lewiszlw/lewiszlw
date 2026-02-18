@@ -18,15 +18,15 @@
 #### 🔨 Check out my recent pull requests
 
 - [Improve dump task check order](https://github.com/systemxlabs/indexlake/pull/77) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [Serialize scan partitions in proto](https://github.com/systemxlabs/indexlake/pull/71) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
+- [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [Serialize scan partitions in proto](https://github.com/systemxlabs/indexlake/pull/71) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
 - [Move row_id filtering to callers](https://github.com/systemxlabs/indexlake/pull/70) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
 - [Add valid_record_count to data file catalog](https://github.com/systemxlabs/indexlake/pull/69) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
-- [Add job_meta in StageInfo](https://github.com/systemxlabs/datafusion-dist/pull/31) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
-- [Add basic example](https://github.com/systemxlabs/indexlake/pull/68) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 weeks ago)
+- [Add job_meta in StageInfo](https://github.com/systemxlabs/datafusion-dist/pull/31) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 weeks ago)
+- [Add basic example](https://github.com/systemxlabs/indexlake/pull/68) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -34,7 +34,7 @@
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 weeks ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 weeks ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (3 weeks ago)
-- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (3 weeks ago)
+- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
