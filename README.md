@@ -18,15 +18,15 @@
 #### 🔨 Check out my recent pull requests
 
 - [Improve dump task check order](https://github.com/systemxlabs/indexlake/pull/77) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [Serialize scan partitions in proto](https://github.com/systemxlabs/indexlake/pull/71) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
+- [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
+- [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
+- [Serialize scan partitions in proto](https://github.com/systemxlabs/indexlake/pull/71) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Move row_id filtering to callers](https://github.com/systemxlabs/indexlake/pull/70) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Add valid_record_count to data file catalog](https://github.com/systemxlabs/indexlake/pull/69) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 weeks ago)
-- [Add job_meta in StageInfo](https://github.com/systemxlabs/datafusion-dist/pull/31) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 weeks ago)
-- [Add basic example](https://github.com/systemxlabs/indexlake/pull/68) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
+- [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 weeks ago)
+- [Add job_meta in StageInfo](https://github.com/systemxlabs/datafusion-dist/pull/31) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 weeks ago)
+- [Add basic example](https://github.com/systemxlabs/indexlake/pull/68) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -46,7 +46,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (10 months ago)
+- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (11 months ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 year ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 year ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 year ago)
