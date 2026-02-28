@@ -22,8 +22,8 @@
 - [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Serialize scan partitions in proto](https://github.com/systemxlabs/indexlake/pull/71) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Move row_id filtering to callers](https://github.com/systemxlabs/indexlake/pull/70) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
-- [Add valid_record_count to data file catalog](https://github.com/systemxlabs/indexlake/pull/69) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
+- [Move row_id filtering to callers](https://github.com/systemxlabs/indexlake/pull/70) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
+- [Add valid_record_count to data file catalog](https://github.com/systemxlabs/indexlake/pull/69) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
 - [Add job_meta in StageInfo](https://github.com/systemxlabs/datafusion-dist/pull/31) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
 - [Add basic example](https://github.com/systemxlabs/indexlake/pull/68) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
@@ -31,7 +31,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 weeks ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 weeks ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 month ago)
 - [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
