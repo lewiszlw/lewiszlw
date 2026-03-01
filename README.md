@@ -17,6 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix history path on Windows](https://github.com/sundy-li/arrow_cli/pull/33) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Refactor handling part code](https://github.com/sundy-li/arrow_cli/pull/32) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
 - [Improve dump task check order](https://github.com/systemxlabs/indexlake/pull/77) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
@@ -25,22 +27,20 @@
 - [Move row_id filtering to callers](https://github.com/systemxlabs/indexlake/pull/70) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [Add valid_record_count to data file catalog](https://github.com/systemxlabs/indexlake/pull/69) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
-- [Add job_meta in StageInfo](https://github.com/systemxlabs/datafusion-dist/pull/31) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
-- [Add basic example](https://github.com/systemxlabs/indexlake/pull/68) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 weeks ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 month ago)
-- [systemxlabs/bb8-tonic](https://github.com/systemxlabs/bb8-tonic) - Tonic support for bb8 connection pool. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 weeks ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (3 weeks ago)
-- [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (4 weeks ago)
+- [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (1 month ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 
