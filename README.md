@@ -17,24 +17,24 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix history path on Windows](https://github.com/sundy-li/arrow_cli/pull/33) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 days ago)
-- [Refactor handling part code](https://github.com/sundy-li/arrow_cli/pull/32) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (3 days ago)
+- [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/84) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/83) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [CI: on-demand benchmarks via /bench](https://github.com/systemxlabs/indexlake/pull/82) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [CI: on-demand benchmarks with PR comment](https://github.com/systemxlabs/indexlake/pull/81) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Create index: add concurrency and parallel per-data-file build](https://github.com/systemxlabs/indexlake/pull/80) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Fix history path on Windows](https://github.com/sundy-li/arrow_cli/pull/33) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 days ago)
+- [Refactor handling part code](https://github.com/sundy-li/arrow_cli/pull/32) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 days ago)
 - [Improve dump task check order](https://github.com/systemxlabs/indexlake/pull/77) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Batch count partitions and reuse offset logic](https://github.com/systemxlabs/indexlake/pull/72) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Serialize scan partitions in proto](https://github.com/systemxlabs/indexlake/pull/71) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
-- [Move row_id filtering to callers](https://github.com/systemxlabs/indexlake/pull/70) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
-- [Add valid_record_count to data file catalog](https://github.com/systemxlabs/indexlake/pull/69) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
-- [Use map for dropped partitions](https://github.com/systemxlabs/datafusion-dist/pull/32) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
+- [Cache partition row counts for scan statistics](https://github.com/systemxlabs/indexlake/pull/75) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
+- [Add async table statistics builder](https://github.com/systemxlabs/indexlake/pull/74) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 weeks ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
+- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (1 day ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (4 days ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
