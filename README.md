@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [CI: /bench runs all benchmarks; /bench &lt;name&gt; runs one](https://github.com/systemxlabs/indexlake/pull/86) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
-- [Benchmarks: use benchmark: prefix across all bins](https://github.com/systemxlabs/indexlake/pull/85) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
-- [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/84) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/83) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [CI: on-demand benchmarks via /bench](https://github.com/systemxlabs/indexlake/pull/82) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [CI: on-demand benchmarks with PR comment](https://github.com/systemxlabs/indexlake/pull/81) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
+- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [CI: /bench runs all benchmarks; /bench &lt;name&gt; runs one](https://github.com/systemxlabs/indexlake/pull/86) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
+- [Benchmarks: use benchmark: prefix across all bins](https://github.com/systemxlabs/indexlake/pull/85) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
+- [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/84) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/83) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [CI: on-demand benchmarks via /bench](https://github.com/systemxlabs/indexlake/pull/82) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [CI: on-demand benchmarks with PR comment](https://github.com/systemxlabs/indexlake/pull/81) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (2 days ago)
-- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (4 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
+- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (5 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (4 days ago)
+- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (5 days ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 weeks ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 month ago)
 - [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (1 month ago)
