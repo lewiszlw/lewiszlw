@@ -17,12 +17,12 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [CI: /bench runs all benchmarks; /bench &lt;name&gt; runs one](https://github.com/systemxlabs/indexlake/pull/86) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
-- [Benchmarks: use benchmark: prefix across all bins](https://github.com/systemxlabs/indexlake/pull/85) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
+- [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [CI: /bench runs all benchmarks; /bench &lt;name&gt; runs one](https://github.com/systemxlabs/indexlake/pull/86) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
+- [Benchmarks: use benchmark: prefix across all bins](https://github.com/systemxlabs/indexlake/pull/85) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/84) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/83) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [CI: on-demand benchmarks via /bench](https://github.com/systemxlabs/indexlake/pull/82) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
@@ -31,14 +31,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
-- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (6 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
+- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (6 days ago)
+- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 month ago)
 - [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (1 month ago)
