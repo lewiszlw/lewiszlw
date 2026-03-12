@@ -17,16 +17,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
-- [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
-- [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [Architecture v2](https://github.com/systemxlabs/babata/pull/37) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Implement architecture v2 task runtime](https://github.com/systemxlabs/babata/pull/36) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
+- [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
+- [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [CI: /bench runs all benchmarks; /bench &lt;name&gt; runs one](https://github.com/systemxlabs/indexlake/pull/86) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Benchmarks: use benchmark: prefix across all bins](https://github.com/systemxlabs/indexlake/pull/85) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/84) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Benchmarks: prefix summary output and comment only benchmark lines](https://github.com/systemxlabs/indexlake/pull/83) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [CI: on-demand benchmarks via /bench](https://github.com/systemxlabs/indexlake/pull/82) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [CI: on-demand benchmarks with PR comment](https://github.com/systemxlabs/indexlake/pull/81) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
