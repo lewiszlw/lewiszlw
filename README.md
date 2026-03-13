@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Architecture v2](https://github.com/systemxlabs/babata/pull/37) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Implement architecture v2 task runtime](https://github.com/systemxlabs/babata/pull/36) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [Architecture v2](https://github.com/systemxlabs/babata/pull/37) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Implement architecture v2 task runtime](https://github.com/systemxlabs/babata/pull/36) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Refactor memory system](https://github.com/systemxlabs/babata/pull/28) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [Home dir](https://github.com/systemxlabs/babata/pull/27) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [provider: add configurable custom openai/anthropic-compatible backend](https://github.com/systemxlabs/babata/pull/26) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [Job v2](https://github.com/systemxlabs/babata/pull/24) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (2 days ago)
 - [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 week ago)
