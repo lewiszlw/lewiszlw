@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Rename update_task tool and support never_ends](https://github.com/systemxlabs/babata/pull/47) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Relaunch never-ending tasks on completion](https://github.com/systemxlabs/babata/pull/45) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Add never_ends to task models and storage](https://github.com/systemxlabs/babata/pull/44) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Rename update_task tool and support never_ends](https://github.com/systemxlabs/babata/pull/47) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Relaunch never-ending tasks on completion](https://github.com/systemxlabs/babata/pull/45) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Add never_ends to task models and storage](https://github.com/systemxlabs/babata/pull/44) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
 - [Add index result columns for table scan and search](https://github.com/systemxlabs/indexlake/pull/87) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [Architecture v2](https://github.com/systemxlabs/babata/pull/37) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [Implement architecture v2 task runtime](https://github.com/systemxlabs/babata/pull/36) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
@@ -30,8 +30,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
-- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (2 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (2 days ago)
+- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (3 days ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 weeks ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
