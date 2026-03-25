@@ -17,32 +17,32 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update README and SKILL docs with modular structure](https://github.com/systemxlabs/wechat-cli/pull/12) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Remove snafu and standardize on anyhow](https://github.com/systemxlabs/wechat-cli/pull/11) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Add account delete command](https://github.com/systemxlabs/wechat-cli/pull/10) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Add account add command](https://github.com/systemxlabs/wechat-cli/pull/9) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Remove snafu and standardize on anyhow](https://github.com/systemxlabs/wechat-cli/pull/8) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Replace tracing with env_logger](https://github.com/systemxlabs/wechat-cli/pull/7) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Improve README.md and SKILL.md](https://github.com/systemxlabs/wechat-cli/pull/6) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Rename update_task tool and support never_ends](https://github.com/systemxlabs/babata/pull/47) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [Relaunch never-ending tasks on completion](https://github.com/systemxlabs/babata/pull/45) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [Add never_ends to task models and storage](https://github.com/systemxlabs/babata/pull/44) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Update README and SKILL docs with modular structure](https://github.com/systemxlabs/wechat-cli/pull/12) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Remove snafu and standardize on anyhow](https://github.com/systemxlabs/wechat-cli/pull/11) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Add account delete command](https://github.com/systemxlabs/wechat-cli/pull/10) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Add account add command](https://github.com/systemxlabs/wechat-cli/pull/9) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Remove snafu and standardize on anyhow](https://github.com/systemxlabs/wechat-cli/pull/8) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Replace tracing with env_logger](https://github.com/systemxlabs/wechat-cli/pull/7) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Improve README.md and SKILL.md](https://github.com/systemxlabs/wechat-cli/pull/6) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Rename update_task tool and support never_ends](https://github.com/systemxlabs/babata/pull/47) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [Relaunch never-ending tasks on completion](https://github.com/systemxlabs/babata/pull/45) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [Add never_ends to task models and storage](https://github.com/systemxlabs/babata/pull/44) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (today)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (3 days ago)
-- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (4 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
+- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (1 day ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 weeks ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (today)
-- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (2 weeks ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 day ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 day ago)
+- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (3 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 month ago)
-- [marimo-team/stdio-to-ws](https://github.com/marimo-team/stdio-to-ws) -  (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
