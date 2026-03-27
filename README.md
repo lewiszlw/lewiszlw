@@ -17,36 +17,36 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade DataFusion from 51 to 52](https://github.com/systemxlabs/datafusion-remote-table/pull/31) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
-- [Upgrade datafusion from 51 to 52](https://github.com/systemxlabs/datafusion-dist/pull/41) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [Add complete handshake authentication for integration tests app](https://github.com/systemxlabs/datafusion-dist/pull/40) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [Upgrade sqllogictest-flightsql from 0.1.0 to 0.2.0](https://github.com/systemxlabs/datafusion-dist/pull/39) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [Upgrade arrow dependencies from 57 to 58](https://github.com/systemxlabs/sqllogictest-flightsql/pull/2) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (1 day ago)
-- [Run Flight SQL handshake when creating FlightSqlDB](https://github.com/systemxlabs/sqllogictest-flightsql/pull/1) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (1 day ago)
-- [Add dynamic fields for table search](https://github.com/systemxlabs/indexlake/pull/88) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Update README and SKILL docs with modular structure](https://github.com/systemxlabs/wechat-cli/pull/12) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [Remove snafu and standardize on anyhow](https://github.com/systemxlabs/wechat-cli/pull/11) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [Add account delete command](https://github.com/systemxlabs/wechat-cli/pull/10) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
+- [Remove assign one stage one partition to self logic from DefaultSched…](https://github.com/systemxlabs/datafusion-dist/pull/43) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
+- [Upgrade datafusion 52](https://github.com/systemxlabs/datafusion-loki/pull/7) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 day ago)
+- [Upgrade DataFusion from 51 to 52](https://github.com/systemxlabs/datafusion-remote-table/pull/31) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 days ago)
+- [Upgrade datafusion from 51 to 52](https://github.com/systemxlabs/datafusion-dist/pull/41) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [Add complete handshake authentication for integration tests app](https://github.com/systemxlabs/datafusion-dist/pull/40) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [Upgrade sqllogictest-flightsql from 0.1.0 to 0.2.0](https://github.com/systemxlabs/datafusion-dist/pull/39) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [Upgrade arrow dependencies from 57 to 58](https://github.com/systemxlabs/sqllogictest-flightsql/pull/2) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 days ago)
+- [Run Flight SQL handshake when creating FlightSqlDB](https://github.com/systemxlabs/sqllogictest-flightsql/pull/1) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 days ago)
+- [Add dynamic fields for table search](https://github.com/systemxlabs/indexlake/pull/88) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Update README and SKILL docs with modular structure](https://github.com/systemxlabs/wechat-cli/pull/12) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (today)
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (today)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (2 days ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 day ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 days ago)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (2 days ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (3 days ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (3 days ago)
 - [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (3 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
-- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (11 months ago)
+- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (1 year ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 year ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 year ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 year ago)
