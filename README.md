@@ -17,30 +17,30 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix wechat feedback](https://github.com/systemxlabs/babata/pull/59) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat(wechat): implement feedback with quoted content support](https://github.com/systemxlabs/babata/pull/57) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [ci(benchmarks): support full benchmark binary names](https://github.com/systemxlabs/indexlake/pull/96) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [docs(readme): add RaBitQ to the index types list](https://github.com/systemxlabs/indexlake/pull/95) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [docs(readme): add RaBitQ to index list](https://github.com/systemxlabs/indexlake/pull/94) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [ci(benchmarks): add rabitq benchmark support](https://github.com/systemxlabs/indexlake/pull/93) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [feat(wechat): implement feedback functionality](https://github.com/systemxlabs/babata/pull/56) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [feat(telegram): include quoted content in reply messages](https://github.com/systemxlabs/babata/pull/55) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [fix(telegram): use channel error kind instead of internal](https://github.com/systemxlabs/babata/pull/54) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [docs: Add contributing section to README](https://github.com/systemxlabs/datafusion-dist/pull/44) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 days ago)
+- [Fix formatting in README.md](https://github.com/systemxlabs/indexlake/pull/103) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
+- [chore: upgrade DataFusion to 52](https://github.com/systemxlabs/indexlake/pull/102) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
+- [refactor: move skill module to agent level and add skills to codex prompt](https://github.com/systemxlabs/babata/pull/62) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Fix clippy warning: remove legacy numeric constant import](https://github.com/systemxlabs/babata/pull/61) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Fix wechat feedback](https://github.com/systemxlabs/babata/pull/59) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [feat(wechat): implement feedback with quoted content support](https://github.com/systemxlabs/babata/pull/57) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [ci(benchmarks): support full benchmark binary names](https://github.com/systemxlabs/indexlake/pull/96) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [docs(readme): add RaBitQ to the index types list](https://github.com/systemxlabs/indexlake/pull/95) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [docs(readme): add RaBitQ to index list](https://github.com/systemxlabs/indexlake/pull/94) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [ci(benchmarks): add rabitq benchmark support](https://github.com/systemxlabs/indexlake/pull/93) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (5 days ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (5 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (6 days ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (6 days ago)
 
 #### ⭐ Check out my recent stars
 
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 week ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 week ago)
-- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (3 weeks ago)
+- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (4 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 month ago)
 
