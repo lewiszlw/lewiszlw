@@ -17,32 +17,32 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade datafusion to 53 &amp; add integration tests for datafusion update and delete operations](https://github.com/systemxlabs/indexlake/pull/109) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [Implement delete / update for IndexLakeTable](https://github.com/systemxlabs/indexlake/pull/108) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Dump multi files](https://github.com/systemxlabs/indexlake/pull/107) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Improve indexlake bench &amp; Accelerate inline indexes insertion](https://github.com/systemxlabs/indexlake/pull/105) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Improve indexlake bench](https://github.com/systemxlabs/indexlake/pull/104) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Fix formatting in README.md](https://github.com/systemxlabs/indexlake/pull/103) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [chore: upgrade DataFusion to 52](https://github.com/systemxlabs/indexlake/pull/102) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [refactor: move skill module to agent level and add skills to codex prompt](https://github.com/systemxlabs/babata/pull/62) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Fix clippy warning: remove legacy numeric constant import](https://github.com/systemxlabs/babata/pull/61) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Fix wechat feedback](https://github.com/systemxlabs/babata/pull/59) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Upgrade datafusion to 53 &amp; add integration tests for datafusion update and delete operations](https://github.com/systemxlabs/indexlake/pull/109) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Implement delete / update for IndexLakeTable](https://github.com/systemxlabs/indexlake/pull/108) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Dump multi files](https://github.com/systemxlabs/indexlake/pull/107) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Improve indexlake bench &amp; Accelerate inline indexes insertion](https://github.com/systemxlabs/indexlake/pull/105) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Improve indexlake bench](https://github.com/systemxlabs/indexlake/pull/104) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Fix formatting in README.md](https://github.com/systemxlabs/indexlake/pull/103) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [chore: upgrade DataFusion to 52](https://github.com/systemxlabs/indexlake/pull/102) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [refactor: move skill module to agent level and add skills to codex prompt](https://github.com/systemxlabs/babata/pull/62) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Fix clippy warning: remove legacy numeric constant import](https://github.com/systemxlabs/babata/pull/61) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Fix wechat feedback](https://github.com/systemxlabs/babata/pull/59) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
+- [lewiszlw/skills](https://github.com/lewiszlw/skills) - Personal skills (today)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 
 #### ⭐ Check out my recent stars
 
+- [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (1 day ago)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 week ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 week ago)
-- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (4 weeks ago)
+- [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (1 month ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
