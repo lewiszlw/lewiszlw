@@ -17,29 +17,29 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Optimize task logs pagination: read files sequentially based on offset/limit](https://github.com/systemxlabs/babata/pull/72) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Add task file content and logs API](https://github.com/systemxlabs/babata/pull/71) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Add GET /tasks/{task_id}/files/{path} endpoint](https://github.com/systemxlabs/babata/pull/70) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [Remove subpath parameter and recursively list all task files](https://github.com/systemxlabs/babata/pull/69) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [Preserve task directories on cancel and completion](https://github.com/systemxlabs/babata/pull/68) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [Add delete_tasks tool for batch task deletion](https://github.com/systemxlabs/babata/pull/67) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [Add HTTP API to delete tasks](https://github.com/systemxlabs/babata/pull/66) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [Wait data files ready in rabitq bench](https://github.com/systemxlabs/indexlake/pull/111) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
-- [Upgrade datafusion to 53 &amp; add integration tests for datafusion update and delete operations](https://github.com/systemxlabs/indexlake/pull/109) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [Implement delete / update for IndexLakeTable](https://github.com/systemxlabs/indexlake/pull/108) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [refactor: remove soul.md and use agent body as system prompt](https://github.com/systemxlabs/babata/pull/78) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: implement Display and FromStr for MessageType](https://github.com/systemxlabs/babata/pull/77) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: flatten message store schema and add created_at to Message](https://github.com/systemxlabs/babata/pull/76) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [refactor: remove role field from message store](https://github.com/systemxlabs/babata/pull/75) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: add task_id field to all Message enum variants](https://github.com/systemxlabs/babata/pull/74) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Reduce total_rows from 1,000,000 to 100,000](https://github.com/systemxlabs/indexlake/pull/113) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Optimize task logs pagination: read files sequentially based on offset/limit](https://github.com/systemxlabs/babata/pull/72) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Add task file content and logs API](https://github.com/systemxlabs/babata/pull/71) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Add GET /tasks/{task_id}/files/{path} endpoint](https://github.com/systemxlabs/babata/pull/70) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [Remove subpath parameter and recursively list all task files](https://github.com/systemxlabs/babata/pull/69) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (4 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (5 days ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (5 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (4 days ago)
-- [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (5 days ago)
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (5 days ago)
+- [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (6 days ago)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 weeks ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (2 weeks ago)
 - [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (1 month ago)
