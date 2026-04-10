@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Consolidate task query tools](https://github.com/systemxlabs/babata/pull/84) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Remove query_tasks tool](https://github.com/systemxlabs/babata/pull/83) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Add query_tasks tool for executing SQL queries on task store](https://github.com/systemxlabs/babata/pull/82) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Refactor tool parameter](https://github.com/systemxlabs/babata/pull/81) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [refactor: remove soul.md and use agent body as system prompt](https://github.com/systemxlabs/babata/pull/78) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: implement Display and FromStr for MessageType](https://github.com/systemxlabs/babata/pull/77) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: flatten message store schema and add created_at to Message](https://github.com/systemxlabs/babata/pull/76) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [refactor: remove role field from message store](https://github.com/systemxlabs/babata/pull/75) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: add task_id field to all Message enum variants](https://github.com/systemxlabs/babata/pull/74) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Reduce total_rows from 1,000,000 to 100,000](https://github.com/systemxlabs/indexlake/pull/113) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [refactor: remove Windows service support](https://github.com/systemxlabs/babata/pull/91) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Consolidate task query tools](https://github.com/systemxlabs/babata/pull/84) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Remove query_tasks tool](https://github.com/systemxlabs/babata/pull/83) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Add query_tasks tool for executing SQL queries on task store](https://github.com/systemxlabs/babata/pull/82) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Refactor tool parameter](https://github.com/systemxlabs/babata/pull/81) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [refactor: remove soul.md and use agent body as system prompt](https://github.com/systemxlabs/babata/pull/78) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: implement Display and FromStr for MessageType](https://github.com/systemxlabs/babata/pull/77) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: flatten message store schema and add created_at to Message](https://github.com/systemxlabs/babata/pull/76) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [refactor: remove role field from message store](https://github.com/systemxlabs/babata/pull/75) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: add task_id field to all Message enum variants](https://github.com/systemxlabs/babata/pull/74) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (6 days ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (6 days ago)
+- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (today)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (6 days ago)
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (1 week ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (1 week ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 weeks ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (2 weeks ago)
