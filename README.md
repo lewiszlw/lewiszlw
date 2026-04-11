@@ -17,24 +17,24 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: remove Windows service support](https://github.com/systemxlabs/babata/pull/91) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Consolidate task query tools](https://github.com/systemxlabs/babata/pull/84) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Remove query_tasks tool](https://github.com/systemxlabs/babata/pull/83) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Add query_tasks tool for executing SQL queries on task store](https://github.com/systemxlabs/babata/pull/82) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Refactor tool parameter](https://github.com/systemxlabs/babata/pull/81) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [refactor: remove soul.md and use agent body as system prompt](https://github.com/systemxlabs/babata/pull/78) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [feat: implement Display and FromStr for MessageType](https://github.com/systemxlabs/babata/pull/77) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [feat: flatten message store schema and add created_at to Message](https://github.com/systemxlabs/babata/pull/76) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [refactor: remove role field from message store](https://github.com/systemxlabs/babata/pull/75) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [feat: add task_id field to all Message enum variants](https://github.com/systemxlabs/babata/pull/74) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: implement task management page](https://github.com/systemxlabs/babata/pull/98) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [feat(web): implement dashboard homepage](https://github.com/systemxlabs/babata/pull/97) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [feat: add skill delete and list APIs](https://github.com/systemxlabs/babata/pull/96) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: add Agent CRUD API endpoints](https://github.com/systemxlabs/babata/pull/95) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [fix(benchmark): fix datafusion scan 0 rows and remove summary output](https://github.com/systemxlabs/indexlake/pull/125) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: add web ui with react](https://github.com/systemxlabs/babata/pull/94) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [refactor: rename general-executor to executor](https://github.com/lewiszlw/agent-resources/pull/1) on [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) (1 day ago)
+- [chore: add empty line to README](https://github.com/systemxlabs/indexlake/pull/124) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Update README with project structure section](https://github.com/systemxlabs/indexlake/pull/123) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [ci(benchmark): add indexlake_vs_datafusion to benchmark CI](https://github.com/systemxlabs/indexlake/pull/122) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (today)
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (1 day ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 
 #### ⭐ Check out my recent stars
 
