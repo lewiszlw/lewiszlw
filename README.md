@@ -17,23 +17,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve web ui static file path resolution for server serve](https://github.com/systemxlabs/babata/pull/113) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [fix: 修复 SPA 页面刷新 404 问题](https://github.com/systemxlabs/babata/pull/112) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat: 添加 React Router 实现多页面路由](https://github.com/systemxlabs/babata/pull/111) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [fix: 修复任务管理页面](https://github.com/systemxlabs/babata/pull/110) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat: Dashboard 显示运行中的根任务数，移除总任务数卡片](https://github.com/systemxlabs/babata/pull/109) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [fix: 使用 default 布尔字段判断默认 agent](https://github.com/systemxlabs/babata/pull/108) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat: 集成任务管理页面并优化默认 Agent 选择](https://github.com/systemxlabs/babata/pull/107) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat: 集成真实的任务管理页面](https://github.com/systemxlabs/babata/pull/106) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [ci: add web ui ci workflow](https://github.com/systemxlabs/babata/pull/105) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat: add task control buttons (pause/resume/cancel)](https://github.com/systemxlabs/babata/pull/104) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: improve web ui static file path resolution for server serve](https://github.com/systemxlabs/babata/pull/113) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [fix: 修复 SPA 页面刷新 404 问题](https://github.com/systemxlabs/babata/pull/112) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [feat: 添加 React Router 实现多页面路由](https://github.com/systemxlabs/babata/pull/111) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [fix: 修复任务管理页面](https://github.com/systemxlabs/babata/pull/110) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [feat: Dashboard 显示运行中的根任务数，移除总任务数卡片](https://github.com/systemxlabs/babata/pull/109) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [fix: 使用 default 布尔字段判断默认 agent](https://github.com/systemxlabs/babata/pull/108) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [feat: 集成任务管理页面并优化默认 Agent 选择](https://github.com/systemxlabs/babata/pull/107) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [feat: 集成真实的任务管理页面](https://github.com/systemxlabs/babata/pull/106) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [ci: add web ui ci workflow](https://github.com/systemxlabs/babata/pull/105) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [feat: add task control buttons (pause/resume/cancel)](https://github.com/systemxlabs/babata/pull/104) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (1 day ago)
-- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (1 day ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
+- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (2 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 days ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 
 #### ⭐ Check out my recent stars
