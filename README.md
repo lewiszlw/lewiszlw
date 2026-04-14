@@ -17,31 +17,31 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve web ui static file path resolution for server serve](https://github.com/systemxlabs/babata/pull/113) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [fix: 修复 SPA 页面刷新 404 问题](https://github.com/systemxlabs/babata/pull/112) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: 添加 React Router 实现多页面路由](https://github.com/systemxlabs/babata/pull/111) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [fix: 修复任务管理页面](https://github.com/systemxlabs/babata/pull/110) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: Dashboard 显示运行中的根任务数，移除总任务数卡片](https://github.com/systemxlabs/babata/pull/109) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [fix: 使用 default 布尔字段判断默认 agent](https://github.com/systemxlabs/babata/pull/108) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: 集成任务管理页面并优化默认 Agent 选择](https://github.com/systemxlabs/babata/pull/107) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: 集成真实的任务管理页面](https://github.com/systemxlabs/babata/pull/106) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [ci: add web ui ci workflow](https://github.com/systemxlabs/babata/pull/105) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: add task control buttons (pause/resume/cancel)](https://github.com/systemxlabs/babata/pull/104) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Add datafusion delete update it tests](https://github.com/systemxlabs/indexlake/pull/126) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
+- [fix: resolve clippy warning for QueryMessagesTool](https://github.com/systemxlabs/babata/pull/118) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: add query_messages tool](https://github.com/systemxlabs/babata/pull/117) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: ignore channel messages older than 1 hour](https://github.com/systemxlabs/babata/pull/116) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: improve web ui static file path resolution for server serve](https://github.com/systemxlabs/babata/pull/113) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [fix: 修复 SPA 页面刷新 404 问题](https://github.com/systemxlabs/babata/pull/112) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: 添加 React Router 实现多页面路由](https://github.com/systemxlabs/babata/pull/111) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [fix: 修复任务管理页面](https://github.com/systemxlabs/babata/pull/110) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: Dashboard 显示运行中的根任务数，移除总任务数卡片](https://github.com/systemxlabs/babata/pull/109) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [fix: 使用 default 布尔字段判断默认 agent](https://github.com/systemxlabs/babata/pull/108) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - AI assistant. (today)
-- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (2 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 days ago)
+- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (3 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (1 week ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (1 week ago)
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 weeks ago)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (2 weeks ago)
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (3 weeks ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (3 weeks ago)
 - [vinicius73/telegram-markdown-v2-rs](https://github.com/vinicius73/telegram-markdown-v2-rs) -  (1 month ago)
 
 #### 📜 Check out my recent blog posts
