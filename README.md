@@ -17,29 +17,29 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove cli &amp; refactor channel configs](https://github.com/systemxlabs/babata/pull/136) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Refactor providers](https://github.com/systemxlabs/babata/pull/135) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Add browser-use skill](https://github.com/lewiszlw/agent-resources/pull/2) on [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) (1 day ago)
-- [refactor: return TaskRecord directly in list root tasks](https://github.com/systemxlabs/babata/pull/134) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [refactor: remove subtask_count from list root tasks response and UI](https://github.com/systemxlabs/babata/pull/133) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Update AGENTS.md: add architecture overview, language guideline, and testing philosophy](https://github.com/systemxlabs/babata/pull/132) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Update AGENTS.md: add testing &amp; UI validation and development workflow sections](https://github.com/systemxlabs/babata/pull/131) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Add AGENTS.md with engineering preferences](https://github.com/systemxlabs/babata/pull/130) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Bump version to 0.2.1](https://github.com/systemxlabs/wechat-cli/pull/14) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Add --version / -V support](https://github.com/systemxlabs/wechat-cli/pull/13) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
+- [feat: add babata version to environment prompt](https://github.com/systemxlabs/babata/pull/138) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [fix: ensure DataFusion listing table path ends with slash for correct scanning](https://github.com/systemxlabs/indexlake/pull/128) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Remove cli &amp; refactor channel configs](https://github.com/systemxlabs/babata/pull/136) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Refactor providers](https://github.com/systemxlabs/babata/pull/135) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Add browser-use skill](https://github.com/lewiszlw/agent-resources/pull/2) on [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) (2 days ago)
+- [refactor: return TaskRecord directly in list root tasks](https://github.com/systemxlabs/babata/pull/134) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [refactor: remove subtask_count from list root tasks response and UI](https://github.com/systemxlabs/babata/pull/133) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Update AGENTS.md: add architecture overview, language guideline, and testing philosophy](https://github.com/systemxlabs/babata/pull/132) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Update AGENTS.md: add testing &amp; UI validation and development workflow sections](https://github.com/systemxlabs/babata/pull/131) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Add AGENTS.md with engineering preferences](https://github.com/systemxlabs/babata/pull/130) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
-- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (1 day ago)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 day ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
+- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (2 days ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (2 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 days ago)
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (1 week ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (3 days ago)
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (2 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (2 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (3 weeks ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (3 weeks ago)
