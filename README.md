@@ -1,10 +1,11 @@
-**Hi, I'm Linwei Zhang** (usually known as **lewiszlw** online):
-- 🎓 CS graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
-- 👨‍💻 Formerly at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
-- 💻 Database engineer | Apache DataFusion committer | Open-source enthusiast
-- 📄 Resume: [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
-- 📱 Reach me: 📫 [lewiszlw520@gmail.com](mailto:lewiszlw520@gmail.com) | 💬 Wechat: wx597422850
-- [Twitter](https://twitter.com/lewiszlw) | [知乎](https://www.zhihu.com/people/tian-qian-zhu-wu-ya) | [Bilibili](https://space.bilibili.com/43876861) | [Youtube](https://www.youtube.com/channel/UCnvri1tqAjxsp9nGQ63zUNw)
+**Hi, I'm Linwei Zhang** (usually naming **lewiszlw** on the internet):
+- 🎓 Computer science graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
+- 👨‍💻 Worked at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
+- 💻 Database engineer | 🎮 Hobbyist game dev | Apache DataFusion Committer
+- 📄 Resume: [English TODO](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_EN.md) | [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
+- 📱 Contact me: 📫 [lewiszlw520@gmail.com](mailto:lewiszlw520@gmail.com) | 💬 Wechat: wx597422850 | Discord: [linwei#8522](http://discordapp.com/users/891664307035713576)
+- Social network: 🦣 [Mastodon](https://mastodon.world/@lewiszlw) | [Twitter](https://twitter.com/lewiszlw)
+- Others: [知乎](https://www.zhihu.com/people/tian-qian-zhu-wu-ya) | [Bilibili](https://space.bilibili.com/43876861) | [Youtube](https://www.youtube.com/channel/UCnvri1tqAjxsp9nGQ63zUNw)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiszlw&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,6 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor(task): extract stop_running_task helper](https://github.com/systemxlabs/babata/pull/139) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
 - [feat: add babata version to environment prompt](https://github.com/systemxlabs/babata/pull/138) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
 - [fix: ensure DataFusion listing table path ends with slash for correct scanning](https://github.com/systemxlabs/indexlake/pull/128) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
 - [Remove cli &amp; refactor channel configs](https://github.com/systemxlabs/babata/pull/136) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
@@ -25,7 +27,6 @@
 - [refactor: remove subtask_count from list root tasks response and UI](https://github.com/systemxlabs/babata/pull/133) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
 - [Update AGENTS.md: add architecture overview, language guideline, and testing philosophy](https://github.com/systemxlabs/babata/pull/132) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
 - [Update AGENTS.md: add testing &amp; UI validation and development workflow sections](https://github.com/systemxlabs/babata/pull/131) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Add AGENTS.md with engineering preferences](https://github.com/systemxlabs/babata/pull/130) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -38,7 +39,7 @@
 #### ⭐ Check out my recent stars
 
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (3 days ago)
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder.  (2 weeks ago)
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (2 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (2 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (3 weeks ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (3 weeks ago)
