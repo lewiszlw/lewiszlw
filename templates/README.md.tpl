@@ -1,7 +1,8 @@
 **Hi, I'm Linwei Zhang** (usually known as **lewiszlw** online):
 - 🎓 CS graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
 - 👨‍💻 Formerly at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
-- 💻 Database engineer | Apache DataFusion committer | Open-source enthusiast | My open-source projects are mainly at [@systemxlabs](https://github.com/systemxlabs) and [@NightsWatchGames](https://github.com/NightsWatchGames)
+- 💻 Database engineer | Apache DataFusion committer | Open-source enthusiast 
+- 📦 My open-source projects are mainly at [@systemxlabs](https://github.com/systemxlabs) and [@NightsWatchGames](https://github.com/NightsWatchGames)
 - 📄 Resume: [中文](https://github.com/lewiszlw/lewiszlw/blob/main/Resume_CN.md)
 - 📱 Reach me: 📫 [lewiszlw520@gmail.com](mailto:lewiszlw520@gmail.com) | 💬 Wechat: wx597422850
 - [Twitter](https://twitter.com/lewiszlw) | [知乎](https://www.zhihu.com/people/tian-qian-zhu-wu-ya) | [Bilibili](https://space.bilibili.com/43876861) | [Youtube](https://www.youtube.com/channel/UCnvri1tqAjxsp9nGQ63zUNw)
