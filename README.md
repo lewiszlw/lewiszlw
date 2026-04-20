@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: prioritize channel feedback before stale filtering](https://github.com/systemxlabs/babata/pull/146) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [refactor: remove TaskManager create_task_with_id](https://github.com/systemxlabs/babata/pull/145) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [refactor: remove TaskManager next_task_id state](https://github.com/systemxlabs/babata/pull/144) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [Rollback task artifacts when launch fails](https://github.com/systemxlabs/babata/pull/143) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: make default scheduler load aware](https://github.com/systemxlabs/datafusion-dist/pull/46) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
-- [refactor(task): extract stop_running_task helper](https://github.com/systemxlabs/babata/pull/139) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [feat: add babata version to environment prompt](https://github.com/systemxlabs/babata/pull/138) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [fix: ensure DataFusion listing table path ends with slash for correct scanning](https://github.com/systemxlabs/indexlake/pull/128) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [Remove cli &amp; refactor channel configs](https://github.com/systemxlabs/babata/pull/136) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [Refactor providers](https://github.com/systemxlabs/babata/pull/135) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [refactor: consolidate task completion decision logic in TaskManager](https://github.com/systemxlabs/babata/pull/149) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [feat(web): replace window.confirm with AlertDialog for skill deletion](https://github.com/systemxlabs/babata/pull/148) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [Local changes](https://github.com/systemxlabs/babata/pull/147) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [fix: prioritize channel feedback before stale filtering](https://github.com/systemxlabs/babata/pull/146) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [refactor: remove TaskManager create_task_with_id](https://github.com/systemxlabs/babata/pull/145) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [refactor: remove TaskManager next_task_id state](https://github.com/systemxlabs/babata/pull/144) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [Rollback task artifacts when launch fails](https://github.com/systemxlabs/babata/pull/143) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: make default scheduler load aware](https://github.com/systemxlabs/datafusion-dist/pull/46) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 days ago)
+- [refactor(task): extract stop_running_task helper](https://github.com/systemxlabs/babata/pull/139) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [feat: add babata version to environment prompt](https://github.com/systemxlabs/babata/pull/138) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 day ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
-- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (4 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (3 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 days ago)
+- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (5 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (5 days ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (6 days ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (2 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (2 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (3 weeks ago)
