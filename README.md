@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test: fix isolated task manager test agent setup](https://github.com/systemxlabs/babata/pull/152) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [refactor: extract shared task spawning logic in TaskLauncher](https://github.com/systemxlabs/babata/pull/151) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat: use binary COPY for Postgres insert](https://github.com/systemxlabs/datafusion-remote-table/pull/34) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
-- [fix: ensure partitioned hash join is distributed in load-aware scheduler](https://github.com/systemxlabs/datafusion-dist/pull/47) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [refactor: consolidate task completion decision logic in TaskManager](https://github.com/systemxlabs/babata/pull/149) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [feat(web): replace window.confirm with AlertDialog for skill deletion](https://github.com/systemxlabs/babata/pull/148) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Local changes](https://github.com/systemxlabs/babata/pull/147) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [fix: prioritize channel feedback before stale filtering](https://github.com/systemxlabs/babata/pull/146) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [refactor: remove TaskManager create_task_with_id](https://github.com/systemxlabs/babata/pull/145) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [refactor: remove TaskManager next_task_id state](https://github.com/systemxlabs/babata/pull/144) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [fix(web): fix task tree card height and enable internal scrolling](https://github.com/systemxlabs/babata/pull/159) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [fix(web): limit task tree view height and enable scrolling](https://github.com/systemxlabs/babata/pull/158) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [refactor(runner): remove max_steps limit and use loop instead](https://github.com/systemxlabs/babata/pull/157) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [feat(web): truncate long messages in task detail with expand/collapse](https://github.com/systemxlabs/babata/pull/156) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [refactor: extract shared resolve_tool_path helper in tool modules](https://github.com/systemxlabs/babata/pull/155) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [refactor: swap stat card positions for running tasks and root tasks](https://github.com/systemxlabs/babata/pull/154) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Fix: truncate long task description in delete confirm modal](https://github.com/systemxlabs/babata/pull/153) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [Support output format option](https://github.com/sundy-li/arrow_cli/pull/35) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Add SKILL.md and support --version option](https://github.com/sundy-li/arrow_cli/pull/34) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [refactor: remove as_any from custom trait objects](https://github.com/systemxlabs/datafusion-remote-table/pull/37) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (4 days ago)
-- [lewiszlw/agent-resources](https://github.com/lewiszlw/agent-resources) - Personal agents and skills (6 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (1 day ago)
+- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (2 days ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 week ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (2 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (2 weeks ago)
