@@ -17,32 +17,32 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(web): fix task tree card height and enable internal scrolling](https://github.com/systemxlabs/babata/pull/159) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [fix(web): limit task tree view height and enable scrolling](https://github.com/systemxlabs/babata/pull/158) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [refactor(runner): remove max_steps limit and use loop instead](https://github.com/systemxlabs/babata/pull/157) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [feat(web): truncate long messages in task detail with expand/collapse](https://github.com/systemxlabs/babata/pull/156) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [refactor: extract shared resolve_tool_path helper in tool modules](https://github.com/systemxlabs/babata/pull/155) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [refactor: swap stat card positions for running tasks and root tasks](https://github.com/systemxlabs/babata/pull/154) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Fix: truncate long task description in delete confirm modal](https://github.com/systemxlabs/babata/pull/153) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Support output format option](https://github.com/sundy-li/arrow_cli/pull/35) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
-- [Add SKILL.md and support --version option](https://github.com/sundy-li/arrow_cli/pull/34) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
-- [refactor: remove as_any from custom trait objects](https://github.com/systemxlabs/datafusion-remote-table/pull/37) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [fix(web): adapt task messages API to latest backend schema](https://github.com/systemxlabs/babata/pull/168) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [docs(AGENTS): add principle to prefer simplicity over over-defensive code](https://github.com/systemxlabs/babata/pull/167) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
+- [refactor: reorder test module and module declarations](https://github.com/systemxlabs/babata/pull/166) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [refactor(message): introduce AssistantThinking variant and remove reasoning_content from other variants](https://github.com/systemxlabs/babata/pull/165) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat(provider): support Anthropic thinking block bidirectional mapping](https://github.com/systemxlabs/babata/pull/164) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat(system-prompt): expose shell type in environment prompt](https://github.com/systemxlabs/babata/pull/163) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat(provider): support URL image source and typed role enum for Anthropic API](https://github.com/systemxlabs/babata/pull/162) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [fix(web): fix task tree card height and enable internal scrolling](https://github.com/systemxlabs/babata/pull/159) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [fix(web): limit task tree view height and enable scrolling](https://github.com/systemxlabs/babata/pull/158) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [refactor(runner): remove max_steps limit and use loop instead](https://github.com/systemxlabs/babata/pull/157) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (today)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (today)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (2 days ago)
+- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (3 days ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 week ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (2 weeks ago)
-- [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (2 weeks ago)
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (4 weeks ago)
+- [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (3 weeks ago)
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
