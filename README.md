@@ -17,28 +17,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(error): consolidate BabataError Display formatting to reduce…](https://github.com/systemxlabs/babata/pull/179) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [Refactor/api client error handling](https://github.com/systemxlabs/wechat-cli/pull/25) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [fix(benchmarks): resolve object_store version mismatch](https://github.com/systemxlabs/indexlake/pull/139) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Check errcode in ILinkClient::api_post](https://github.com/corespeed-io/wechatbot/pull/71) on [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) (1 day ago)
-- [chore: bump version to 0.5](https://github.com/systemxlabs/wechat-cli/pull/24) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [feat: support reading message text from stdin pipe](https://github.com/systemxlabs/wechat-cli/pull/23) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [Print bot token](https://github.com/systemxlabs/wechat-cli/pull/22) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [feat: remove fallback to first saved account in get-context-token](https://github.com/systemxlabs/wechat-cli/pull/21) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [feat: support --account and explicit credentials for get-context-token](https://github.com/systemxlabs/wechat-cli/pull/20) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 day ago)
-- [refactor: reorder EditFileArgs struct for better readability in edit_…](https://github.com/systemxlabs/babata/pull/178) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [refactor(error): consolidate BabataError Display formatting to reduce…](https://github.com/systemxlabs/babata/pull/179) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [Refactor/api client error handling](https://github.com/systemxlabs/wechat-cli/pull/25) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [fix(benchmarks): resolve object_store version mismatch](https://github.com/systemxlabs/indexlake/pull/139) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [Check errcode in ILinkClient::api_post](https://github.com/corespeed-io/wechatbot/pull/71) on [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) (2 days ago)
+- [chore: bump version to 0.5](https://github.com/systemxlabs/wechat-cli/pull/24) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [feat: support reading message text from stdin pipe](https://github.com/systemxlabs/wechat-cli/pull/23) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [Print bot token](https://github.com/systemxlabs/wechat-cli/pull/22) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [feat: remove fallback to first saved account in get-context-token](https://github.com/systemxlabs/wechat-cli/pull/21) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [feat: support --account and explicit credentials for get-context-token](https://github.com/systemxlabs/wechat-cli/pull/20) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 days ago)
+- [refactor: reorder EditFileArgs struct for better readability in edit_…](https://github.com/systemxlabs/babata/pull/178) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (today)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 day ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 day ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (5 days ago)
+- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (6 days ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 week ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (3 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (3 weeks ago)
