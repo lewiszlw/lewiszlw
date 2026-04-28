@@ -17,29 +17,29 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(tool): extract shared SQL SELECT validation](https://github.com/systemxlabs/babata/pull/180) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [refactor(error): consolidate BabataError Display formatting to reduce…](https://github.com/systemxlabs/babata/pull/179) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [Refactor/api client error handling](https://github.com/systemxlabs/wechat-cli/pull/25) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [fix(benchmarks): resolve object_store version mismatch](https://github.com/systemxlabs/indexlake/pull/139) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [Check errcode in ILinkClient::api_post](https://github.com/corespeed-io/wechatbot/pull/71) on [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) (3 days ago)
-- [chore: bump version to 0.5](https://github.com/systemxlabs/wechat-cli/pull/24) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [feat: support reading message text from stdin pipe](https://github.com/systemxlabs/wechat-cli/pull/23) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [Print bot token](https://github.com/systemxlabs/wechat-cli/pull/22) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [feat: remove fallback to first saved account in get-context-token](https://github.com/systemxlabs/wechat-cli/pull/21) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
-- [feat: support --account and explicit credentials for get-context-token](https://github.com/systemxlabs/wechat-cli/pull/20) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (3 days ago)
+- [refactor(http): extract require_non_empty helper to reduce duplication](https://github.com/systemxlabs/babata/pull/181) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [refactor(tool): extract shared SQL SELECT validation](https://github.com/systemxlabs/babata/pull/180) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [refactor(error): consolidate BabataError Display formatting to reduce…](https://github.com/systemxlabs/babata/pull/179) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [Refactor/api client error handling](https://github.com/systemxlabs/wechat-cli/pull/25) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (4 days ago)
+- [fix(benchmarks): resolve object_store version mismatch](https://github.com/systemxlabs/indexlake/pull/139) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [Check errcode in ILinkClient::api_post](https://github.com/corespeed-io/wechatbot/pull/71) on [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) (4 days ago)
+- [chore: bump version to 0.5](https://github.com/systemxlabs/wechat-cli/pull/24) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (4 days ago)
+- [feat: support reading message text from stdin pipe](https://github.com/systemxlabs/wechat-cli/pull/23) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (4 days ago)
+- [Print bot token](https://github.com/systemxlabs/wechat-cli/pull/22) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (4 days ago)
+- [feat: remove fallback to first saved account in get-context-token](https://github.com/systemxlabs/wechat-cli/pull/21) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (2 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 day ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (3 days ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (4 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
 
 #### ⭐ Check out my recent stars
 
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (1 week ago)
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 week ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 weeks ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (3 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (3 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 month ago)
