@@ -17,30 +17,30 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: switch logs to JsonLayout and type task logs API response](https://github.com/systemxlabs/babata/pull/187) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (today)
-- [fix(http): make LogLevel::matches precise for logforth default format](https://github.com/systemxlabs/babata/pull/185) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
-- [test(http): adjust log_level_matches_correctly to avoid false-positive assertions](https://github.com/systemxlabs/babata/pull/184) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [refactor: extract shared SKIP_DIRS constant to utils](https://github.com/systemxlabs/babata/pull/183) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [fix(http): task log level filter matches logforth default format](https://github.com/systemxlabs/babata/pull/182) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
-- [refactor(http): extract require_non_empty helper to reduce duplication](https://github.com/systemxlabs/babata/pull/181) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [refactor(tool): extract shared SQL SELECT validation](https://github.com/systemxlabs/babata/pull/180) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [refactor(error): consolidate BabataError Display formatting to reduce…](https://github.com/systemxlabs/babata/pull/179) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
-- [Refactor/api client error handling](https://github.com/systemxlabs/wechat-cli/pull/25) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (6 days ago)
-- [fix(benchmarks): resolve object_store version mismatch](https://github.com/systemxlabs/indexlake/pull/139) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [fix(web): eliminate setState-in-effect ESLint violations](https://github.com/systemxlabs/babata/pull/190) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [fix(build): auto-build web UI during cargo build to prevent stale dist](https://github.com/systemxlabs/babata/pull/189) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat(web): adapt task logs UI to structured API](https://github.com/systemxlabs/babata/pull/188) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [feat: switch logs to JsonLayout and type task logs API response](https://github.com/systemxlabs/babata/pull/187) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 day ago)
+- [fix(http): make LogLevel::matches precise for logforth default format](https://github.com/systemxlabs/babata/pull/185) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 days ago)
+- [test(http): adjust log_level_matches_correctly to avoid false-positive assertions](https://github.com/systemxlabs/babata/pull/184) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [refactor: extract shared SKIP_DIRS constant to utils](https://github.com/systemxlabs/babata/pull/183) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [fix(http): task log level filter matches logforth default format](https://github.com/systemxlabs/babata/pull/182) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
+- [refactor(http): extract require_non_empty helper to reduce duplication](https://github.com/systemxlabs/babata/pull/181) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [refactor(tool): extract shared SQL SELECT validation](https://github.com/systemxlabs/babata/pull/180) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 day ago)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (5 days ago)
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (6 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (6 days ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (1 week ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 weeks ago)
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (3 weeks ago)
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (4 weeks ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (4 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 month ago)
 
