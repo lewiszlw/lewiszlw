@@ -17,20 +17,20 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: derive Eq alongside PartialEq for remaining core data types](https://github.com/systemxlabs/babata/pull/192) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 days ago)
-- [refactor: derive Eq alongside PartialEq for core data types](https://github.com/systemxlabs/babata/pull/191) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
-- [fix(web): eliminate setState-in-effect ESLint violations](https://github.com/systemxlabs/babata/pull/190) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [fix(build): auto-build web UI during cargo build to prevent stale dist](https://github.com/systemxlabs/babata/pull/189) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [feat(web): adapt task logs UI to structured API](https://github.com/systemxlabs/babata/pull/188) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [feat: switch logs to JsonLayout and type task logs API response](https://github.com/systemxlabs/babata/pull/187) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
-- [fix(http): make LogLevel::matches precise for logforth default format](https://github.com/systemxlabs/babata/pull/185) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [refactor: derive Eq alongside PartialEq for remaining core data types](https://github.com/systemxlabs/babata/pull/192) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (4 days ago)
+- [refactor: derive Eq alongside PartialEq for core data types](https://github.com/systemxlabs/babata/pull/191) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (5 days ago)
+- [fix(web): eliminate setState-in-effect ESLint violations](https://github.com/systemxlabs/babata/pull/190) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [fix(build): auto-build web UI during cargo build to prevent stale dist](https://github.com/systemxlabs/babata/pull/189) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [feat(web): adapt task logs UI to structured API](https://github.com/systemxlabs/babata/pull/188) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [feat: switch logs to JsonLayout and type task logs API response](https://github.com/systemxlabs/babata/pull/187) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (6 days ago)
+- [fix(http): make LogLevel::matches precise for logforth default format](https://github.com/systemxlabs/babata/pull/185) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [test(http): adjust log_level_matches_correctly to avoid false-positive assertions](https://github.com/systemxlabs/babata/pull/184) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [refactor: extract shared SKIP_DIRS constant to utils](https://github.com/systemxlabs/babata/pull/183) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [fix(http): task log level filter matches logforth default format](https://github.com/systemxlabs/babata/pull/182) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (3 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (today)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 week ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
