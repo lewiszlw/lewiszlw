@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(dist): batch process events with recv_many and merge duplicates](https://github.com/systemxlabs/datafusion-dist/pull/60) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 days ago)
-- [Refactor network methods to batch handling](https://github.com/systemxlabs/datafusion-dist/pull/59) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 days ago)
-- [refactor: return ApiError for invalid bot token](https://github.com/systemxlabs/wechat-cli/pull/26) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (5 days ago)
+- [feat(dist): batch process events with recv_many and merge duplicates](https://github.com/systemxlabs/datafusion-dist/pull/60) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
+- [Refactor network methods to batch handling](https://github.com/systemxlabs/datafusion-dist/pull/59) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
+- [refactor: return ApiError for invalid bot token](https://github.com/systemxlabs/wechat-cli/pull/26) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (6 days ago)
 - [refactor: derive Eq alongside PartialEq for remaining core data types](https://github.com/systemxlabs/babata/pull/192) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [refactor: derive Eq alongside PartialEq for core data types](https://github.com/systemxlabs/babata/pull/191) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
 - [fix(web): eliminate setState-in-effect ESLint violations](https://github.com/systemxlabs/babata/pull/190) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (1 week ago)
@@ -30,16 +30,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 days ago)
-- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (5 days ago)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (5 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
+- [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (6 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (6 days ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 weeks ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (3 weeks ago)
-- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (3 weeks ago)
+- [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (4 weeks ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (1 month ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (1 month ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 month ago)
