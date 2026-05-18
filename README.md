@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Redesign auto-increment column handling](https://github.com/systemxlabs/datafusion-remote-table/pull/48) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [Redesign auto-increment column handling](https://github.com/systemxlabs/datafusion-remote-table/pull/48) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (5 days ago)
 - [feat(dist): batch process events with recv_many and merge duplicates](https://github.com/systemxlabs/datafusion-dist/pull/60) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [Refactor network methods to batch handling](https://github.com/systemxlabs/datafusion-dist/pull/59) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [refactor: return ApiError for invalid bot token](https://github.com/systemxlabs/wechat-cli/pull/26) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (1 week ago)
@@ -30,15 +30,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
 - [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) - A CLI tool to interact with a Wechat iLink bot. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (3 weeks ago)
+- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (4 weeks ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 month ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (1 month ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (1 month ago)
