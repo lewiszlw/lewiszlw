@@ -17,23 +17,23 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (today)
-- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (2 days ago)
-- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (2 days ago)
+- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
+- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (3 days ago)
+- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (3 days ago)
 - [Redesign auto-increment column handling](https://github.com/systemxlabs/datafusion-remote-table/pull/48) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [feat(dist): batch process events with recv_many and merge duplicates](https://github.com/systemxlabs/datafusion-dist/pull/60) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
 - [Refactor network methods to batch handling](https://github.com/systemxlabs/datafusion-dist/pull/59) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
 - [refactor: return ApiError for invalid bot token](https://github.com/systemxlabs/wechat-cli/pull/26) on [systemxlabs/wechat-cli](https://github.com/systemxlabs/wechat-cli) (2 weeks ago)
-- [refactor: derive Eq alongside PartialEq for remaining core data types](https://github.com/systemxlabs/babata/pull/192) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (2 weeks ago)
+- [refactor: derive Eq alongside PartialEq for remaining core data types](https://github.com/systemxlabs/babata/pull/192) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 weeks ago)
 - [refactor: derive Eq alongside PartialEq for core data types](https://github.com/systemxlabs/babata/pull/191) on [systemxlabs/babata](https://github.com/systemxlabs/babata) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (today)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (3 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 
 #### ⭐ Check out my recent stars
@@ -42,7 +42,7 @@
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 month ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (1 month ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (1 month ago)
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (1 month ago)
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
