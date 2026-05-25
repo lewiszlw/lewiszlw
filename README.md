@@ -17,9 +17,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
-- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (4 days ago)
-- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (4 days ago)
+- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 days ago)
+- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (5 days ago)
+- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (5 days ago)
 - [Redesign auto-increment column handling](https://github.com/systemxlabs/datafusion-remote-table/pull/48) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [feat(dist): batch process events with recv_many and merge duplicates](https://github.com/systemxlabs/datafusion-dist/pull/60) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 days ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (4 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 days ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (5 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 
