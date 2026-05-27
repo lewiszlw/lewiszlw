@@ -17,24 +17,24 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (today)
-- [Revert &#34;fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch&#34;](https://github.com/systemxlabs/datafusion-dist/pull/69) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/68) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/67) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
-- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 days ago)
-- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (6 days ago)
-- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (6 days ago)
+- [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
+- [Revert &#34;fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch&#34;](https://github.com/systemxlabs/datafusion-dist/pull/69) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/68) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/67) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
+- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 week ago)
+- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 week ago)
 - [Redesign auto-increment column handling](https://github.com/systemxlabs/datafusion-remote-table/pull/48) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
-- [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
+- [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
 - [feat(dist): batch process events with recv_many and merge duplicates](https://github.com/systemxlabs/datafusion-dist/pull/60) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (today)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (today)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (6 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
