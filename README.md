@@ -17,11 +17,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: adapt jieba-rs 0.10.0 API changes](https://github.com/systemxlabs/indexlake/pull/153) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 days ago)
-- [Revert &#34;fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch&#34;](https://github.com/systemxlabs/datafusion-dist/pull/69) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
-- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/68) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
-- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/67) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
+- [fix: adapt jieba-rs 0.10.0 API changes](https://github.com/systemxlabs/indexlake/pull/153) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
+- [Revert &#34;fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch&#34;](https://github.com/systemxlabs/datafusion-dist/pull/69) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (6 days ago)
+- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/68) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (6 days ago)
+- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/67) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (6 days ago)
 - [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 week ago)
 - [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 week ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (5 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (5 days ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 
