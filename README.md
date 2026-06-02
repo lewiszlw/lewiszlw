@@ -17,8 +17,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: adapt jieba-rs 0.10.0 API changes](https://github.com/systemxlabs/indexlake/pull/153) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
-- [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (6 days ago)
+- [fix: adapt jieba-rs 0.10.0 API changes](https://github.com/systemxlabs/indexlake/pull/153) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [Revert &#34;fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch&#34;](https://github.com/systemxlabs/datafusion-dist/pull/69) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/68) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/67) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
@@ -30,9 +30,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (6 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 
@@ -40,7 +40,7 @@
 
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (1 month ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 month ago)
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (1 month ago)
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (2 months ago)
 - [1ffycat/telegram-cli](https://github.com/1ffycat/telegram-cli) - A Rust CLI tool to interact with a Telegram bot (2 months ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (2 months ago)
 
@@ -50,4 +50,4 @@
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 year ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 year ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 year ago)
-- [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (1 year ago)
+- [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (2 years ago)
