@@ -17,20 +17,20 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: adapt jieba-rs 0.10.0 API changes](https://github.com/systemxlabs/indexlake/pull/153) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
+- [feat: selective rebuild inline indexes on update](https://github.com/systemxlabs/indexlake/pull/159) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
+- [feat: skip inline index rebuild when updating non-index columns](https://github.com/systemxlabs/indexlake/pull/158) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [[TEST] Core changes only](https://github.com/systemxlabs/indexlake/pull/157) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: selective rebuild inline indexes on update (phase 1)](https://github.com/systemxlabs/indexlake/pull/156) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [Revert &#34;feat: selective rebuild inline indexes on update (phase 1)&#34;](https://github.com/systemxlabs/indexlake/pull/155) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: selective rebuild inline indexes on update (phase 1)](https://github.com/systemxlabs/indexlake/pull/154) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [fix: adapt jieba-rs 0.10.0 API changes](https://github.com/systemxlabs/indexlake/pull/153) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
 - [fix: recursively reset plan state](https://github.com/systemxlabs/datafusion-dist/pull/70) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [Revert &#34;fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch&#34;](https://github.com/systemxlabs/datafusion-dist/pull/69) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/68) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
-- [fix: recursively reset plan state to avoid RepartitionExec panic on multi-endpoint fetch](https://github.com/systemxlabs/datafusion-dist/pull/67) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
-- [Upgrade DataFusion to 53](https://github.com/systemxlabs/datafusion-dist/pull/66) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
-- [Optimize CI pull request trigger](https://github.com/systemxlabs/datafusion-loki/pull/9) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (2 weeks ago)
-- [Upgrade datafusion dependencies to 53](https://github.com/systemxlabs/datafusion-loki/pull/8) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (2 weeks ago)
-- [Redesign auto-increment column handling](https://github.com/systemxlabs/datafusion-remote-table/pull/48) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [Upgrade datafusion from 52 to 53](https://github.com/systemxlabs/datafusion-remote-table/pull/47) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 weeks ago)
