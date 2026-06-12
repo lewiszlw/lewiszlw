@@ -17,29 +17,29 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test: add schema consistency and scan output verification tests](https://github.com/systemxlabs/datafusion-loki/pull/11) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (today)
-- [fix: update Arrow schema for Arrow 58 compatibility](https://github.com/systemxlabs/datafusion-loki/pull/10) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (today)
-- [refactor: move task guard into rebuild_inline_indexes](https://github.com/systemxlabs/indexlake/pull/178) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [feat: add RebuildInlineIndexes optimization for manual compaction](https://github.com/systemxlabs/indexlake/pull/177) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [perf: use HashMap for sparse scoring in BM25 scorer](https://github.com/systemxlabs/indexlake/pull/176) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [feat: delete fully-invalid inline index records](https://github.com/systemxlabs/indexlake/pull/175) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [perf: use HashMap for UUID→position lookup in BTree/RStar filter](https://github.com/systemxlabs/indexlake/pull/174) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [refactor: Index::filter accepts &amp;RowValidity parameter](https://github.com/systemxlabs/indexlake/pull/173) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [refactor: RowValidity::is_valid() returns Result instead of panicking](https://github.com/systemxlabs/indexlake/pull/172) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [feat: incremental update path for inline indexes (PR2c)](https://github.com/systemxlabs/indexlake/pull/170) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [refactor: simplify MDB pool - remove global connection cache](https://github.com/systemxlabs/datafusion-remote-table/pull/75) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (today)
+- [rename fetch_count method](https://github.com/systemxlabs/datafusion-remote-table/pull/74) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (today)
+- [refactor: reduce unsafe blocks in MDB module](https://github.com/systemxlabs/datafusion-remote-table/pull/73) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [feat: MDB count supports table source via ODBC SELECT COUNT(*)](https://github.com/systemxlabs/datafusion-remote-table/pull/72) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [test: add pushdown_filters integration test for MDB](https://github.com/systemxlabs/datafusion-remote-table/pull/71) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [refactor: add count method to Connection trait](https://github.com/systemxlabs/datafusion-remote-table/pull/70) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [Support multi-line input](https://github.com/sundy-li/arrow_cli/pull/37) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [Upgrade arrow to 58](https://github.com/sundy-li/arrow_cli/pull/36) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [feat: enable SQL rewrite and COUNT(1) optimization for MDB](https://github.com/systemxlabs/datafusion-remote-table/pull/69) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [feat: implement sql_binary_literal for Oracle, DM, and MDB](https://github.com/systemxlabs/datafusion-remote-table/pull/68) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 day ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (today)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 day ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 weeks ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 weeks ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (2 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (1 day ago)
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (1 day ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (2 days ago)
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (2 days ago)
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (1 month ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (1 month ago)
 - [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. (2 months ago)
