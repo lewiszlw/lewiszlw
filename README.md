@@ -17,30 +17,30 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test: add integration tests for IndexLakeSearchExec](https://github.com/systemxlabs/indexlake/pull/190) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [fix: use correct exec schema in IndexLakeSearchExec](https://github.com/systemxlabs/indexlake/pull/189) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [feat: add concurrency parameter to TableSearch](https://github.com/systemxlabs/indexlake/pull/188) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [feat: impl From&lt;ILError&gt; for DataFusionError and simplify error conversion](https://github.com/systemxlabs/indexlake/pull/187) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [feat: add protobuf support for search/update/delete operators](https://github.com/systemxlabs/indexlake/pull/186) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [feat: add IndexLakeSearchExec operator to datafusion integration](https://github.com/systemxlabs/indexlake/pull/185) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [refactor: change rewrite_query to return DFResult, error on Command source](https://github.com/systemxlabs/datafusion-remote-table/pull/78) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
-- [chore: bump version to 0.5.0](https://github.com/systemxlabs/indexlake/pull/184) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [Not set paramset size when size is 1](https://github.com/pacman82/odbc-api/pull/903) on [pacman82/odbc-api](https://github.com/pacman82/odbc-api) (4 days ago)
-- [Refactor/mdb pool simplify v2](https://github.com/systemxlabs/datafusion-remote-table/pull/76) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [fix(rabitq): support FixedSizeList in addition to List](https://github.com/systemxlabs/indexlake/pull/193) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: add minimal OpenGauss database support (int type only)](https://github.com/systemxlabs/datafusion-remote-table/pull/84) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [feat: add limit param to IndexLakeSearchExec::try_new and implement with_fetch](https://github.com/systemxlabs/indexlake/pull/192) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [refactor: move limit from SearchQuery to TableSearch](https://github.com/systemxlabs/indexlake/pull/191) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [test: add integration tests for IndexLakeSearchExec](https://github.com/systemxlabs/indexlake/pull/190) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [fix: use correct exec schema in IndexLakeSearchExec](https://github.com/systemxlabs/indexlake/pull/189) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: add concurrency parameter to TableSearch](https://github.com/systemxlabs/indexlake/pull/188) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: impl From&lt;ILError&gt; for DataFusionError and simplify error conversion](https://github.com/systemxlabs/indexlake/pull/187) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat: add protobuf support for search/update/delete operators](https://github.com/systemxlabs/indexlake/pull/186) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [feat: add IndexLakeSearchExec operator to datafusion integration](https://github.com/systemxlabs/indexlake/pull/185) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 day ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (5 days ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (6 days ago)
+- [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) -  (today)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
+- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (6 days ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
 
 #### ⭐ Check out my recent stars
 
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 day ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (6 days ago)
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (6 days ago)
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (2 days ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (1 week ago)
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (1 week ago)
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (1 month ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 months ago)
 
