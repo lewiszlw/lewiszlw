@@ -17,21 +17,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(mdb): remove dummy bind_col from list_tables_sync](https://github.com/systemxlabs/datafusion-remote-table/pull/93) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [refactor(mdb): use safe conn.execute() for fetch_table_row_count](https://github.com/systemxlabs/datafusion-remote-table/pull/92) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [refactor(mdb): remove dummy bind_col workaround in query](https://github.com/systemxlabs/datafusion-remote-table/pull/91) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [refactor(mdb): use safe conn.execute() for query](https://github.com/systemxlabs/datafusion-remote-table/pull/90) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [refactor(mdb): use SQLExecDirect for infer_schema (simpler than prepare&#43;execute)](https://github.com/systemxlabs/datafusion-remote-table/pull/89) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [refactor(mdb): use safe conn.prepare() for infer_schema](https://github.com/systemxlabs/datafusion-remote-table/pull/88) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
-- [chore: switch bb8-gaussdb to crates.io v0.1, pin odbc-api to 28.1.1](https://github.com/systemxlabs/datafusion-remote-table/pull/87) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 days ago)
+- [test: expand gaussdb integration coverage](https://github.com/systemxlabs/datafusion-remote-table/pull/97) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 day ago)
+- [refactor(mdb): remove dummy bind_col from list_tables_sync](https://github.com/systemxlabs/datafusion-remote-table/pull/93) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [refactor(mdb): use safe conn.execute() for fetch_table_row_count](https://github.com/systemxlabs/datafusion-remote-table/pull/92) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [refactor(mdb): remove dummy bind_col workaround in query](https://github.com/systemxlabs/datafusion-remote-table/pull/91) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [refactor(mdb): use safe conn.execute() for query](https://github.com/systemxlabs/datafusion-remote-table/pull/90) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [refactor(mdb): use SQLExecDirect for infer_schema (simpler than prepare&#43;execute)](https://github.com/systemxlabs/datafusion-remote-table/pull/89) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [refactor(mdb): use safe conn.prepare() for infer_schema](https://github.com/systemxlabs/datafusion-remote-table/pull/88) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [chore: switch bb8-gaussdb to crates.io v0.1, pin odbc-api to 28.1.1](https://github.com/systemxlabs/datafusion-remote-table/pull/87) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
 - [fix(hnsw): single nearest() call, avoid copy_from_slice panic](https://github.com/systemxlabs/indexlake/pull/203) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [fix(hnsw): ef_search in query, explicit beam width via nearest()](https://github.com/systemxlabs/indexlake/pull/202) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [fix(hnsw): add ef_search param and use nearest() for explicit beam width](https://github.com/systemxlabs/indexlake/pull/201) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 days ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) - A GaussDB / openGauss adaptor for bb8 connection pool. (1 week ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (2 weeks ago)
