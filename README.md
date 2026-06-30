@@ -17,7 +17,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test: expand gaussdb integration coverage](https://github.com/systemxlabs/datafusion-remote-table/pull/97) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (4 days ago)
+- [test: expand gaussdb integration coverage](https://github.com/systemxlabs/datafusion-remote-table/pull/97) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (5 days ago)
 - [refactor(mdb): remove dummy bind_col from list_tables_sync](https://github.com/systemxlabs/datafusion-remote-table/pull/93) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [refactor(mdb): use safe conn.execute() for fetch_table_row_count](https://github.com/systemxlabs/datafusion-remote-table/pull/92) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [refactor(mdb): remove dummy bind_col workaround in query](https://github.com/systemxlabs/datafusion-remote-table/pull/91) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) - A GaussDB / openGauss adaptor for bb8 connection pool. (1 week ago)
@@ -49,5 +49,5 @@
 - [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (1 year ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 year ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 year ago)
-- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (1 year ago)
+- [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (2 years ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (2 years ago)
