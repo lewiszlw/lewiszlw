@@ -18,7 +18,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support custom inline row count for inline index segment (#198)](https://github.com/systemxlabs/indexlake/pull/206) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 days ago)
+- [feat: support custom inline row count for inline index segment (#198)](https://github.com/systemxlabs/indexlake/pull/206) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
 - [test: expand gaussdb integration coverage](https://github.com/systemxlabs/datafusion-remote-table/pull/97) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [refactor(mdb): remove dummy bind_col from list_tables_sync](https://github.com/systemxlabs/datafusion-remote-table/pull/93) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
 - [refactor(mdb): use safe conn.execute() for fetch_table_row_count](https://github.com/systemxlabs/datafusion-remote-table/pull/92) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
@@ -31,8 +31,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 weeks ago)
 - [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) - A GaussDB / openGauss adaptor for bb8 connection pool. (2 weeks ago)
 - [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (3 weeks ago)
@@ -49,6 +49,6 @@
 
 - [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (1 year ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 year ago)
-- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (1 year ago)
+- [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (2 years ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (2 years ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (2 years ago)
