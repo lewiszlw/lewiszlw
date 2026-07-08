@@ -1,5 +1,5 @@
 **Hi, I'm Linwei Zhang** (usually known as **lewiszlw** online):
-- Looking for a new data infra job at Wuhan(onsite) or remote
+- LOOKING FOR A DATA INFRA JOB at Wuhan(onsite) or remote
 - 🎓 CS graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
 - 👨‍💻 Formerly at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
 - 💻 Database engineer | Apache DataFusion committer | Open-source enthusiast 
@@ -18,6 +18,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [首页添加 Projects 部分](https://github.com/lewiszlw/lewiszlw.github.io/pull/9) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (today)
 - [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [将 Latest posts 从标题改为普通文本](https://github.com/lewiszlw/lewiszlw.github.io/pull/7) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
@@ -27,13 +28,12 @@
 - [修改 base_url 并移除 about 页面](https://github.com/lewiszlw/lewiszlw.github.io/pull/3) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [删除 projects 页面并替换 systemxlabs 引用](https://github.com/lewiszlw/lewiszlw.github.io/pull/2) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [将 systemxlabs 引用替换为 lewiszlw](https://github.com/lewiszlw/lewiszlw.github.io/pull/1) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
-- [feat: support custom inline row count for inline index segment (#198)](https://github.com/systemxlabs/indexlake/pull/206) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (today)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (today)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 weeks ago)
 - [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) - A GaussDB / openGauss adaptor for bb8 connection pool. (3 weeks ago)
 
