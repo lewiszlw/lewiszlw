@@ -18,6 +18,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (today)
 - [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [将 Latest posts 从标题改为普通文本](https://github.com/lewiszlw/lewiszlw.github.io/pull/7) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [更新首页：移除旧标题，添加个人简介和开源贡献](https://github.com/lewiszlw/lewiszlw.github.io/pull/6) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
@@ -27,7 +28,6 @@
 - [删除 projects 页面并替换 systemxlabs 引用](https://github.com/lewiszlw/lewiszlw.github.io/pull/2) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [将 systemxlabs 引用替换为 lewiszlw](https://github.com/lewiszlw/lewiszlw.github.io/pull/1) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
 - [feat: support custom inline row count for inline index segment (#198)](https://github.com/systemxlabs/indexlake/pull/206) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
-- [test: expand gaussdb integration coverage](https://github.com/systemxlabs/datafusion-remote-table/pull/97) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 
 #### 👷 Check out what I'm currently working on
 
