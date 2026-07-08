@@ -18,30 +18,30 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support custom inline row count for inline index segment (#198)](https://github.com/systemxlabs/indexlake/pull/206) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [将 Latest posts 从标题改为普通文本](https://github.com/lewiszlw/lewiszlw.github.io/pull/7) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [更新首页：移除旧标题，添加个人简介和开源贡献](https://github.com/lewiszlw/lewiszlw.github.io/pull/6) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [删除未使用的 project.html 模板](https://github.com/lewiszlw/lewiszlw.github.io/pull/5) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [将站点标题从 SystemX Labs 改为 Linwei Zhang](https://github.com/lewiszlw/lewiszlw.github.io/pull/4) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [修改 base_url 并移除 about 页面](https://github.com/lewiszlw/lewiszlw.github.io/pull/3) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [删除 projects 页面并替换 systemxlabs 引用](https://github.com/lewiszlw/lewiszlw.github.io/pull/2) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [将 systemxlabs 引用替换为 lewiszlw](https://github.com/lewiszlw/lewiszlw.github.io/pull/1) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (today)
+- [feat: support custom inline row count for inline index segment (#198)](https://github.com/systemxlabs/indexlake/pull/206) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
 - [test: expand gaussdb integration coverage](https://github.com/systemxlabs/datafusion-remote-table/pull/97) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
-- [refactor(mdb): remove dummy bind_col from list_tables_sync](https://github.com/systemxlabs/datafusion-remote-table/pull/93) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [refactor(mdb): use safe conn.execute() for fetch_table_row_count](https://github.com/systemxlabs/datafusion-remote-table/pull/92) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [refactor(mdb): remove dummy bind_col workaround in query](https://github.com/systemxlabs/datafusion-remote-table/pull/91) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [refactor(mdb): use safe conn.execute() for query](https://github.com/systemxlabs/datafusion-remote-table/pull/90) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [refactor(mdb): use SQLExecDirect for infer_schema (simpler than prepare&#43;execute)](https://github.com/systemxlabs/datafusion-remote-table/pull/89) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [refactor(mdb): use safe conn.prepare() for infer_schema](https://github.com/systemxlabs/datafusion-remote-table/pull/88) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [chore: switch bb8-gaussdb to crates.io v0.1, pin odbc-api to 28.1.1](https://github.com/systemxlabs/datafusion-remote-table/pull/87) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (2 weeks ago)
-- [fix(hnsw): single nearest() call, avoid copy_from_slice panic](https://github.com/systemxlabs/indexlake/pull/203) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 weeks ago)
-- [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) - A GaussDB / openGauss adaptor for bb8 connection pool. (2 weeks ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (3 weeks ago)
+- [systemxlabs/bb8-gaussdb](https://github.com/systemxlabs/bb8-gaussdb) - A GaussDB / openGauss adaptor for bb8 connection pool. (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (3 weeks ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (3 weeks ago)
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (3 weeks ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (4 weeks ago)
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (4 weeks ago)
 - [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (2 months ago)
 - [corespeed-io/wechatbot](https://github.com/corespeed-io/wechatbot) - 微信 iLink Bot SDK for OpenClaw/AI Agent (2 months ago)
 
