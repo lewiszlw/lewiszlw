@@ -1,5 +1,5 @@
 **Hi, I'm Linwei Zhang** (usually known as **lewiszlw** online):
-- Looking for a new data infra job at Wuhan(onsite) or remote
+- LOOKING FOR A DATA INFRA JOB at Wuhan(onsite) or remote
 - 🎓 CS graduate from [WHUT](https://en.wikipedia.org/wiki/Wuhan_University_of_Technology)
 - 👨‍💻 Formerly at [Meituan](https://about.meituan.com/home) / [Amazon](https://www.amazon.com/) / [Xiaomi](https://www.mi.com/)
 - 💻 Database engineer | Apache DataFusion committer | Open-source enthusiast 
