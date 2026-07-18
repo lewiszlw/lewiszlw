@@ -18,7 +18,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 day ago)
+- [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 days ago)
 - [首页添加 Projects 部分](https://github.com/lewiszlw/lewiszlw.github.io/pull/9) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
 - [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 day ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 days ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 week ago)
 - [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
