@@ -35,11 +35,9 @@
 
 *数慧时空* #h(1fr) 2023.09 -- 至今 \
 Rust 工程师（数据库） #h(1fr) 武汉 \
-- 负责联邦数据库和湖仓系统的架构与开发
-- *联邦数据库系统*：支持多种数据库和半结构化文件，下推 filters/limit 到远端执行，支持结果集转换
-- *DataFusion GEO 计算扩展*：基于 geos/geozero 实现几十种 GEO 自定义函数，基于 rstar 索引和自定义 join 算子加速 GEO 计算
-- *数据湖格式 #link("https://github.com/systemxlabs/indexlake")[indexlake]*：支持 B+树/Rstar/BM25/HNSW 等可扩展索引，内联表，可扩展 Catalog/Storage，ACID 事务
-- *分布式计算库 #link("https://github.com/systemxlabs/datafusion-dist")[datafusion-dist]*：将 DataFusion 单机计划扩展为分布式流式执行，可扩展的集群管理/网络层/Planner/Scheduler/Executor
+- *联邦数据库系统*：主导架构设计，基于 DataFusion 构建。实现自定义 SQL 解析，提供 PostgreSQL 协议和 FlightSQL 协议接入。支持 PostgreSQL/MySQL/Oracle/DaMeng/SQLite 等数据库及 CSV/JSON/XML/XLSX/SHP/GeoJSON/MDB/GDB/REST 等数据源的联邦查询，实现 filters/limit 下推远端执行及结果集转换。元数据基于 PostgreSQL 管理，支持对象存储、查询结果多级缓存，支持物化视图定时刷新及数据血缘追踪。实现 60+ 空间函数与聚合、自定义 spatial join 算子。支持 HNSW/IVF-Rabitq 等向量索引、BM25 全文检索、Rstar 空间索引
+- *数据湖格式 #link("https://github.com/systemxlabs/indexlake")[indexlake]*：设计并实现数据湖表格式。基于 SQL 数据库管理元数据，数据以 Parquet 格式存储于对象存储。类 LSM-tree 架构：小规模变更内联于元数据存储，避免小文件问题，超阈值自动 Dump 为 Parquet 写入对象存储。支持完整的数据库增删改查语义、schema 变更，支持分区并行扫描，支持复杂嵌套类型。支持不同存储后端：S3兼容对象存储、本地文件系统等，支持可插拔索引框架，已实现 B+ 树、Rstar 空间索引、倒排索引、向量索引（HNSW、RaBitQ）。基于 Bitmap 实现高效 Delete/Update。完整 DataFusion 集成，支持标准 SQL 查询
+- *分布式计算库 #link("https://github.com/systemxlabs/datafusion-dist")[datafusion-dist]*：设计并实现基于 DataFusion 的分布式流式查询引擎。Planner 自动切分单机物理计划为多 Stage（Partitioned HashJoin/Partial Aggregate/Sort），Scheduler 基于实时负载进行跨节点负载均衡，网络层基于 Arrow Flight + gRPC 流式传输，支持不同数据库管理集群状态
 
 *小米科技* #h(1fr) 2021.07 -- 2023.08 \
 软件研发工程师 #h(1fr) 武汉 \
