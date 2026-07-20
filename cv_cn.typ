@@ -60,16 +60,29 @@ Software Dev Engineer #h(1fr) 北京 \
 == 开源贡献
 #chiline()
 
-- [Committer] #link("https://github.com/apache/arrow-datafusion/commits?author=lewiszlw")[apache/arrow-datafusion]: SQL 查询引擎 / 贡献 88 prs
-- [Contributor] #link("https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw")[geoarrow-rs]: Arrow 格式存储空间数据 / 贡献 18 prs
-- [Contributor] #link("https://github.com/apache/arrow-rs/commits?author=lewiszlw")[apache/arrow-rs]: 列式内存格式 / 贡献 12 prs
-- [Maintainer] #link("https://github.com/sundy-li/arrow_cli")[arrow_cli]: 与 Arrow FlightSQL 协议数据库交互的命令行工具
-- [Creator] #link("https://github.com/systemxlabs/indexlake")[indexlake]: 支持可扩展索引和内联表的数据湖格式
-- [Creator] #link("https://github.com/systemxlabs/datafusion-dist")[datafusion-dist]: 基于 DataFusion 的分布式流式计算库
-- [Creator] #link("https://github.com/systemxlabs/datafusion-remote-table")[datafusion-remote-table]: DataFusion 远端数据库查询扩展
-- [Creator] #link("https://github.com/systemxlabs/derive-with")[derive-with]: 使用 Rust 过程宏实现的 with 构造方法链式调用
-- [Creator] #link("https://github.com/systemxlabs/datafusion-loki")[datafusion-loki]: 在 DataFusion 中查询分析 Loki 日志
-- [Creator] #link("https://github.com/systemxlabs/sqllogictest-flightsql")[sqllogictest-flightsql]: 支持 flight sql 协议的 sqllogictest runner
+*Apache DataFusion* #link("https://github.com/apache/arrow-datafusion")[Committer] #h(1fr) 2023 -- 至今 \
+#link("https://github.com/apache/arrow-datafusion/commits?author=lewiszlw")[88 PRs] \
+- 推动聚合/标量函数体系架构简化：先后移除 `ScalarFunctionDefinition`、`AggregateFunctionDefinition`、`AggregateExpr` 等核心 trait，统一函数接口，降低框架复杂度
+- 创建 `datafusion-physical-optimizer` 新 crate，将 `TopKAggregation`、`CombinePartialFinalAggregate`、`LimitPushdown` 等优化规则从核心 crate 解耦迁移，改善模块边界
+- 完善 Proto 序列化体系：支持自定义物理表达式、`CoalescePartitionsExec`、`MemoryDataSource` 的序列化/反序列化
+- 修复多项关键 Bug：`CoalescePartitionsExec` 和 Window 表达式反序列化错误（影响分布式执行和窗口函数正确性），Group 表达式 Nullable 推导不准确（影响聚合类型推导），`SharedBitmapBuilder` 和 `get_final_indices_from_shared_bitmap` 重复定义（消除重复代码、降低维护风险）
+- 优化 Hash Join（复用 join-on 表达式求值结果）、Nested Loop Join、Cross Join（标量函数下推），改进 Grouping Set 实现
+- 改进 `UserDefinedLogicalNodeCore`、`ContextProvider` 等核心 API，为 `LogicalPlan` 节点统一派生 Debug，提升开发者体验
+
+*个人项目* #link("https://github.com/systemxlabs")[github.com/systemxlabs] \
+- #link("https://github.com/systemxlabs/indexlake")[indexlake]：可扩展索引的数据湖格式（B+ 树/Rstar/BM25/HNSW/RaBitQ），内联表，ACID 事务
+- #link("https://github.com/systemxlabs/datafusion-dist")[datafusion-dist]：DataFusion 分布式流式执行引擎，可插拔 Cluster/Network/Planner/Scheduler/Executor
+- #link("https://github.com/systemxlabs/datafusion-remote-table")[datafusion-remote-table]：DataFusion 远端数据库联邦查询 TableProvider
+- #link("https://github.com/systemxlabs/datafusion-loki")[datafusion-loki]：在 DataFusion 中查询分析 Grafana Loki 日志
+- #link("https://github.com/systemxlabs/sqllogictest-flightsql")[sqllogictest-flightsql]：支持 Flight SQL 协议的 sqllogictest runner
+- #link("https://github.com/systemxlabs/derive-with")[derive-with]：Rust 过程宏，为任意类型生成 with 构造方法链式调用
+- #link("https://github.com/systemxlabs/bustubx")[bustubx]：Rust 实现的关系型数据库（160 stars），涵盖表达式计算、Volcano 执行引擎、B+ 树索引、磁盘页管理、Buffer Pool、基于规则的优化器
+
+*其他贡献* \
+- #link("https://github.com/geoarrow/geoarrow-rs/commits?author=lewiszlw")[geoarrow-rs]：Arrow 空间数据格式扩展 / 18 PRs
+- #link("https://github.com/apache/arrow-rs/commits?author=lewiszlw")[apache/arrow-rs]：Arrow 列式内存格式 / 12 PRs
+- #link("https://github.com/sundy-li/arrow_cli")[arrow_cli] 维护者：Flight SQL 命令行客户端
+- #link("https://github.com/bevyengine/bevy/commits?author=lewiszlw")[bevy] 社区成员：Rust 游戏引擎 / 20+ PRs
 
 == 其他
 #chiline()
