@@ -11,7 +11,7 @@
 - **美团点评** / 2018.07 - 2019.08 / 后台开发工程师 / 负责境内度假供应链平台开发
 - **Amazon** / 2019.08 - 2021.06 / Software Dev Engineer / 负责亚马逊物流商家供货平台以及新国家上线
 - **小米科技** / 2021.07 - 2023.08 / 软件研发工程师 / 负责智能客服智能外呼和IVR系统
-- **数慧时空** / 2023.09 - 至今 / Rust工程师（数据库） / 负责数据系统的设计与开发
+- **数慧时空** / 2023.09 - 至今 / Rust工程师（数据库） / 负责联邦数据库和湖仓系统的架构与开发
 
 ## 项目经历
 
@@ -22,7 +22,7 @@
 - 可扩展的 Storage：支持本地文件系统、S3 兼容存储或自定义 Storage
 - 支持 ACID 事务
 
-#### 基于 DataFusion 的分布式流式计算库 [datafusion-dist](https://github.com/systemxlabs/datafusion-dist)
+#### 基于 DataFusion 的分布式计算库 [datafusion-dist](https://github.com/systemxlabs/datafusion-dist)
 - 将 DataFusion 单机执行计划扩展为分布式执行计划在集群上流式执行
 - 可扩展的集群管理，可通过 PostgreSQL 或自定义方式管理集群节点
 - 可扩展的网络层，可通过 grpc 或自定义方式进行节点间通信
@@ -35,11 +35,10 @@
 - 基于 geos / geozero 等库实现几十种 GEO 相关 DataFusion 自定义函数
 - 基于 rstar 索引和自定义 DataFusion join 算子加速 GEO 计算
 
-#### DataFusion 远端数据库查询扩展 [datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table)
-- 支持 Postgres / MySQL / Oracle / SQLite / Dameng 数据库
-- 支持自动推理结果集 schema 和用户自定义 schema
+#### 联邦数据库系统
+- 支持多种数据库
+- 支持多种结构化、半结构化文件
 - 支持下推 filters 和 limit 到远端数据库执行
-- 支持分布式环境执行
 - 支持对结果集转换后输出
 
 ## 开源贡献
@@ -52,12 +51,9 @@
 - [Creator] [datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table): DataFusion 远端数据库查询扩展
 - [Creator] [derive-with](https://github.com/systemxlabs/derive-with): 使用Rust过程宏实现的with构造方法链式调用
 - [Creator] [datafusion-loki](https://github.com/systemxlabs/datafusion-loki): 在 DataFusion 中查询分析 Loki 日志
-- [Creator] [bb8-tonic](https://github.com/systemxlabs/bb8-tonic): bb8 连接池支持 tonic grpc 连接
 - [Creator] [sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql): 支持 flight sql 协议的 sqllogictest runner
 
 ## 其他
 - 参加并通过 [2024 秋冬季清华大学开源操作系统训练营](https://opencamp.cn/os2edu/camp/2024fall)（通过率 1%）
 - 获得 2022 Rust 中文社区线上黑客马拉松第二名（[链接](https://mp.weixin.qq.com/s/dlNIbZ486syRPlzw7YwC0Q)，获 1w 奖金）
-
-[geoarrow-rs]: https://github.com/geoarrow/geoarrow-rs
-[datafusion-geo]: https://github.com/systemxlabs/datafusion-geo
+- 撰写技术博客 [20+ 篇](https://lewiszlw.github.io/blog/) ，并在 B 站发布[约 30 次](https://space.bilibili.com/43876861/upload/video)技术分享视频
