@@ -18,32 +18,32 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (5 days ago)
-- [首页添加 Projects 部分](https://github.com/lewiszlw/lewiszlw.github.io/pull/9) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
-- [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [将 Latest posts 从标题改为普通文本](https://github.com/lewiszlw/lewiszlw.github.io/pull/7) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [更新首页：移除旧标题，添加个人简介和开源贡献](https://github.com/lewiszlw/lewiszlw.github.io/pull/6) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [删除未使用的 project.html 模板](https://github.com/lewiszlw/lewiszlw.github.io/pull/5) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [将站点标题从 SystemX Labs 改为 Linwei Zhang](https://github.com/lewiszlw/lewiszlw.github.io/pull/4) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [修改 base_url 并移除 about 页面](https://github.com/lewiszlw/lewiszlw.github.io/pull/3) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [删除 projects 页面并替换 systemxlabs 引用](https://github.com/lewiszlw/lewiszlw.github.io/pull/2) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
+- [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (6 days ago)
+- [首页添加 Projects 部分](https://github.com/lewiszlw/lewiszlw.github.io/pull/9) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (2 weeks ago)
+- [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [将 Latest posts 从标题改为普通文本](https://github.com/lewiszlw/lewiszlw.github.io/pull/7) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [更新首页：移除旧标题，添加个人简介和开源贡献](https://github.com/lewiszlw/lewiszlw.github.io/pull/6) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [删除未使用的 project.html 模板](https://github.com/lewiszlw/lewiszlw.github.io/pull/5) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [将站点标题从 SystemX Labs 改为 Linwei Zhang](https://github.com/lewiszlw/lewiszlw.github.io/pull/4) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [修改 base_url 并移除 about 页面](https://github.com/lewiszlw/lewiszlw.github.io/pull/3) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [删除 projects 页面并替换 systemxlabs 引用](https://github.com/lewiszlw/lewiszlw.github.io/pull/2) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (5 days ago)
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 week ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (6 days ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 weeks ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (4 weeks ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (1 week ago)
+- [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst. (1 day ago)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (2 weeks ago)
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 month ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI &amp; Hermes Agent. Only official website: ccswitch.io (1 month ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io (1 month ago)
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (1 month ago)
-- [djc/bb8](https://github.com/djc/bb8) - Full-featured async (tokio-based) postgres connection pool (like r2d2) (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
