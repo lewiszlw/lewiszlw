@@ -59,8 +59,8 @@ Software Dev Engineer #h(1fr) 北京 \
 == 开源贡献
 #chiline()
 
-*Apache DataFusion* #link("https://github.com/apache/arrow-datafusion")[Committer] #h(1fr) 2023 -- 至今 \
-#link("https://github.com/apache/arrow-datafusion/commits?author=lewiszlw")[88 PRs] \
+*Apache DataFusion* Committer #link("https://github.com/apache/datafusion")[github.com/apache/datafusion] #h(1fr) 2023 -- 至今 \
+可扩展的 OLAP 查询引擎 #link("https://github.com/apache/arrow-datafusion/commits?author=lewiszlw")[88 PRs] \
 - 推动聚合/标量函数体系架构简化：先后移除 `ScalarFunctionDefinition`、`AggregateFunctionDefinition`、`AggregateExpr` 等核心 trait，统一函数接口，降低框架复杂度
 - 创建 `datafusion-physical-optimizer` 新 crate，将 `TopKAggregation`、`CombinePartialFinalAggregate`、`LimitPushdown` 等优化规则从核心 crate 解耦迁移，改善模块边界
 - 完善 Proto 序列化体系：支持自定义物理表达式、`CoalescePartitionsExec`、`MemoryDataSource` 的序列化/反序列化
