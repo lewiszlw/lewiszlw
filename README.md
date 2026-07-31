@@ -18,9 +18,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: upgrade DataFusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-dist/pull/90) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (6 days ago)
-- [chore: upgrade datafusion to v54](https://github.com/systemxlabs/indexlake/pull/211) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
-- [chore: upgrade datafusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-remote-table/pull/99) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (6 days ago)
+- [chore: upgrade DataFusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-dist/pull/90) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
+- [chore: upgrade datafusion to v54](https://github.com/systemxlabs/indexlake/pull/211) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
+- [chore: upgrade datafusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-remote-table/pull/99) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (2 weeks ago)
 - [首页添加 Projects 部分](https://github.com/lewiszlw/lewiszlw.github.io/pull/9) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (3 weeks ago)
 - [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (3 weeks ago)
@@ -31,16 +31,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (6 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
+- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (2 weeks ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
 - [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst. (1 week ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal. (3 weeks ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (3 weeks ago)
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning &amp; Translate | 🐸 陪读蛙 - 语言学习与翻译 (1 month ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io (1 month ago)
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (1 month ago)
@@ -48,7 +48,7 @@
 #### 📜 Check out my recent blog posts
 
 - [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (1 year ago)
-- [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (1 year ago)
+- [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (2 years ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (2 years ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (2 years ago)
 - [Rust 异步运行时 smol 剖析](https://systemxlabs.github.io/blog/smol-async-runtime/) (2 years ago)
