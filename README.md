@@ -21,7 +21,7 @@
 - [chore: upgrade DataFusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-dist/pull/90) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 weeks ago)
 - [chore: upgrade datafusion to v54](https://github.com/systemxlabs/indexlake/pull/211) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (3 weeks ago)
 - [chore: upgrade datafusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-remote-table/pull/99) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (3 weeks ago)
-- [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (4 weeks ago)
+- [feat: support --file argument to execute SQL from a file](https://github.com/sundy-li/arrow_cli/pull/38) on [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) (1 month ago)
 - [首页添加 Projects 部分](https://github.com/lewiszlw/lewiszlw.github.io/pull/9) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 month ago)
 - [Workflow 改用 GITHUB_TOKEN 部署](https://github.com/systemxlabs/systemxlabs.github.io/pull/1) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 month ago)
 - [Latest posts 改为 h4](https://github.com/lewiszlw/lewiszlw.github.io/pull/8) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 month ago)
@@ -34,7 +34,7 @@
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (3 weeks ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (3 weeks ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (3 weeks ago)
-- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (4 weeks ago)
+- [sundy-li/arrow_cli](https://github.com/sundy-li/arrow_cli) - A Native client talk with server in Flight SQL protocol (1 month ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 month ago)
 
 #### ⭐ Check out my recent stars
