@@ -18,6 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 day ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 day ago)
 - [Update deploy.yml to include write permissions](https://github.com/systemxlabs/systemxlabs.github.io/pull/3) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
 - [Rename notes page to reading](https://github.com/lewiszlw/lewiszlw.github.io/pull/11) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [Remove notes page](https://github.com/systemxlabs/systemxlabs.github.io/pull/2) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
@@ -26,20 +28,18 @@
 - [feat: upgrade to DataFusion 55](https://github.com/systemxlabs/datafusion-loki/pull/13) on [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) (1 week ago)
 - [chore: upgrade datafusion dependencies from 54 to 55](https://github.com/systemxlabs/datafusion-remote-table/pull/100) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [chore: upgrade datafusion to v55](https://github.com/systemxlabs/indexlake/pull/214) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [chore: upgrade DataFusion dependencies from 54 to 55](https://github.com/systemxlabs/datafusion-dist/pull/91) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
-- [chore: upgrade DataFusion dependencies from 53 to 54](https://github.com/systemxlabs/datafusion-dist/pull/90) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 day ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 day ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 day ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
-- [systemxlabs/datafusion-loki](https://github.com/systemxlabs/datafusion-loki) - A datafusion table provider for querying loki data.  (1 week ago)
 
 #### ⭐ Check out my recent stars
 
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (6 days ago)
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 week ago)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 weeks ago)
 - [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst. (1 month ago)
