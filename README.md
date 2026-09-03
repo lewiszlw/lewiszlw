@@ -18,8 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 day ago)
-- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 day ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (2 days ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 days ago)
 - [Update deploy.yml to include write permissions](https://github.com/systemxlabs/systemxlabs.github.io/pull/3) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
 - [Rename notes page to reading](https://github.com/lewiszlw/lewiszlw.github.io/pull/11) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [Remove notes page](https://github.com/systemxlabs/systemxlabs.github.io/pull/2) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
@@ -31,16 +31,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 day ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 day ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 day ago)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 day ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (2 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (2 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (2 days ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 week ago)
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (1 week ago)
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 weeks ago)
 - [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst. (1 month ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 month ago)
