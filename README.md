@@ -18,8 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (3 days ago)
-- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (3 days ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (4 days ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (4 days ago)
 - [Update deploy.yml to include write permissions](https://github.com/systemxlabs/systemxlabs.github.io/pull/3) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (2 weeks ago)
 - [Rename notes page to reading](https://github.com/lewiszlw/lewiszlw.github.io/pull/11) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Remove notes page](https://github.com/systemxlabs/systemxlabs.github.io/pull/2) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (2 weeks ago)
@@ -31,11 +31,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (3 days ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (3 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (3 days ago)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (3 days ago)
-- [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (1 day ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (4 days ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (4 days ago)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (4 days ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (4 days ago)
 
 #### ⭐ Check out my recent stars
 
