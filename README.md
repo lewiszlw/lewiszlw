@@ -18,8 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (6 days ago)
-- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (6 days ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/systemxlabs/systemxlabs.github.io/pull/4) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (1 week ago)
+- [Remove Mastodon and YouTube links from footer](https://github.com/lewiszlw/lewiszlw.github.io/pull/12) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [Update deploy.yml to include write permissions](https://github.com/systemxlabs/systemxlabs.github.io/pull/3) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (2 weeks ago)
 - [Rename notes page to reading](https://github.com/lewiszlw/lewiszlw.github.io/pull/11) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Remove notes page](https://github.com/systemxlabs/systemxlabs.github.io/pull/2) on [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) (2 weeks ago)
@@ -31,16 +31,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (3 days ago)
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (6 days ago)
-- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (6 days ago)
-- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (6 days ago)
-- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (6 days ago)
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (today)
+- [systemxlabs/systemxlabs.github.io](https://github.com/systemxlabs/systemxlabs.github.io) -  (1 week ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 week ago)
+- [systemxlabs/.github](https://github.com/systemxlabs/.github) -  (1 week ago)
+- [systemxlabs/babata](https://github.com/systemxlabs/babata) - Agent System. (1 week ago)
 
 #### ⭐ Check out my recent stars
 
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 week ago)
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (1 week ago)
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (2 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
 - [skyzh/chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template for Typst. (1 month ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 months ago)
