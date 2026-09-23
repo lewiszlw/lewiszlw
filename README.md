@@ -18,8 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 days ago)
-- [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 days ago)
+- [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (5 days ago)
+- [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (5 days ago)
 - [chore: bump version to 0.6.0](https://github.com/systemxlabs/indexlake/pull/222) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [feat(access): add Access (.accdb) as its own remote database type](https://github.com/systemxlabs/datafusion-remote-table/pull/108) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
 - [fix(mdb): correct filter pushdown and connections for .mdb sources](https://github.com/systemxlabs/datafusion-remote-table/pull/107) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 week ago)
@@ -32,22 +32,22 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (5 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (5 days ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 week ago)
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources. (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (5 days ago)
-- [agentprism/codex-acp-v2](https://github.com/agentprism/codex-acp-v2) - ACP protocol v2 agent server in Rust, powered by the Codex app-server, with native MCP and negotiated Codex extensions. (6 days ago)
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (3 weeks ago)
+- [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (1 day ago)
+- [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (6 days ago)
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (4 weeks ago)
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (4 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
-- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (1 year ago)
+- [开源 datafusion-remote-table 库：在远端数据库执行 SQL 查询](https://systemxlabs.github.io/blog/datafusion-remote-table-intro/) (2 years ago)
 - [Visitor 模式的两种不同实现分析](https://systemxlabs.github.io/blog/visitor-pattern/) (2 years ago)
 - [DataFusion 查询引擎 Hash Join](https://systemxlabs.github.io/blog/datafusion-hash-join/) (2 years ago)
 - [DataFusion 查询引擎 Nested Loop Join](https://systemxlabs.github.io/blog/datafusion-nested-loop-join/) (2 years ago)
