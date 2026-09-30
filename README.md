@@ -18,7 +18,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [reading 页书籍添加作者并新增《从零构建大模型》](https://github.com/lewiszlw/lewiszlw.github.io/pull/13) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 day ago)
+- [reading 页书籍添加作者并新增《从零构建大模型》](https://github.com/lewiszlw/lewiszlw.github.io/pull/13) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 days ago)
 - [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
 - [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [chore: bump version to 0.6.0](https://github.com/systemxlabs/indexlake/pull/222) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
@@ -32,7 +32,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 day ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 days ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 week ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (2 weeks ago)
