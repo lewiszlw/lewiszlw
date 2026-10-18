@@ -18,28 +18,28 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (5 days ago)
-- [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (5 days ago)
+- [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (6 days ago)
+- [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (6 days ago)
 - [Update index.md](https://github.com/lewiszlw/lewiszlw.github.io/pull/15) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [Revise reading sections and update book list](https://github.com/lewiszlw/lewiszlw.github.io/pull/14) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [reading 页书籍添加作者并新增《从零构建大模型》](https://github.com/lewiszlw/lewiszlw.github.io/pull/13) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
-- [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (4 weeks ago)
-- [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
+- [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
+- [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [chore: bump version to 0.6.0](https://github.com/systemxlabs/indexlake/pull/222) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [feat(access): add Access (.accdb) as its own remote database type](https://github.com/systemxlabs/datafusion-remote-table/pull/108) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 - [fix(mdb): correct filter pushdown and connections for .mdb sources](https://github.com/systemxlabs/datafusion-remote-table/pull/107) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (1 day ago)
-- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (5 days ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (4 weeks ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 weeks ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (2 days ago)
+- [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (6 days ago)
+- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (5 days ago)
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (6 days ago)
 - [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (3 weeks ago)
 - [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (1 month ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (1 month ago)
