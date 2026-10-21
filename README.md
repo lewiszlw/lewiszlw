@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (4 days ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
