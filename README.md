@@ -20,7 +20,7 @@
 
 - [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
 - [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
-- [Update index.md](https://github.com/lewiszlw/lewiszlw.github.io/pull/15) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 week ago)
+- [Update index.md](https://github.com/lewiszlw/lewiszlw.github.io/pull/15) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Revise reading sections and update book list](https://github.com/lewiszlw/lewiszlw.github.io/pull/14) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [reading 页书籍添加作者并新增《从零构建大模型》](https://github.com/lewiszlw/lewiszlw.github.io/pull/13) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (3 weeks ago)
 - [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (1 day ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 week ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
