@@ -18,6 +18,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
 - [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Update index.md](https://github.com/lewiszlw/lewiszlw.github.io/pull/15) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
@@ -27,11 +28,10 @@
 - [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [chore: bump version to 0.6.0](https://github.com/systemxlabs/indexlake/pull/222) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [feat(access): add Access (.accdb) as its own remote database type](https://github.com/systemxlabs/datafusion-remote-table/pull/108) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
-- [fix(mdb): correct filter pushdown and connections for .mdb sources](https://github.com/systemxlabs/datafusion-remote-table/pull/107) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (3 days ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
