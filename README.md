@@ -18,22 +18,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
+- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
+- [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [perf(scan): avoid double-scanning files with filter and limit/offset](https://github.com/systemxlabs/indexlake/pull/232) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
 - [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Update index.md](https://github.com/lewiszlw/lewiszlw.github.io/pull/15) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Revise reading sections and update book list](https://github.com/lewiszlw/lewiszlw.github.io/pull/14) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
-- [reading 页书籍添加作者并新增《从零构建大模型》](https://github.com/lewiszlw/lewiszlw.github.io/pull/13) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (4 weeks ago)
-- [feat: clean up stages that stop making progress](https://github.com/systemxlabs/datafusion-dist/pull/94) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 month ago)
-- [feat(table): align insert batch field nullability with table field](https://github.com/systemxlabs/indexlake/pull/230) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
-- [chore: bump version to 0.6.0](https://github.com/systemxlabs/indexlake/pull/222) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
-- [feat(access): add Access (.accdb) as its own remote database type](https://github.com/systemxlabs/datafusion-remote-table/pull/108) on [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (1 day ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
 
