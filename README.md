@@ -18,32 +18,32 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (today)
-- [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [perf(scan): avoid double-scanning files with filter and limit/offset](https://github.com/systemxlabs/indexlake/pull/232) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
-- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 day ago)
+- [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [perf(scan): avoid double-scanning files with filter and limit/offset](https://github.com/systemxlabs/indexlake/pull/232) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
+- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 days ago)
 - [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
 - [Update index.md](https://github.com/lewiszlw/lewiszlw.github.io/pull/15) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
-- [Revise reading sections and update book list](https://github.com/lewiszlw/lewiszlw.github.io/pull/14) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (2 weeks ago)
+- [Revise reading sections and update book list](https://github.com/lewiszlw/lewiszlw.github.io/pull/14) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (today)
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (1 day ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 day ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (2 weeks ago)
 - [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 - [systemxlabs/datafusion-remote-table](https://github.com/systemxlabs/datafusion-remote-table) - A DataFusion table provider for executing SQL on remote databases. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
+- [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (1 day ago)
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (2 weeks ago)
 - [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (1 month ago)
 - [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (1 month ago)
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (2 months ago)
-- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
