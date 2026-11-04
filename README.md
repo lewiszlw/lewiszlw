@@ -18,9 +18,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (5 days ago)
-- [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (5 days ago)
-- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (6 days ago)
+- [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (6 days ago)
+- [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (6 days ago)
+- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
 - [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
@@ -31,19 +31,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (today)
-- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (5 days ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (6 days ago)
+- [lewiszlw/data-lake-benchmarks](https://github.com/lewiszlw/data-lake-benchmarks) -  (1 day ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (1 day ago)
+- [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (6 days ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (3 weeks ago)
-- [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) - A distributed streaming execution library for Apache DataFusion. (1 month ago)
 
 #### ⭐ Check out my recent stars
 
-- [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (6 days ago)
+- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (1 day ago)
+- [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (1 week ago)
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (3 weeks ago)
 - [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (1 month ago)
 - [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (1 month ago)
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
