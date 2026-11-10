@@ -21,25 +21,25 @@
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (1 week ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (1 week ago)
 - [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [perf(scan): avoid double-scanning files with filter and limit/offset](https://github.com/systemxlabs/indexlake/pull/232) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
-- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 week ago)
+- [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [perf(scan): avoid double-scanning files with filter and limit/offset](https://github.com/systemxlabs/indexlake/pull/232) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
+- [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
 - [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (4 weeks ago)
 - [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (3 days ago)
-- [lewiszlw/data-lake-benchmarks](https://github.com/lewiszlw/data-lake-benchmarks) -  (6 days ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (4 days ago)
+- [lewiszlw/data-lake-benchmarks](https://github.com/lewiszlw/data-lake-benchmarks) -  (1 week ago)
 - [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (1 week ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 week ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (4 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (6 days ago)
+- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (1 week ago)
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (1 week ago)
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (4 weeks ago)
 - [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (1 month ago)
