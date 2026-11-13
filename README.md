@@ -18,6 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (today)
+- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (today)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 weeks ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 weeks ago)
 - [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
@@ -26,12 +28,10 @@
 - [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
 - [perf(scan): avoid double-scanning files with filter and limit/offset](https://github.com/systemxlabs/indexlake/pull/232) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
 - [perf(catalog): build row selection lazily from validity bitmap](https://github.com/systemxlabs/indexlake/pull/231) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
-- [首页求职方向改为 data &amp; ai infra](https://github.com/lewiszlw/lewiszlw.github.io/pull/17) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 month ago)
-- [Reading 页新增《小狗钱钱》](https://github.com/lewiszlw/lewiszlw.github.io/pull/16) on [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (6 days ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (1 week ago)
 - [lewiszlw/data-lake-benchmarks](https://github.com/lewiszlw/data-lake-benchmarks) -  (1 week ago)
 - [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (2 weeks ago)
 - [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (2 weeks ago)
