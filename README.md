@@ -18,8 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (today)
-- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (today)
+- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
+- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 day ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 weeks ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 weeks ago)
 - [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
