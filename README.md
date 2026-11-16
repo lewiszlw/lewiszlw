@@ -18,8 +18,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
-- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 days ago)
+- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 days ago)
+- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (3 days ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 weeks ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (2 weeks ago)
 - [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (2 weeks ago)
@@ -43,7 +43,7 @@
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (2 weeks ago)
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (1 month ago)
 - [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (1 month ago)
-- [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (1 month ago)
+- [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
