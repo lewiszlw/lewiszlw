@@ -42,7 +42,7 @@
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (2 weeks ago)
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (3 weeks ago)
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (1 month ago)
-- [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (1 month ago)
+- [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (2 months ago)
 - [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (2 months ago)
 
 #### 📜 Check out my recent blog posts
