@@ -18,11 +18,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
-- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (1 week ago)
+- [feat: add fastrace-based tracing instrumentation](https://github.com/systemxlabs/datafusion-dist/pull/97) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
+- [feat: trace a job from the request that produced it (fastrace)](https://github.com/systemxlabs/datafusion-dist/pull/96) on [systemxlabs/datafusion-dist](https://github.com/systemxlabs/datafusion-dist) (2 weeks ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/4) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (4 weeks ago)
 - [Upgrade arrow to 59, sqllogictest to 0.29.1, bump version to 0.3.0](https://github.com/systemxlabs/sqllogictest-flightsql/pull/3) on [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) (4 weeks ago)
-- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (4 weeks ago)
+- [fix(storage): write full buffers in fs output file](https://github.com/systemxlabs/indexlake/pull/236) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [refactor(catalog): key inline index segments by inline_index_id](https://github.com/systemxlabs/indexlake/pull/235) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [docs(index): note that inexact filter results are not rechecked](https://github.com/systemxlabs/indexlake/pull/234) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
 - [feat(hnsw): rewrite index with in-house graph implementation](https://github.com/systemxlabs/indexlake/pull/233) on [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) (1 month ago)
@@ -31,17 +31,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (2 weeks ago)
+- [systemxlabs/amux](https://github.com/systemxlabs/amux) - My Agentic Development Environment. (3 weeks ago)
 - [lewiszlw/data-lake-benchmarks](https://github.com/lewiszlw/data-lake-benchmarks) -  (3 weeks ago)
 - [systemxlabs/sqllogictest-flightsql](https://github.com/systemxlabs/sqllogictest-flightsql) - A sqllogictest runner for Flight SQL protocol supported databases. (4 weeks ago)
-- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (4 weeks ago)
+- [systemxlabs/indexlake](https://github.com/systemxlabs/indexlake) - An experimental table format with extensible index and inline table support. (1 month ago)
 - [lewiszlw/lewiszlw.github.io](https://github.com/lewiszlw/lewiszlw.github.io) - personal blog (1 month ago)
 
 #### ⭐ Check out my recent stars
 
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。 (3 weeks ago)
-- [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (4 weeks ago)
-- [yetone/magpie](https://github.com/yetone/magpie) - Every agent&#39;s model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (1 month ago)
+- [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. (1 month ago)
+- [yetone/magpie](https://github.com/yetone/magpie) - Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over. (1 month ago)
 - [nyssance/codex-acp-v2](https://github.com/nyssance/codex-acp-v2) - ACP v2 adapter for the latest OpenAI Codex app-server (2 months ago)
 - [watchexec/process-wrap](https://github.com/watchexec/process-wrap) - Wrap a Command, to spawn processes in a group or session or job object etc (successor to command-group) (2 months ago)
 
